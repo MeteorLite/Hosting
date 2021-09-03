@@ -40,11 +40,11 @@ jobs:
         working-directory: MeteorLite
 
       - name: Building
-        run: ./gradlew build --stacktrace -x test -x checkstyleMain
+        run: ./gradlew build --stacktrace -x test
         working-directory: MeteorLite
 
       - name: Bootstrap
-        run: ./gradlew :meteor-client:bootstrap --stacktrace -x test -x checkstyleMain --console=plain
+        run: ./gradlew :meteor-client:bootstrap --stacktrace -x test --console=plain
         working-directory: OpenOSRS
 
       - name: Copy bootstrap
