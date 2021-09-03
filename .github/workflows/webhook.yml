@@ -1,0 +1,71 @@
+name: MeteorLite - Webhook Build
+
+on: repository_dispatch
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    name: Build
+
+    steps:
+      - name: Triggered message
+        uses: appleboy/discord-action@master
+        with:
+          webhook_id: ${{ secrets.WEBHOOK_ID }}
+          webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
+          color: "#ffb347"
+          username: MeteorLite
+          message: A manual client update has been triggered
+
+      - name: Set up JDK 16
+        uses: actions/setup-java@master
+        with:
+          java-version: 16
+
+      - uses: actions/checkout@v2.3.1
+        with:
+          repository: MeteorLite/Hosting
+          ref: main
+          path: Hosting
+
+      - uses: actions/checkout@v2.3.1
+        with:
+          repository: MeteorLite/MeteorLite
+          ref: main
+          path: MeteorLite
+
+      - name: Gradle permissions
+        run: chmod +x ./gradlew
+        working-directory: MeteorLite
+
+      - name: Building
+        run: ./gradlew build --stacktrace -x test -x checkstyleMain
+        working-directory: MeteorLite
+
+      - name: Bootstrap
+        run: ./gradlew :meteor-client:bootstrap --stacktrace -x test -x checkstyleMain --console=plain
+        working-directory: OpenOSRS
+
+      - name: Copy bootstrap
+        run: cp -af /home/runner/work/hosting/hosting/MeteorLite/meteor-client/build/bootstrap/. /home/runner/work/hosting/hosting/Hosting
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v2.8.1
+        with:
+          token: ${{ secrets.METEORLITE }}
+          branch: MANUAL-UPDATE
+          title: 'bootstrap: client update release'
+          body: 'This is an auto-generated client update pull request'
+          commit-message: 'bootstrap: client update release'
+          labels: "automated-pull-request"
+          path: Hosting
+          branch-suffix: short-commit-hash
+
+      - name: Finished message
+        uses: appleboy/discord-action@master
+        with:
+          webhook_id: ${{ secrets.WEBHOOK_ID }}
+          webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
+          color: "#77dd77"
+          username: MeteorLite
+          message: Manual client update finished         
