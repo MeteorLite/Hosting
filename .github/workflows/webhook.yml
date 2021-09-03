@@ -44,8 +44,8 @@ jobs:
         working-directory: MeteorLite
 
       - name: Bootstrap
-        run: ./gradlew bootstrap --stacktrace -x test --console=plain
-        working-directory: OpenOSRS
+        run: ./gradlew :meteor-client:bootstrap --stacktrace -x test --console=plain
+        working-directory: MeteorLite
 
       - name: Copy bootstrap
         run: cp -af /home/runner/work/hosting/hosting/MeteorLite/meteor-client/build/bootstrap/. /home/runner/work/hosting/hosting/Hosting
