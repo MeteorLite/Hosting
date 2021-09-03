@@ -48,7 +48,8 @@ jobs:
         working-directory: MeteorLite
 
       - name: Copy bootstrap
-        run: cp -a /home/runner/work/hosting/hosting/MeteorLite/meteor-client/build/bootstrap/. /home/runner/work/hosting/hosting/Hosting
+        run: cp -a ./meteor-client/build/bootstrap/. ../Hosting/
+        working-directory: MeteorLite
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v2.8.1
