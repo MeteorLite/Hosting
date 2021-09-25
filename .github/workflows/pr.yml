@@ -1,29 +1,13 @@
-name: MeteorLite - PR
+name: Auto approve
 
 on:
-  pull_request:
-    types: ['opened', 'edited', 'reopened', 'synchronize']
+  pull_request_target
 
 jobs:
-  pr-lint:
-    name: PR title
+  auto-approve:
     runs-on: ubuntu-latest
-
     steps:
-      - name: PR title lint
-        if: github.event_name == 'pull_request'
-        uses: seferov/pr-lint-action@v1.1.1
-        with:
-          title-regex: '^([\w-/]+): \w+'
-
-  approve:
-    name: Approve
-    needs: pr-lint
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Approve pull request
-        if: github.event_name == 'pull_request' && github.actor == 'MeteorLite'
-        uses: hmarr/auto-approve-action@v2.0.0
-        with:
-          github-token: ${{ secrets.METEORLITE }}
+    - uses: hmarr/auto-approve-action@v2
+      if: github.actor == 'zeruth'
+      with:
+        github-token: "${{ secrets.METEORLITE }}"
