@@ -10,4 +10,4 @@ jobs:
     - uses: hmarr/auto-approve-action@v2
       if: github.actor == 'zeruth'
       with:
-        github-token: "${{ secrets.GITHUB }}"
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
