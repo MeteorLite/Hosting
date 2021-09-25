@@ -1,23 +1,32 @@
-name: MeteorLite - Auto merge
-
+name: automerge
 on:
+  pull_request:
+    types:
+      - labeled
+      - unlabeled
+      - synchronize
+      - opened
+      - edited
+      - ready_for_review
+      - reopened
+      - unlocked
   pull_request_review:
     types:
       - submitted
-
+  check_suite:
+    types:
+      - completed
+  status: {}
 jobs:
   automerge:
-    name: Auto merge
     runs-on: ubuntu-latest
-
     steps:
       - name: automerge
-        uses: pascalgn/automerge-action@main
+        uses: "pascalgn/automerge-action@main"
         env:
-          GITHUB_TOKEN: ${{ secrets.METEORLITE }}
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_FORKS: false
           MERGE_LABELS: automated-pull-request
-
   cleanup:
     name: Cleanup
     needs: automerge
@@ -32,5 +41,5 @@ jobs:
       - name: Delete PR head branch
         uses: dawidd6/action-delete-branch@master
         with:
-          github_token: ${{ secrets.METEORLITE }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branches: ${{ steps.extract_branch.outputs.branch }}
