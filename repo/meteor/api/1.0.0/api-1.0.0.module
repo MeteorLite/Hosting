@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "runelite-api",
+    "module": "api",
     "version": "1.0.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "runelite-api-1.0.0.jar",
-          "url": "runelite-api-1.0.0.jar",
-          "size": 1398197,
-          "sha512": "96c3157cb9afff342f82609be3153f05a44fa69eb0b8f52778936b69b57bcfb8f61bf55f4b90ba6baf6abe523397bfa5c0799c921b07c8310cf2a4b696032faf",
-          "sha256": "deeda7c6a543e35a173231c9aca413a52e244b9ee8260d9e52373df39db8bd66",
-          "sha1": "97ca00db6d84a42a593050006479e6fed367a986",
-          "md5": "c26db711ce21da07a0c53c9e9ca8014b"
+          "name": "api-1.0.0.jar",
+          "url": "api-1.0.0.jar",
+          "size": 1397796,
+          "sha512": "90e6cc6bc1045e0b0e08873d2a53a68e79b3f21a3e03e3f9fc97b906f9da4c5d530ccb5fa3c53e1b0233725ce90e43e7e172a657bb21465d8a873abbe066fc64",
+          "sha256": "2672979bf97ebef2a6a968a3d006b85275dbf4ffb9a0f463ab8763775270cdcf",
+          "sha1": "015985c96e8427d44db99278213314a1a14db7f1",
+          "md5": "fd65c9dbb63f3b54efc5d1e93bb5da7b"
         }
       ]
     },
@@ -103,13 +103,13 @@
       ],
       "files": [
         {
-          "name": "runelite-api-1.0.0.jar",
-          "url": "runelite-api-1.0.0.jar",
-          "size": 1398197,
-          "sha512": "96c3157cb9afff342f82609be3153f05a44fa69eb0b8f52778936b69b57bcfb8f61bf55f4b90ba6baf6abe523397bfa5c0799c921b07c8310cf2a4b696032faf",
-          "sha256": "deeda7c6a543e35a173231c9aca413a52e244b9ee8260d9e52373df39db8bd66",
-          "sha1": "97ca00db6d84a42a593050006479e6fed367a986",
-          "md5": "c26db711ce21da07a0c53c9e9ca8014b"
+          "name": "api-1.0.0.jar",
+          "url": "api-1.0.0.jar",
+          "size": 1397796,
+          "sha512": "90e6cc6bc1045e0b0e08873d2a53a68e79b3f21a3e03e3f9fc97b906f9da4c5d530ccb5fa3c53e1b0233725ce90e43e7e172a657bb21465d8a873abbe066fc64",
+          "sha256": "2672979bf97ebef2a6a968a3d006b85275dbf4ffb9a0f463ab8763775270cdcf",
+          "sha1": "015985c96e8427d44db99278213314a1a14db7f1",
+          "md5": "fd65c9dbb63f3b54efc5d1e93bb5da7b"
         }
       ]
     }

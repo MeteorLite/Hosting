@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "http-api",
+    "module": "http",
     "version": "1.0.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "http-api-1.0.0.jar",
-          "url": "http-api-1.0.0.jar",
+          "name": "http-1.0.0.jar",
+          "url": "http-1.0.0.jar",
           "size": 104390,
-          "sha512": "200edd8a1f592e5b66b4a1c88c6f2ea84f469218d4abae61a0e25265ef36a5338802f2e5a9dba63e5315bbd4d3c26c133bda4436d6d0b9723a12c5fbfc9e43c3",
-          "sha256": "fa5063732acaa81e6740d289e6b2f87d7bfbc790148cacc797c43675f8a1b5a9",
-          "sha1": "778724c5445d859b2633e57bd9aba8a9316f31ae",
-          "md5": "3280b4179b5f9c2f62b3d36796d29985"
+          "sha512": "8b351af627c8fb74f1635ce773c5e4d3a3df46effc7f60d2b43f8cd33dbf4473f49df84736759cbde58d4973ba8c010ca4a68e00d1523569897fae7e7aa37d52",
+          "sha256": "441d413104bd2b9ce1f2b50bcec29735ffe855ba269dfc5ebf7300e2b4b2753c",
+          "sha1": "770d0da8b6b2ed388d3c4c88cd896586e9faab95",
+          "md5": "776cab2ee0434dd53abea33cffde4ff5"
         }
       ]
     },
@@ -47,7 +47,7 @@
       "dependencies": [
         {
           "group": "meteor",
-          "module": "runelite-api",
+          "module": "api",
           "version": {
             "requires": "1.0.0"
           }
@@ -93,13 +93,13 @@
       ],
       "files": [
         {
-          "name": "http-api-1.0.0.jar",
-          "url": "http-api-1.0.0.jar",
+          "name": "http-1.0.0.jar",
+          "url": "http-1.0.0.jar",
           "size": 104390,
-          "sha512": "200edd8a1f592e5b66b4a1c88c6f2ea84f469218d4abae61a0e25265ef36a5338802f2e5a9dba63e5315bbd4d3c26c133bda4436d6d0b9723a12c5fbfc9e43c3",
-          "sha256": "fa5063732acaa81e6740d289e6b2f87d7bfbc790148cacc797c43675f8a1b5a9",
-          "sha1": "778724c5445d859b2633e57bd9aba8a9316f31ae",
-          "md5": "3280b4179b5f9c2f62b3d36796d29985"
+          "sha512": "8b351af627c8fb74f1635ce773c5e4d3a3df46effc7f60d2b43f8cd33dbf4473f49df84736759cbde58d4973ba8c010ca4a68e00d1523569897fae7e7aa37d52",
+          "sha256": "441d413104bd2b9ce1f2b50bcec29735ffe855ba269dfc5ebf7300e2b4b2753c",
+          "sha1": "770d0da8b6b2ed388d3c4c88cd896586e9faab95",
+          "md5": "776cab2ee0434dd53abea33cffde4ff5"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "runescape-api",
+    "module": "api-rs",
     "version": "1.0.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "runescape-api-1.0.0.jar",
-          "url": "runescape-api-1.0.0.jar",
+          "name": "api-rs-1.0.0.jar",
+          "url": "api-rs-1.0.0.jar",
           "size": 116641,
-          "sha512": "d83c0156f02b067f975ad02daeb60eea941ba9760e640edebf6b4db78b7d57e8af1c95a29dad1c9b097c7640667f115c5f20c89e5d989afa49f4a243c2ad13ea",
-          "sha256": "cff989b4326bc6b5ffbda86e4a1b26ac403e5f11d04b4f266137fb959ce7e9d0",
-          "sha1": "ac9ad9d592d7c00b2242132455d212acc2026e94",
-          "md5": "7f09f671b42f21873bd4dec28afda4a3"
+          "sha512": "9e9449623c6616b3a172fd369c8587527037376cf23a472a3f2397fd2a92e1a85d30c76c2247cf37c6ad462ae4e4981c690766b17228fd6adc58bb1a6d5e11c6",
+          "sha256": "fa7e2d4cff4d3037438617cfc07c98783e44a444e2e6a06c7032fe022e885423",
+          "sha1": "6b6d69b5e41ac455429585556af49e4a0d7754bb",
+          "md5": "77ed07b72eb931afb9b8bf7294fa15f7"
         }
       ]
     },
@@ -58,7 +58,7 @@
         },
         {
           "group": "meteor",
-          "module": "runelite-api",
+          "module": "api",
           "version": {
             "requires": "1.0.0"
           }
@@ -73,13 +73,13 @@
       ],
       "files": [
         {
-          "name": "runescape-api-1.0.0.jar",
-          "url": "runescape-api-1.0.0.jar",
+          "name": "api-rs-1.0.0.jar",
+          "url": "api-rs-1.0.0.jar",
           "size": 116641,
-          "sha512": "d83c0156f02b067f975ad02daeb60eea941ba9760e640edebf6b4db78b7d57e8af1c95a29dad1c9b097c7640667f115c5f20c89e5d989afa49f4a243c2ad13ea",
-          "sha256": "cff989b4326bc6b5ffbda86e4a1b26ac403e5f11d04b4f266137fb959ce7e9d0",
-          "sha1": "ac9ad9d592d7c00b2242132455d212acc2026e94",
-          "md5": "7f09f671b42f21873bd4dec28afda4a3"
+          "sha512": "9e9449623c6616b3a172fd369c8587527037376cf23a472a3f2397fd2a92e1a85d30c76c2247cf37c6ad462ae4e4981c690766b17228fd6adc58bb1a6d5e11c6",
+          "sha256": "fa7e2d4cff4d3037438617cfc07c98783e44a444e2e6a06c7032fe022e885423",
+          "sha1": "6b6d69b5e41ac455429585556af49e4a0d7754bb",
+          "md5": "77ed07b72eb931afb9b8bf7294fa15f7"
         }
       ]
     }
