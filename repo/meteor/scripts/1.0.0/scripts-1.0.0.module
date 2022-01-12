@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "logger",
+    "module": "scripts",
     "version": "1.0.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,24 +25,15 @@
         "org.gradle.usage": "java-api",
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
-      "dependencies": [
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.6.10"
-          }
-        }
-      ],
       "files": [
         {
-          "name": "logger-1.0.0.jar",
-          "url": "logger-1.0.0.jar",
-          "size": 8391,
-          "sha512": "4be55cc318e1c9ba5099274af6720ce6ed7f77f42140e254b03063735344c5b1c3024f8ba5a5ecf6ca3894b0feeb34cae0fa24398970fcd3770ba312a66c1407",
-          "sha256": "f6b594f87e278a66f12420d45b6ffa9539979c37e1de685d402e6a40f76ff705",
-          "sha1": "fbb7230b5e8d4d79efb460c1fd7b79b493dce01e",
-          "md5": "2bc3c22805e85aef79571e59fecc521d"
+          "name": "scripts-1.0.0.jar",
+          "url": "scripts-1.0.0.jar",
+          "size": 28990,
+          "sha512": "606e52e725151a2058290104e937ae96de89951b4e59fad39bffa781ab2d40ea59e62b7f2cad619ec13bd68f78dbb7b0a76858f5d1e3eda9175d8e0e04d9daf5",
+          "sha256": "9c4fdbc334170f83d2965b40d7f22f2e99261ef1cec72bcdadb4879d3c6a61a2",
+          "sha1": "a4715cd98d720aef3a83b9fe30dd4ef3de88c414",
+          "md5": "e0f4b20244b07a8b93af510dc39b2547"
         }
       ]
     },
@@ -68,13 +59,13 @@
       ],
       "files": [
         {
-          "name": "logger-1.0.0.jar",
-          "url": "logger-1.0.0.jar",
-          "size": 8391,
-          "sha512": "4be55cc318e1c9ba5099274af6720ce6ed7f77f42140e254b03063735344c5b1c3024f8ba5a5ecf6ca3894b0feeb34cae0fa24398970fcd3770ba312a66c1407",
-          "sha256": "f6b594f87e278a66f12420d45b6ffa9539979c37e1de685d402e6a40f76ff705",
-          "sha1": "fbb7230b5e8d4d79efb460c1fd7b79b493dce01e",
-          "md5": "2bc3c22805e85aef79571e59fecc521d"
+          "name": "scripts-1.0.0.jar",
+          "url": "scripts-1.0.0.jar",
+          "size": 28990,
+          "sha512": "606e52e725151a2058290104e937ae96de89951b4e59fad39bffa781ab2d40ea59e62b7f2cad619ec13bd68f78dbb7b0a76858f5d1e3eda9175d8e0e04d9daf5",
+          "sha256": "9c4fdbc334170f83d2965b40d7f22f2e99261ef1cec72bcdadb4879d3c6a61a2",
+          "sha1": "a4715cd98d720aef3a83b9fe30dd4ef3de88c414",
+          "md5": "e0f4b20244b07a8b93af510dc39b2547"
         }
       ]
     }
