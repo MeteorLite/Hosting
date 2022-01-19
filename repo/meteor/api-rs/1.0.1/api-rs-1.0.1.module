@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api-rs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -20,20 +20,20 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api",
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
       "files": [
         {
-          "name": "api-rs-1.0.0.jar",
-          "url": "api-rs-1.0.0.jar",
-          "size": 116641,
-          "sha512": "811eb310100aa53f58c2ca5df540370c81e6a97529117260449ffad170c7ef5efec03990b5b8a80371603ef0ceb3753fe9ec02b60118e644db0d5c9ac878a106",
-          "sha256": "3575588a090248abb06280aca40a209494002a50399bbeda2a1b03c48e283581",
-          "sha1": "8295e8f697689eee53552c291741968f3fa62a6c",
-          "md5": "4fa05aa7d79482728b7cf5c254caf3b1"
+          "name": "api-rs-1.0.1.jar",
+          "url": "api-rs-1.0.1.jar",
+          "size": 116671,
+          "sha512": "b2e4802ef7e49ee16a16d563e12872af8010dcf24f4899da32622c9584508599ac4669e6ad3c46ea6f47004e553897d79217ea870407bfdc76a1d641473d74db",
+          "sha256": "85c19800587c077b9b883b12f429da0bb35cfbdbd4a8c5b8820137eeea7759a7",
+          "sha1": "39abcd65d310dff6b5dffb45e9d27b2a33b456f9",
+          "md5": "0cdc0e206c2024e8c299f97da4df05bf"
         }
       ]
     },
@@ -43,7 +43,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -53,14 +53,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.0.0"
+            "requires": "1.0.1"
           }
         },
         {
           "group": "meteor",
           "module": "api",
           "version": {
-            "requires": "1.0.0"
+            "requires": "1.0.1"
           }
         },
         {
@@ -73,13 +73,13 @@
       ],
       "files": [
         {
-          "name": "api-rs-1.0.0.jar",
-          "url": "api-rs-1.0.0.jar",
-          "size": 116641,
-          "sha512": "811eb310100aa53f58c2ca5df540370c81e6a97529117260449ffad170c7ef5efec03990b5b8a80371603ef0ceb3753fe9ec02b60118e644db0d5c9ac878a106",
-          "sha256": "3575588a090248abb06280aca40a209494002a50399bbeda2a1b03c48e283581",
-          "sha1": "8295e8f697689eee53552c291741968f3fa62a6c",
-          "md5": "4fa05aa7d79482728b7cf5c254caf3b1"
+          "name": "api-rs-1.0.1.jar",
+          "url": "api-rs-1.0.1.jar",
+          "size": 116671,
+          "sha512": "b2e4802ef7e49ee16a16d563e12872af8010dcf24f4899da32622c9584508599ac4669e6ad3c46ea6f47004e553897d79217ea870407bfdc76a1d641473d74db",
+          "sha256": "85c19800587c077b9b883b12f429da0bb35cfbdbd4a8c5b8820137eeea7759a7",
+          "sha1": "39abcd65d310dff6b5dffb45e9d27b2a33b456f9",
+          "md5": "0cdc0e206c2024e8c299f97da4df05bf"
         }
       ]
     }

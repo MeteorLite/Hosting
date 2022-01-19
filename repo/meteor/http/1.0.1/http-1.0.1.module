@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "http",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -19,19 +19,19 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
       "files": [
         {
-          "name": "http-1.0.0.jar",
-          "url": "http-1.0.0.jar",
-          "size": 104390,
-          "sha512": "f9bb1856ed8ea22b135e3215b1ddc53e64f3e6be7f7f9138a12abb397099a783487f9c8ae553eed35802e06b11a4207f3884ef67b662c25e24dc41bccde64c34",
-          "sha256": "c15a0f48a49e1271de18fedf6fa26eeb9822c7ef4f3d09706e6a9a50b7a5a78f",
-          "sha1": "2e0db1ed47a980fc19089c0ef07eb21245676eed",
-          "md5": "473f346c0135cb0969737d9a2158fc82"
+          "name": "http-1.0.1.jar",
+          "url": "http-1.0.1.jar",
+          "size": 104389,
+          "sha512": "068324daa6a34724094ed52cbff827fe3e8dee09dc46ba64a0856c0046f1ef51e397851c72a4255f76cb694b274289b1557fd19aab1260a1c79f2f89bca89980",
+          "sha256": "ddccc293f65724d8a9c00a45b9d694c7219a6e5866a01e453041707ffac338b0",
+          "sha1": "a60174dc7a4c4d462a291e33ac882152ea73da7e",
+          "md5": "e92e89fffdcb36550b38642f71091624"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -49,14 +49,14 @@
           "group": "meteor",
           "module": "api",
           "version": {
-            "requires": "1.0.0"
+            "requires": "1.0.1"
           }
         },
         {
           "group": "meteor",
           "module": "logger",
           "version": {
-            "requires": "1.0.0"
+            "requires": "1.0.1"
           }
         },
         {
@@ -93,13 +93,13 @@
       ],
       "files": [
         {
-          "name": "http-1.0.0.jar",
-          "url": "http-1.0.0.jar",
-          "size": 104390,
-          "sha512": "f9bb1856ed8ea22b135e3215b1ddc53e64f3e6be7f7f9138a12abb397099a783487f9c8ae553eed35802e06b11a4207f3884ef67b662c25e24dc41bccde64c34",
-          "sha256": "c15a0f48a49e1271de18fedf6fa26eeb9822c7ef4f3d09706e6a9a50b7a5a78f",
-          "sha1": "2e0db1ed47a980fc19089c0ef07eb21245676eed",
-          "md5": "473f346c0135cb0969737d9a2158fc82"
+          "name": "http-1.0.1.jar",
+          "url": "http-1.0.1.jar",
+          "size": 104389,
+          "sha512": "068324daa6a34724094ed52cbff827fe3e8dee09dc46ba64a0856c0046f1ef51e397851c72a4255f76cb694b274289b1557fd19aab1260a1c79f2f89bca89980",
+          "sha256": "ddccc293f65724d8a9c00a45b9d694c7219a6e5866a01e453041707ffac338b0",
+          "sha1": "a60174dc7a4c4d462a291e33ac882152ea73da7e",
+          "md5": "e92e89fffdcb36550b38642f71091624"
         }
       ]
     }

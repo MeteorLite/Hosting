@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -20,7 +20,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "api-1.0.0.jar",
-          "url": "api-1.0.0.jar",
-          "size": 1397796,
-          "sha512": "4f945140a11e6b0d80a36850794a2617c195d4ec67eaaeacfdd36211f94e4252c62b59c664454ad7195fa4ac47dbdf420aada8cc4d507f118efcd75bc0457405",
-          "sha256": "2be118bdcba54f9f7bfb64d2e4045d3c8eb26eb4d2ace438da162fe0cb4a61d4",
-          "sha1": "05a5927dfe26944a3b7b12bcc178887cf754c8cf",
-          "md5": "ad27467fb2b113d7aab0fb208891b7ea"
+          "name": "api-1.0.1.jar",
+          "url": "api-1.0.1.jar",
+          "size": 1397864,
+          "sha512": "5d67f7360b4b88e14ecc50d3c1d61db191981cf40bf5037773f0cfd26578748cb6b6a8e71b9caae8024769b6ecbdbcd943724456b1cdecca41fc97c746fe2781",
+          "sha256": "8a40c9dd7b1785582716ddfbaec306c2b618e4d28f0b4dfbb1dfdb7b16eeea46",
+          "sha1": "ab513d9a81dbd636cee7e6cf7c3ac21e0f515e21",
+          "md5": "688d6c1c7f12f347cc50288a0fc7b403"
         }
       ]
     },
@@ -52,7 +52,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 16,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -62,14 +62,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.0.0"
+            "requires": "1.0.1"
           }
         },
         {
           "group": "meteor",
           "module": "logger",
           "version": {
-            "requires": "1.0.0"
+            "requires": "1.0.1"
           }
         },
         {
@@ -103,13 +103,13 @@
       ],
       "files": [
         {
-          "name": "api-1.0.0.jar",
-          "url": "api-1.0.0.jar",
-          "size": 1397796,
-          "sha512": "4f945140a11e6b0d80a36850794a2617c195d4ec67eaaeacfdd36211f94e4252c62b59c664454ad7195fa4ac47dbdf420aada8cc4d507f118efcd75bc0457405",
-          "sha256": "2be118bdcba54f9f7bfb64d2e4045d3c8eb26eb4d2ace438da162fe0cb4a61d4",
-          "sha1": "05a5927dfe26944a3b7b12bcc178887cf754c8cf",
-          "md5": "ad27467fb2b113d7aab0fb208891b7ea"
+          "name": "api-1.0.1.jar",
+          "url": "api-1.0.1.jar",
+          "size": 1397864,
+          "sha512": "5d67f7360b4b88e14ecc50d3c1d61db191981cf40bf5037773f0cfd26578748cb6b6a8e71b9caae8024769b6ecbdbcd943724456b1cdecca41fc97c746fe2781",
+          "sha256": "8a40c9dd7b1785582716ddfbaec306c2b618e4d28f0b4dfbb1dfdb7b16eeea46",
+          "sha1": "ab513d9a81dbd636cee7e6cf7c3ac21e0f515e21",
+          "md5": "688d6c1c7f12f347cc50288a0fc7b403"
         }
       ]
     }
