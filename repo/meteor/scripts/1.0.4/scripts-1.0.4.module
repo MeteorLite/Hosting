@@ -2,8 +2,8 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "annotations",
-    "version": "1.0.5",
+    "module": "scripts",
+    "version": "1.0.4",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "annotations-1.0.5.jar",
-          "url": "annotations-1.0.5.jar",
-          "size": 7290,
-          "sha512": "bd64121fabafd232606bcad84041373d648be6ee18cc78c527a5331b45a5b9187c2af6dd89160d9fc9f811e7e6e6b62b9466ca28272392fcce1ad49d0341393b",
-          "sha256": "fd8a9fec3f31d497fca62265c9a5d1c4c31dcc7ba511cea14293b784643c8d92",
-          "sha1": "0c7d395877c148bcc9b489a058c6220925139ec5",
-          "md5": "82023cf6d11cbffe0d1e5e2cc7742fff"
+          "name": "scripts-1.0.4.jar",
+          "url": "scripts-1.0.4.jar",
+          "size": 31295,
+          "sha512": "5d62c2d96e7bdbbe156bce7278aa1416222e592d67e09fe0edaccdd1400fedbfe616ad625aa623de5006c3b60293587af90655c21077e1d45f4857d526e01c26",
+          "sha256": "27050eaddfa7c7d0d7724f7ecc23db81db500cd22b2771cc8e0b692f4e78eefe",
+          "sha1": "7aed8f8e228d63cde6121271cac3d1aa756606f4",
+          "md5": "446f8f9f5faae2b9fe75931c8e967d8b"
         }
       ]
     },
@@ -59,13 +59,13 @@
       ],
       "files": [
         {
-          "name": "annotations-1.0.5.jar",
-          "url": "annotations-1.0.5.jar",
-          "size": 7290,
-          "sha512": "bd64121fabafd232606bcad84041373d648be6ee18cc78c527a5331b45a5b9187c2af6dd89160d9fc9f811e7e6e6b62b9466ca28272392fcce1ad49d0341393b",
-          "sha256": "fd8a9fec3f31d497fca62265c9a5d1c4c31dcc7ba511cea14293b784643c8d92",
-          "sha1": "0c7d395877c148bcc9b489a058c6220925139ec5",
-          "md5": "82023cf6d11cbffe0d1e5e2cc7742fff"
+          "name": "scripts-1.0.4.jar",
+          "url": "scripts-1.0.4.jar",
+          "size": 31295,
+          "sha512": "5d62c2d96e7bdbbe156bce7278aa1416222e592d67e09fe0edaccdd1400fedbfe616ad625aa623de5006c3b60293587af90655c21077e1d45f4857d526e01c26",
+          "sha256": "27050eaddfa7c7d0d7724f7ecc23db81db500cd22b2771cc8e0b692f4e78eefe",
+          "sha1": "7aed8f8e228d63cde6121271cac3d1aa756606f4",
+          "md5": "446f8f9f5faae2b9fe75931c8e967d8b"
         }
       ]
     }
