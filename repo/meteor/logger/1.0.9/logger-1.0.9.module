@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "logger",
+    "version": "1.0.9",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "logger-1.0.9.jar",
+          "url": "logger-1.0.9.jar",
+          "size": 8391,
+          "sha512": "d3e7e057bebd386ea2be601c27ee04c019ede994d2d0b88a6d266ded7f4cf71b0a6262015d7324a1225031e0bc6493241b3375e24e7f0b302da56688d2c41be2",
+          "sha256": "a77c798b8df380dee5bf286942288a2388b14efd68959b2fb312863c3fce7ee1",
+          "sha1": "733945f07d257ebdfa545bdff316b7c0fa981be9",
+          "md5": "e5d4f3c6b91b22a4d467c440037d5bfb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "logger-1.0.9.jar",
+          "url": "logger-1.0.9.jar",
+          "size": 8391,
+          "sha512": "d3e7e057bebd386ea2be601c27ee04c019ede994d2d0b88a6d266ded7f4cf71b0a6262015d7324a1225031e0bc6493241b3375e24e7f0b302da56688d2c41be2",
+          "sha256": "a77c798b8df380dee5bf286942288a2388b14efd68959b2fb312863c3fce7ee1",
+          "sha1": "733945f07d257ebdfa545bdff316b7c0fa981be9",
+          "md5": "e5d4f3c6b91b22a4d467c440037d5bfb"
+        }
+      ]
+    }
+  ]
+}
