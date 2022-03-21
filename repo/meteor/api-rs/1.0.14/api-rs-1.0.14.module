@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "api-rs",
+    "version": "1.0.14",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "api-rs-1.0.14.jar",
+          "url": "api-rs-1.0.14.jar",
+          "size": 117126,
+          "sha512": "c83b212a3a2b6375651e52162e003b63dc95c76b5d5f4e1a9c7164b8c88ac4d2af05f3ef96b345e2d03e1d308dabec8580841a20b7d9c16f85c1205e9f7698f8",
+          "sha256": "a5ef58378e6f2312248c7293be2be4c8c5625f606e09c7e5b23f96e4c931067b",
+          "sha1": "2dd6f5f2f0e795f351d04b2743f13926d9008884",
+          "md5": "c7d0a00092a3da699c01cde1fa8c908f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "meteor",
+          "module": "annotations",
+          "version": {
+            "requires": "1.0.14"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "api",
+          "version": {
+            "requires": "1.0.14"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "api-rs-1.0.14.jar",
+          "url": "api-rs-1.0.14.jar",
+          "size": 117126,
+          "sha512": "c83b212a3a2b6375651e52162e003b63dc95c76b5d5f4e1a9c7164b8c88ac4d2af05f3ef96b345e2d03e1d308dabec8580841a20b7d9c16f85c1205e9f7698f8",
+          "sha256": "a5ef58378e6f2312248c7293be2be4c8c5625f606e09c7e5b23f96e4c931067b",
+          "sha1": "2dd6f5f2f0e795f351d04b2743f13926d9008884",
+          "md5": "c7d0a00092a3da699c01cde1fa8c908f"
+        }
+      ]
+    }
+  ]
+}

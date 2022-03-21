@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "api-rs",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "api-rs-1.1.0.jar",
+          "url": "api-rs-1.1.0.jar",
+          "size": 118221,
+          "sha512": "3fec0be8517d713bd968de9cefe69d6875c4d9fd52fe92175b0d29b1e2d02ea206a01c3ca92e3515dc916f972b25b778b15a79d2078983a1f2a1609277e20fa2",
+          "sha256": "32ce1224da94b37e1c2118bc1e0379000933a12cd917f245f091607bef8ea51b",
+          "sha1": "10fcf2c1b9f44e1165b735a8ee6d8c475ecdb7bf",
+          "md5": "2f3d75104f539e1c2219b2cb3c6172db"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "meteor",
+          "module": "annotations",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "api",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "api-rs-1.1.0.jar",
+          "url": "api-rs-1.1.0.jar",
+          "size": 118221,
+          "sha512": "3fec0be8517d713bd968de9cefe69d6875c4d9fd52fe92175b0d29b1e2d02ea206a01c3ca92e3515dc916f972b25b778b15a79d2078983a1f2a1609277e20fa2",
+          "sha256": "32ce1224da94b37e1c2118bc1e0379000933a12cd917f245f091607bef8ea51b",
+          "sha1": "10fcf2c1b9f44e1165b735a8ee6d8c475ecdb7bf",
+          "md5": "2f3d75104f539e1c2219b2cb3c6172db"
+        }
+      ]
+    }
+  ]
+}
