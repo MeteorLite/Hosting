@@ -2,8 +2,8 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "scripts",
-    "version": "1.1.4",
+    "module": "annotations",
+    "version": "1.1.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "scripts-1.1.4.jar",
-          "url": "scripts-1.1.4.jar",
-          "size": 31053,
-          "sha512": "1beb642f784e227ee2eed98f869addeceec7cb7bfce09176f6fd74cb5d3a3d4f72a27698b21ce89a6580b97b4ac4d07d646b32579a7531a58599a6b744fb601c",
-          "sha256": "b26b230a5059f0781532b124ece6ece7137fe89e0c2efb358cc6e23de52e15f9",
-          "sha1": "0fd80fd7c60d3f581ff6782d855708b18b407086",
-          "md5": "841343abdaad64a00feb69fbd2f4cdc9"
+          "name": "annotations-1.1.5.jar",
+          "url": "annotations-1.1.5.jar",
+          "size": 7290,
+          "sha512": "d0ba7f3c7384dec15e1209ed9082fd06c095df854aadc86772643e64684424ff4f0847b785d8d5ee37083ddd86dc7d3ce2d3510aa7976f0398e9dae9fdd74f44",
+          "sha256": "96e0091a5b4b721bde4f921eea9761c07ad9767bcf126727cf338740fbd8fddf",
+          "sha1": "2d11f1353c85e05ef129c4acb052eb7714ab13ae",
+          "md5": "d79b91105ad2f29c1ced37a956a6a727"
         }
       ]
     },
@@ -55,24 +55,17 @@
           "version": {
             "requires": "1.6.10"
           }
-        },
-        {
-          "group": "org.jetbrains",
-          "module": "annotations",
-          "version": {
-            "requires": "23.0.0"
-          }
         }
       ],
       "files": [
         {
-          "name": "scripts-1.1.4.jar",
-          "url": "scripts-1.1.4.jar",
-          "size": 31053,
-          "sha512": "1beb642f784e227ee2eed98f869addeceec7cb7bfce09176f6fd74cb5d3a3d4f72a27698b21ce89a6580b97b4ac4d07d646b32579a7531a58599a6b744fb601c",
-          "sha256": "b26b230a5059f0781532b124ece6ece7137fe89e0c2efb358cc6e23de52e15f9",
-          "sha1": "0fd80fd7c60d3f581ff6782d855708b18b407086",
-          "md5": "841343abdaad64a00feb69fbd2f4cdc9"
+          "name": "annotations-1.1.5.jar",
+          "url": "annotations-1.1.5.jar",
+          "size": 7290,
+          "sha512": "d0ba7f3c7384dec15e1209ed9082fd06c095df854aadc86772643e64684424ff4f0847b785d8d5ee37083ddd86dc7d3ce2d3510aa7976f0398e9dae9fdd74f44",
+          "sha256": "96e0091a5b4b721bde4f921eea9761c07ad9767bcf126727cf338740fbd8fddf",
+          "sha1": "2d11f1353c85e05ef129c4acb052eb7714ab13ae",
+          "md5": "d79b91105ad2f29c1ced37a956a6a727"
         }
       ]
     }

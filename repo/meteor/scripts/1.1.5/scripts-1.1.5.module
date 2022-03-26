@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "scripts",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,8 +27,8 @@
       },
       "files": [
         {
-          "name": "scripts-1.1.4.jar",
-          "url": "scripts-1.1.4.jar",
+          "name": "scripts-1.1.5.jar",
+          "url": "scripts-1.1.5.jar",
           "size": 31053,
           "sha512": "1beb642f784e227ee2eed98f869addeceec7cb7bfce09176f6fd74cb5d3a3d4f72a27698b21ce89a6580b97b4ac4d07d646b32579a7531a58599a6b744fb601c",
           "sha256": "b26b230a5059f0781532b124ece6ece7137fe89e0c2efb358cc6e23de52e15f9",
@@ -66,8 +66,8 @@
       ],
       "files": [
         {
-          "name": "scripts-1.1.4.jar",
-          "url": "scripts-1.1.4.jar",
+          "name": "scripts-1.1.5.jar",
+          "url": "scripts-1.1.5.jar",
           "size": 31053,
           "sha512": "1beb642f784e227ee2eed98f869addeceec7cb7bfce09176f6fd74cb5d3a3d4f72a27698b21ce89a6580b97b4ac4d07d646b32579a7531a58599a6b744fb601c",
           "sha256": "b26b230a5059f0781532b124ece6ece7137fe89e0c2efb358cc6e23de52e15f9",
