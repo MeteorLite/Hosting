@@ -3,7 +3,7 @@
   "component": {
     "group": "org.rationalityfrontline",
     "module": "kevent",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -34,13 +34,13 @@
       ],
       "files": [
         {
-          "name": "kevent-2.1.1.jar",
-          "url": "kevent-2.1.1.jar",
-          "size": 51463,
-          "sha512": "4f6cbf924c3b936f1e4f40d7ba2d7601596d806d334333963207399e616dc6c5f611baec73a18eca6c4679754bf0647e248dda302646d9a7e29f887d5be505da",
-          "sha256": "d3cd6c8821e222f41de5f6efa4656224e651c46f0551b43835349f185cb3e9c9",
-          "sha1": "266071d205408718aa632aac36fb275846976b83",
-          "md5": "7067e37047d63ef72e9ff8dae7cdbc74"
+          "name": "kevent-2.1.2.jar",
+          "url": "kevent-2.1.2.jar",
+          "size": 53023,
+          "sha512": "19054233e2de419bdc6a0e25f1adbdcb11798bb2f074e055a90c534f6df2b7df22daca20db19a6f62e138ddc7eb3cc408cffeb25ff541ed7796c4bc551caf3af",
+          "sha256": "470de2e0341bc17197da11baf175094f7fac8a10b02612d594dddf5b99cacde3",
+          "sha1": "e42a373d6637979fd8c47744b5e4c5ad82ffee16",
+          "md5": "e8250431d527abd9230bc888627a19bb"
         }
       ]
     },
@@ -78,13 +78,13 @@
       ],
       "files": [
         {
-          "name": "kevent-2.1.1.jar",
-          "url": "kevent-2.1.1.jar",
-          "size": 51463,
-          "sha512": "4f6cbf924c3b936f1e4f40d7ba2d7601596d806d334333963207399e616dc6c5f611baec73a18eca6c4679754bf0647e248dda302646d9a7e29f887d5be505da",
-          "sha256": "d3cd6c8821e222f41de5f6efa4656224e651c46f0551b43835349f185cb3e9c9",
-          "sha1": "266071d205408718aa632aac36fb275846976b83",
-          "md5": "7067e37047d63ef72e9ff8dae7cdbc74"
+          "name": "kevent-2.1.2.jar",
+          "url": "kevent-2.1.2.jar",
+          "size": 53023,
+          "sha512": "19054233e2de419bdc6a0e25f1adbdcb11798bb2f074e055a90c534f6df2b7df22daca20db19a6f62e138ddc7eb3cc408cffeb25ff541ed7796c4bc551caf3af",
+          "sha256": "470de2e0341bc17197da11baf175094f7fac8a10b02612d594dddf5b99cacde3",
+          "sha1": "e42a373d6637979fd8c47744b5e4c5ad82ffee16",
+          "md5": "e8250431d527abd9230bc888627a19bb"
         }
       ]
     }
