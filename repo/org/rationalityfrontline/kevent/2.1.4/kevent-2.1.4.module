@@ -1,0 +1,92 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.rationalityfrontline",
+    "module": "kevent",
+    "version": "2.1.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "kevent-2.1.4.jar",
+          "url": "kevent-2.1.4.jar",
+          "size": 52665,
+          "sha512": "04818a1caf365297333dc02aef52a7bd0086d1f1c9d3a540940d114603d92fab2354fe3f60dbdd05bcce3b1ce0a62bb1e28ca23327c77a9d6d99d17272fa724f",
+          "sha256": "82b9fb179feaa6a89b9fe3c8a5365134d8654d32ca3b1d65d9c7732e166c9c33",
+          "sha1": "ec7b69d2911660c457becf412aa5f0112fdbe4c0",
+          "md5": "df5d6ebb2fc3e60d8417ec936fc8e630"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core-jvm",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "io.github.microutils",
+          "module": "kotlin-logging",
+          "version": {
+            "requires": "2.1.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "kevent-2.1.4.jar",
+          "url": "kevent-2.1.4.jar",
+          "size": 52665,
+          "sha512": "04818a1caf365297333dc02aef52a7bd0086d1f1c9d3a540940d114603d92fab2354fe3f60dbdd05bcce3b1ce0a62bb1e28ca23327c77a9d6d99d17272fa724f",
+          "sha256": "82b9fb179feaa6a89b9fe3c8a5365134d8654d32ca3b1d65d9c7732e166c9c33",
+          "sha1": "ec7b69d2911660c457becf412aa5f0112fdbe4c0",
+          "md5": "df5d6ebb2fc3e60d8417ec936fc8e630"
+        }
+      ]
+    }
+  ]
+}

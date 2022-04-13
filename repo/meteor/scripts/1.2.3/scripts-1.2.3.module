@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "scripts",
+    "version": "1.2.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "scripts-1.2.3.jar",
+          "url": "scripts-1.2.3.jar",
+          "size": 31053,
+          "sha512": "6eaeb0fea7e0a29bd6810ef3cf98502d7bc58f7f0715f1d223388616cf63cee753c926c88d87c37fb462b320c6c112cd725e565b80e59a860a5b1a970e4a916c",
+          "sha256": "1aca31cee48e7d643aa90a989bf2889aae389f4f56bf2b5a3bcd8e3e2b63d292",
+          "sha1": "66c381620f9c31cdda168fa0728902284fb8fe9d",
+          "md5": "5c7323e4072627262ed47d6c48ab2621"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "23.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "scripts-1.2.3.jar",
+          "url": "scripts-1.2.3.jar",
+          "size": 31053,
+          "sha512": "6eaeb0fea7e0a29bd6810ef3cf98502d7bc58f7f0715f1d223388616cf63cee753c926c88d87c37fb462b320c6c112cd725e565b80e59a860a5b1a970e4a916c",
+          "sha256": "1aca31cee48e7d643aa90a989bf2889aae389f4f56bf2b5a3bcd8e3e2b63d292",
+          "sha1": "66c381620f9c31cdda168fa0728902284fb8fe9d",
+          "md5": "5c7323e4072627262ed47d6c48ab2621"
+        }
+      ]
+    }
+  ]
+}
