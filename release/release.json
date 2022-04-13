@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3-1",
+  "version": "1.2.3-1.1",
   "updateInfo": "Don\u0027t be a bitch, try Meteor today!",
   "files": [
     {
@@ -303,14 +303,14 @@
       "hash": "C446B4C24CEA9D912CA797DF41B2BD25EF8FACC7A42F447EAFC48C403EE2B392"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.2.3-r1-29dcfbad4f70fc5d549d57b59faad18.jar",
+      "name": "meteor-client\\app\\meteor-client-1.2.3-r1-719dae23a7db923f1347447007e60a.jar",
       "size": 4924782,
-      "hash": "CAA6224F641FAB67155B2145E821FECA72E80C0313A3D526A2965E05BE971BD5"
+      "hash": "A6A3D555036D2C56DE156752BADDEFB4B1B31493685A26457B3BD79DBD6C50A9"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7579,
-      "hash": "1BC224A3ED2921CF25E3EF49F6A4EE48E765F4DC718023AF541CE78F47A8CE92"
+      "size": 7577,
+      "hash": "382BD9DC5550DD601EF2BEFC86581BA8608C28A4B9B74FEC8074785C79BE32CB"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
