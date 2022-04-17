@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3-1.1",
-  "updateInfo": "Don\u0027t be a bitch, try Meteor today!",
+  "version": "1.2.3-2",
+  "updateInfo": "Panels n Buttons",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 200,
-      "hash": "A773FC127AC3BAAFA711DB194F11ABA0E9C8D7D2CA850AD1502B224B04726ABC"
+      "hash": "E753D41CF6DAAC63D81C17A5386FA3AE58EFEBB262B6795EA86EA14D305C6918"
     },
     {
       "name": "meteor-client\\app\\animation-core-desktop-1.2.0-alpha01-dev659-2a259d1a3eff96aa14ceb8a1df93cf1.jar",
@@ -303,14 +303,14 @@
       "hash": "C446B4C24CEA9D912CA797DF41B2BD25EF8FACC7A42F447EAFC48C403EE2B392"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.2.3-r1-719dae23a7db923f1347447007e60a.jar",
-      "size": 4924782,
-      "hash": "A6A3D555036D2C56DE156752BADDEFB4B1B31493685A26457B3BD79DBD6C50A9"
+      "name": "meteor-client\\app\\meteor-client-1.2.3-r2-2c9dcecabdc163857ee3506da56a80e9.jar",
+      "size": 7447775,
+      "hash": "E9B27727D3E34A252D1853EA32C4881642C4CD5D4EF03BB0C4C09BE71A577428"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7577,
-      "hash": "382BD9DC5550DD601EF2BEFC86581BA8608C28A4B9B74FEC8074785C79BE32CB"
+      "size": 7581,
+      "hash": "7281FB3CEB23299E6E9F17E8EBF900109B72FCE8E1FE64B8E27B360A54F27879"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -420,7 +420,7 @@
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "7B80C6E425282191891CF7E2515EAFEECFB9C547B83E96CBC6B837D9CE4DD01C"
+      "hash": "8C2ED7A05B257F2A6E635CFEE2D10519AEC446DBBBA0CB2FE32EEFA4377ED7C3"
     },
     {
       "name": "meteor-client\\meteor-client.ico",
