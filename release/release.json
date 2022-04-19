@@ -1,19 +1,19 @@
 {
-  "version": "1.2.3-2",
-  "updateInfo": "Panels n Buttons",
+  "version": "1.2.3-3",
+  "updateInfo": "ZGC, Events, and The Unethical Cuckening",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 200,
-      "hash": "E753D41CF6DAAC63D81C17A5386FA3AE58EFEBB262B6795EA86EA14D305C6918"
+      "hash": "8E1EB43D811A194BE720E77F73B685E7DE5D8BD7D25C6A9788D639748376764D"
     },
     {
-      "name": "meteor-client\\app\\animation-core-desktop-1.2.0-alpha01-dev659-2a259d1a3eff96aa14ceb8a1df93cf1.jar",
+      "name": "meteor-client\\app\\animation-core-desktop-1.2.0-alpha01-dev662-2a259d1a3eff96aa14ceb8a1df93cf1.jar",
       "size": 304693,
       "hash": "694BA572E19EAE2BF43C34AA2F7118A717A88E1F30075DE5991D08B4ACA42B67"
     },
     {
-      "name": "meteor-client\\app\\animation-desktop-1.2.0-alpha01-dev659-a23ed64441482b988e742db11eee87a.jar",
+      "name": "meteor-client\\app\\animation-desktop-1.2.0-alpha01-dev662-a23ed64441482b988e742db11eee87a.jar",
       "size": 278301,
       "hash": "E2414E3BA8EE08E7BDE6768C4BBCA6B206DD13326051CA50DD91C5031404722D"
     },
@@ -73,7 +73,7 @@
       "hash": "0812F284AC5DD0D617461D9A2AB6AC6811137F25122DFFFD4788A4871E732D00"
     },
     {
-      "name": "meteor-client\\app\\desktop-jvm-1.2.0-alpha01-dev659-c02e48d3c62f3fa1f9b9e1285a2e65.jar",
+      "name": "meteor-client\\app\\desktop-jvm-1.2.0-alpha01-dev662-c02e48d3c62f3fa1f9b9e1285a2e65.jar",
       "size": 7679,
       "hash": "3B2D201859109060444668199CE4BF6B01242A192DAE328BE5F0AEFBF0A9D844"
     },
@@ -108,12 +108,12 @@
       "hash": "E5D0F5C217BCA0DFDBC41D8F0C87137A7278BEAF9DE58BFFCF1667A5CAD6CD6F"
     },
     {
-      "name": "meteor-client\\app\\foundation-desktop-1.2.0-alpha01-dev659-372ba38f6ad477df5455097e5306442.jar",
+      "name": "meteor-client\\app\\foundation-desktop-1.2.0-alpha01-dev662-372ba38f6ad477df5455097e5306442.jar",
       "size": 2057484,
       "hash": "7C938FFACF881F9179212BECE8B473F261D90714880230C2F9C5B6E8FEE1C053"
     },
     {
-      "name": "meteor-client\\app\\foundation-layout-desktop-1.2.0-alpha01-dev659-d143e488b4833324a25a225cd7efbbf.jar",
+      "name": "meteor-client\\app\\foundation-layout-desktop-1.2.0-alpha01-dev662-d143e488b4833324a25a225cd7efbbf.jar",
       "size": 423771,
       "hash": "B0B093750E0C7C0FF7D131AA63B0F59E3D10F825EC702B0D57443C2E7EBD8D37"
     },
@@ -288,29 +288,29 @@
       "hash": "7E5956BD061295967FBFBA8590EBFB254BA326EF5572C678334ABF42801DFC3C"
     },
     {
-      "name": "meteor-client\\app\\material-desktop-1.2.0-alpha01-dev659-ef85b384615eb3ebf94ee9835fb256a7.jar",
+      "name": "meteor-client\\app\\material-desktop-1.2.0-alpha01-dev662-ef85b384615eb3ebf94ee9835fb256a7.jar",
       "size": 1533346,
       "hash": "E8C7278685D416C3CF3A03695B98DB927DC83D98E4F88EB5336CA5C088FC6B12"
     },
     {
-      "name": "meteor-client\\app\\material-icons-core-desktop-1.2.0-alpha01-dev659-6d5884e9cf8c83fe8f4940c2da1d19.jar",
+      "name": "meteor-client\\app\\material-icons-core-desktop-1.2.0-alpha01-dev662-6d5884e9cf8c83fe8f4940c2da1d19.jar",
       "size": 711822,
       "hash": "2EEDDA3D298B1BF9F8CEBC76E7D906FEBE4926FDB4AC0AC9CF7876345AFFAED2"
     },
     {
-      "name": "meteor-client\\app\\material-ripple-desktop-1.2.0-alpha01-dev659-fe84099bf4351f81a6fb484867d6cf.jar",
+      "name": "meteor-client\\app\\material-ripple-desktop-1.2.0-alpha01-dev662-fe84099bf4351f81a6fb484867d6cf.jar",
       "size": 53319,
       "hash": "C446B4C24CEA9D912CA797DF41B2BD25EF8FACC7A42F447EAFC48C403EE2B392"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.2.3-r2-2c9dcecabdc163857ee3506da56a80e9.jar",
-      "size": 7447775,
-      "hash": "E9B27727D3E34A252D1853EA32C4881642C4CD5D4EF03BB0C4C09BE71A577428"
+      "name": "meteor-client\\app\\meteor-client-1.2.3-r3-e2c94885329eb888abdb2f8d15f0e21f.jar",
+      "size": 8140203,
+      "hash": "481012A08DB4FF99FD5070567BC352F113100081F44287F45A8B21B2B161EEDC"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7581,
-      "hash": "7281FB3CEB23299E6E9F17E8EBF900109B72FCE8E1FE64B8E27B360A54F27879"
+      "size": 7654,
+      "hash": "99AD717D19C86832FF103888CB25255EF883776D674E15132556E735344C705F"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -328,12 +328,12 @@
       "hash": "BFE7DFE483C37137966A1690F0C7D0B448BA217902C1FED202AAFFDBBA3291AE"
     },
     {
-      "name": "meteor-client\\app\\runtime-desktop-1.2.0-alpha01-dev659-b2eaa1e56d775e5e444ef7010e7b647.jar",
+      "name": "meteor-client\\app\\runtime-desktop-1.2.0-alpha01-dev662-b2eaa1e56d775e5e444ef7010e7b647.jar",
       "size": 999921,
       "hash": "E9488C51555D0A3CF1AEA95193247BC5A8738D6E2FAF271C28B8F637BF820FA9"
     },
     {
-      "name": "meteor-client\\app\\runtime-saveable-desktop-1.2.0-alpha01-dev659-4dfa9f53c047f2d0e24b4cc1871cd6bc.jar",
+      "name": "meteor-client\\app\\runtime-saveable-desktop-1.2.0-alpha01-dev662-4dfa9f53c047f2d0e24b4cc1871cd6bc.jar",
       "size": 52411,
       "hash": "E73C11AA5BEB64E07DF283A6AA46A8FD2A5A350E03151AF2DB7BF60667C21891"
     },
@@ -383,44 +383,44 @@
       "hash": "CBB67BDE385AB1C1E9832F54912982C69FC60C81C244835D07F43CA4E4610EB0"
     },
     {
-      "name": "meteor-client\\app\\ui-desktop-1.2.0-alpha01-dev659-9a7b9a1019e17ce81b8b58866a40401a.jar",
+      "name": "meteor-client\\app\\ui-desktop-1.2.0-alpha01-dev662-9a7b9a1019e17ce81b8b58866a40401a.jar",
       "size": 2020993,
       "hash": "8C69C75965BD1A8D61A2FC0AD353EC3B79E5B79D759BB9355EC06181A27B64C2"
     },
     {
-      "name": "meteor-client\\app\\ui-geometry-desktop-1.2.0-alpha01-dev659-47436fe57182a77d309597e97bf6431.jar",
+      "name": "meteor-client\\app\\ui-geometry-desktop-1.2.0-alpha01-dev662-47436fe57182a77d309597e97bf6431.jar",
       "size": 37852,
       "hash": "632AA0C13652A0C37C6DD4C522590CCAFD4145B665C563A5CBD3F7E142FC4213"
     },
     {
-      "name": "meteor-client\\app\\ui-graphics-desktop-1.2.0-alpha01-dev659-7ed4f21780f9c9fbb6ffe392dfccb8.jar",
+      "name": "meteor-client\\app\\ui-graphics-desktop-1.2.0-alpha01-dev662-7ed4f21780f9c9fbb6ffe392dfccb8.jar",
       "size": 395811,
       "hash": "9EC71CCBD925543E6D102DDF225B00297A3406DBFC26134E0F6617E887B95666"
     },
     {
-      "name": "meteor-client\\app\\ui-text-desktop-1.2.0-alpha01-dev659-dde7548332635b6619fd2b34ced.jar",
+      "name": "meteor-client\\app\\ui-text-desktop-1.2.0-alpha01-dev662-dde7548332635b6619fd2b34ced.jar",
       "size": 525272,
       "hash": "947A4D3F7C6BEAD08EECE7FE1BCE041BD70C129EAA7F24A4AA38160B145A135B"
     },
     {
-      "name": "meteor-client\\app\\ui-tooling-preview-desktop-1.2.0-alpha01-dev659-597f98f6b3c92d798357a1163f7e8d0.jar",
+      "name": "meteor-client\\app\\ui-tooling-preview-desktop-1.2.0-alpha01-dev662-597f98f6b3c92d798357a1163f7e8d0.jar",
       "size": 1863,
       "hash": "DB49FF56ACF0A3C0F3062ED744C0CD3498DEDF8A2785FE91CC6D6A64BFD4B99A"
     },
     {
-      "name": "meteor-client\\app\\ui-unit-desktop-1.2.0-alpha01-dev659-461d5a49a89f5d2a6949f9f24d29597.jar",
+      "name": "meteor-client\\app\\ui-unit-desktop-1.2.0-alpha01-dev662-461d5a49a89f5d2a6949f9f24d29597.jar",
       "size": 66774,
       "hash": "1E08C94ED2DEC7C5AE40799E41D4ED9EDB69ABF7C3A731636BD54D23960DC0DD"
     },
     {
-      "name": "meteor-client\\app\\ui-util-desktop-1.2.0-alpha01-dev659-614de32fa765806ea805778a966cd87.jar",
+      "name": "meteor-client\\app\\ui-util-desktop-1.2.0-alpha01-dev662-614de32fa765806ea805778a966cd87.jar",
       "size": 5920,
       "hash": "CAFD8AF7FAA07E00BFACCDC15CF286F1768A64A0064CF754BC497CC4876BB6DE"
     },
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "8C2ED7A05B257F2A6E635CFEE2D10519AEC446DBBBA0CB2FE32EEFA4377ED7C3"
+      "hash": "0DC4CB0C805A3696555BE09274DC73CBCA8824A974B694E0E41480C4119ECF0F"
     },
     {
       "name": "meteor-client\\meteor-client.ico",
