@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3-4",
-  "updateInfo": "small potatoes",
+  "version": "1.2.3-5",
+  "updateInfo": "fucking tileman",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 200,
-      "hash": "47C37EF8CC48BA9ACEED0CEEABF15D72DB89645A252AEA7347C164198BC837B9"
+      "hash": "9F0881BA444ED9F26BDB49C52819761744925980A0BEC487674DA3E5918ECD48"
     },
     {
       "name": "meteor-client\\app\\animation-core-desktop-1.2.0-alpha01-dev662-2a259d1a3eff96aa14ceb8a1df93cf1.jar",
@@ -303,14 +303,14 @@
       "hash": "C446B4C24CEA9D912CA797DF41B2BD25EF8FACC7A42F447EAFC48C403EE2B392"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.2.3-r4-c6b575b2782e3a8096c066c89bb358bb.jar",
-      "size": 8140369,
-      "hash": "5C0A660F4A8BAEF738B98FE140674CFBFFAB6F47F885E5966242EE86A4A4A8B8"
+      "name": "meteor-client\\app\\meteor-client-1.2.3-r5-6b76471bbabaf46b1c44e6c8d9be61.jar",
+      "size": 8140469,
+      "hash": "46D150B677AEAE0443FD72E0D58281A1D47E0E4F2EC988239DC7A1027BE5009E"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7654,
-      "hash": "1EB8122A0D1019D99F92FD386435DC2F3B97D9DA2E3F6E67BB998C60AB80D346"
+      "size": 7650,
+      "hash": "C4E5318CFC90EBEB453EAE9A2A5C92E339F144BBE3249DA7E201126A2549B490"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -420,7 +420,7 @@
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "BC9506DF00089BCFE603F1A6EC3E653D8A9CDDC7ACFB55E7BB4DC4AE26030314"
+      "hash": "081D676F633E9954E7A5F9F916F6ADF2B075C17B6A67512546E05D196FF84F2D"
     },
     {
       "name": "meteor-client\\meteor-client.ico",
