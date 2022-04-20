@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3-3",
-  "updateInfo": "ZGC, Events, and The Unethical Cuckening",
+  "version": "1.2.3-4",
+  "updateInfo": "small potatoes",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 200,
-      "hash": "8E1EB43D811A194BE720E77F73B685E7DE5D8BD7D25C6A9788D639748376764D"
+      "hash": "47C37EF8CC48BA9ACEED0CEEABF15D72DB89645A252AEA7347C164198BC837B9"
     },
     {
       "name": "meteor-client\\app\\animation-core-desktop-1.2.0-alpha01-dev662-2a259d1a3eff96aa14ceb8a1df93cf1.jar",
@@ -303,14 +303,14 @@
       "hash": "C446B4C24CEA9D912CA797DF41B2BD25EF8FACC7A42F447EAFC48C403EE2B392"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.2.3-r3-e2c94885329eb888abdb2f8d15f0e21f.jar",
-      "size": 8140203,
-      "hash": "481012A08DB4FF99FD5070567BC352F113100081F44287F45A8B21B2B161EEDC"
+      "name": "meteor-client\\app\\meteor-client-1.2.3-r4-c6b575b2782e3a8096c066c89bb358bb.jar",
+      "size": 8140369,
+      "hash": "5C0A660F4A8BAEF738B98FE140674CFBFFAB6F47F885E5966242EE86A4A4A8B8"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
       "size": 7654,
-      "hash": "99AD717D19C86832FF103888CB25255EF883776D674E15132556E735344C705F"
+      "hash": "1EB8122A0D1019D99F92FD386435DC2F3B97D9DA2E3F6E67BB998C60AB80D346"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -420,7 +420,7 @@
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "0DC4CB0C805A3696555BE09274DC73CBCA8824A974B694E0E41480C4119ECF0F"
+      "hash": "BC9506DF00089BCFE603F1A6EC3E653D8A9CDDC7ACFB55E7BB4DC4AE26030314"
     },
     {
       "name": "meteor-client\\meteor-client.ico",
