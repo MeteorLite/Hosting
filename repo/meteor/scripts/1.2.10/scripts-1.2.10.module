@@ -30,10 +30,10 @@
           "name": "scripts-1.2.10.jar",
           "url": "scripts-1.2.10.jar",
           "size": 31877,
-          "sha512": "17976cb1e286f971f6b2636b9acd248b30bafa2b7706e5fc9c4dec133e44bcfae9e78b1f81139fa5ae13f59d9ad34309ddf8438ce7ce83ba102110c973fa3b47",
-          "sha256": "3b5ebb4a8045f8df5db97fda18f9e0acc59ad3017cafe523c8e7fc2f43229fb7",
-          "sha1": "34a286333f737e902c38c0b3742d38d3934f24c5",
-          "md5": "c8195a3e8dbde50bd90dfe3ec5b072f2"
+          "sha512": "0584433eaff74196e6479a2a5b886e552d9a92c25376fdea52f7806bf0afc3132c5fde3e8f505cf27fe2204127f90bf4ed98c8ef1093a22e77bac21e86fd06c5",
+          "sha256": "f50f7f8c058c001a3ae88cbf3244adece6b2dfdb0ce3f21d502cd21ed8c723b5",
+          "sha1": "7ee0cb1c5e8a7c76c31df04291d01cdaf647546a",
+          "md5": "67923c812931ce7a351364ede7315cf2"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "scripts-1.2.10.jar",
           "url": "scripts-1.2.10.jar",
           "size": 31877,
-          "sha512": "17976cb1e286f971f6b2636b9acd248b30bafa2b7706e5fc9c4dec133e44bcfae9e78b1f81139fa5ae13f59d9ad34309ddf8438ce7ce83ba102110c973fa3b47",
-          "sha256": "3b5ebb4a8045f8df5db97fda18f9e0acc59ad3017cafe523c8e7fc2f43229fb7",
-          "sha1": "34a286333f737e902c38c0b3742d38d3934f24c5",
-          "md5": "c8195a3e8dbde50bd90dfe3ec5b072f2"
+          "sha512": "0584433eaff74196e6479a2a5b886e552d9a92c25376fdea52f7806bf0afc3132c5fde3e8f505cf27fe2204127f90bf4ed98c8ef1093a22e77bac21e86fd06c5",
+          "sha256": "f50f7f8c058c001a3ae88cbf3244adece6b2dfdb0ce3f21d502cd21ed8c723b5",
+          "sha1": "7ee0cb1c5e8a7c76c31df04291d01cdaf647546a",
+          "md5": "67923c812931ce7a351364ede7315cf2"
         }
       ]
     }

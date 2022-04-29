@@ -28,10 +28,10 @@
           "name": "http-1.2.10.jar",
           "url": "http-1.2.10.jar",
           "size": 104409,
-          "sha512": "887400673cfb92b045c5c6caa9e5afea452ad0b4e63ba6c38c358b926cda220a8f0cdd15aa30c3ac713d566a76b4151daa18f113e45255462a793dac9640e122",
-          "sha256": "8ebb5ecf6845e9ade01cf3df7b7acdba1155f12d94433bfb9ef1a9b5e6c435a4",
-          "sha1": "24e582f660d0b65a69b9fa8cf4ac051ef4728ec0",
-          "md5": "90046ee16a00f524bf3a88a9454ebcc6"
+          "sha512": "5997100709953aaceb4cc61c880b6ddce3298bd08162aeec558fad988cff1ceb8a2da290c2372d51a0076446fdf61bf89c8bdb7b33556c975cfd311f2910a834",
+          "sha256": "72eb96dea5019c17a28b5c6931932eb63e17bac61f34d034d087b32595379e44",
+          "sha1": "97a50c5055461b1a5a8afc273e7ff1de950e6d1a",
+          "md5": "76c9178686348b304df3acb3cf94ea6d"
         }
       ]
     },
@@ -96,10 +96,10 @@
           "name": "http-1.2.10.jar",
           "url": "http-1.2.10.jar",
           "size": 104409,
-          "sha512": "887400673cfb92b045c5c6caa9e5afea452ad0b4e63ba6c38c358b926cda220a8f0cdd15aa30c3ac713d566a76b4151daa18f113e45255462a793dac9640e122",
-          "sha256": "8ebb5ecf6845e9ade01cf3df7b7acdba1155f12d94433bfb9ef1a9b5e6c435a4",
-          "sha1": "24e582f660d0b65a69b9fa8cf4ac051ef4728ec0",
-          "md5": "90046ee16a00f524bf3a88a9454ebcc6"
+          "sha512": "5997100709953aaceb4cc61c880b6ddce3298bd08162aeec558fad988cff1ceb8a2da290c2372d51a0076446fdf61bf89c8bdb7b33556c975cfd311f2910a834",
+          "sha256": "72eb96dea5019c17a28b5c6931932eb63e17bac61f34d034d087b32595379e44",
+          "sha1": "97a50c5055461b1a5a8afc273e7ff1de950e6d1a",
+          "md5": "76c9178686348b304df3acb3cf94ea6d"
         }
       ]
     }
