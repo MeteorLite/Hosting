@@ -27,11 +27,11 @@
         {
           "name": "http-1.2.11.jar",
           "url": "http-1.2.11.jar",
-          "size": 104409,
-          "sha512": "5997100709953aaceb4cc61c880b6ddce3298bd08162aeec558fad988cff1ceb8a2da290c2372d51a0076446fdf61bf89c8bdb7b33556c975cfd311f2910a834",
-          "sha256": "72eb96dea5019c17a28b5c6931932eb63e17bac61f34d034d087b32595379e44",
-          "sha1": "97a50c5055461b1a5a8afc273e7ff1de950e6d1a",
-          "md5": "76c9178686348b304df3acb3cf94ea6d"
+          "size": 104410,
+          "sha512": "a110e316da9c2731c04a6e591b42f1df17e196b6711924859b575927623f589b4d6ed529fdce5aee6adc2be0001c39e15069dc3ca29b25f139242c4c4078bf68",
+          "sha256": "a32b1fe1dcbd5496810c7f15fddb1f86493fa9d392ed4dfac012e444c8ad6d9b",
+          "sha1": "ace6e549ff5c568116bebed3c5955fb2d8825c93",
+          "md5": "ef2a2d8e59e9a840ff4d577349d27643"
         }
       ]
     },
@@ -95,11 +95,11 @@
         {
           "name": "http-1.2.11.jar",
           "url": "http-1.2.11.jar",
-          "size": 104409,
-          "sha512": "5997100709953aaceb4cc61c880b6ddce3298bd08162aeec558fad988cff1ceb8a2da290c2372d51a0076446fdf61bf89c8bdb7b33556c975cfd311f2910a834",
-          "sha256": "72eb96dea5019c17a28b5c6931932eb63e17bac61f34d034d087b32595379e44",
-          "sha1": "97a50c5055461b1a5a8afc273e7ff1de950e6d1a",
-          "md5": "76c9178686348b304df3acb3cf94ea6d"
+          "size": 104410,
+          "sha512": "a110e316da9c2731c04a6e591b42f1df17e196b6711924859b575927623f589b4d6ed529fdce5aee6adc2be0001c39e15069dc3ca29b25f139242c4c4078bf68",
+          "sha256": "a32b1fe1dcbd5496810c7f15fddb1f86493fa9d392ed4dfac012e444c8ad6d9b",
+          "sha1": "ace6e549ff5c568116bebed3c5955fb2d8825c93",
+          "md5": "ef2a2d8e59e9a840ff4d577349d27643"
         }
       ]
     }

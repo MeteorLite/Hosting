@@ -1,11 +1,11 @@
 {
-  "version": "1.2.11-1",
-  "updateInfo": "You try to useOn ME!?",
+  "version": "1.2.12-1",
+  "updateInfo": "Holy FUCK bud",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 201,
-      "hash": "1256CF1D0D9E51B47D2652CC10810DE78A558833DD4BB16817635F6863B6D811"
+      "hash": "3F1352932D9387022C61A76E09F275B8C8CC6D646C985EC69A6ED4924648535F"
     },
     {
       "name": "meteor-client\\app\\animation-core-desktop-0.0.0-on-rebase-12-apr-2022-dev668-34f2b4c2d50ff4f4c3e8b72c4929c6.jar",
@@ -18,7 +18,7 @@
       "hash": "EC71A16C67A730634D3FCB2DF9ABCF6F9856F358CC643620473EE15CD46FFD08"
     },
     {
-      "name": "meteor-client\\app\\annotations-1.2.11-94cbdaa5d122cb4c8ac6513c3ad43b.jar",
+      "name": "meteor-client\\app\\annotations-1.2.12-94cbdaa5d122cb4c8ac6513c3ad43b.jar",
       "size": 8843,
       "hash": "6CA8BBB5AE7A9392EF3E59EBAB1D1D230C6AEE68ACE0BDFD58E9011BC1FDB5FA"
     },
@@ -28,14 +28,14 @@
       "hash": "7B0F19724082CBFCBC66E5ABEA2B9BC92CF08A1EA11E191933ED43801EB3CD05"
     },
     {
-      "name": "meteor-client\\app\\api-1.2.11-7676406d8cdee53f646f929984f9cc1.jar",
-      "size": 1338451,
-      "hash": "077B51E1BAE3B03B325C3F48A91100CAD421EECC808D236DE9942D9FE5687BEF"
+      "name": "meteor-client\\app\\api-1.2.12-52a7dddddc488d5bf09122afbcdae2b.jar",
+      "size": 1338428,
+      "hash": "1E64D2010CB167B879F5A82CAEADBC16A12C5B9611F8E2818FF4550687DF07EA"
     },
     {
-      "name": "meteor-client\\app\\api-rs-1.2.11-b8dac4c7b827b840986bf37e8bbf9e6.jar",
-      "size": 122504,
-      "hash": "D71F68EA54DB44F0AB0BADC1DFE9610CEB9CB78DD7C8CD9A6578B7FADC139C9C"
+      "name": "meteor-client\\app\\api-rs-1.2.12-928f3eeb41a279e1ead3d731cf8fb3eb.jar",
+      "size": 122394,
+      "hash": "DEE6D93E68111F2515C059984AFD1729C115ADBD4404DE21D5570E0E0E71CDA9"
     },
     {
       "name": "meteor-client\\app\\atomicfu-jvm-0.17.2-d6b6f3a195696acf1828b1f125125ed7.jar",
@@ -153,9 +153,9 @@
       "hash": "44CE229CE26D880BF3AFC362BBFCEC34D7E6903D195BBB1DB9F3B6E0D9834F06"
     },
     {
-      "name": "meteor-client\\app\\http-1.2.11-76c9178686348b304df3acb3cf94ea6d.jar",
-      "size": 104409,
-      "hash": "72EB96DEA5019C17A28B5C6931932EB63E17BAC61F34D034D087B32595379E44"
+      "name": "meteor-client\\app\\http-1.2.12-ef2a2d8e59e9a840ff4d577349d27643.jar",
+      "size": 104410,
+      "hash": "A32B1FE1DCBD5496810C7F15FDDB1F86493FA9D392ED4DFAC012E444C8AD6D9B"
     },
     {
       "name": "meteor-client\\app\\icudtl.dat",
@@ -163,7 +163,7 @@
       "hash": "846942A316B4E38FDBD4DE3AD83E4FAAE78A8BCED50F4720ACDBDAB6EE7C4B8E"
     },
     {
-      "name": "meteor-client\\app\\injected-1.2.11-21f0a26f475193ba1f1a93aae4f534a5.jar",
+      "name": "meteor-client\\app\\injected-1.2.12-21f0a26f475193ba1f1a93aae4f534a5.jar",
       "size": 3565563,
       "hash": "16B9A4EA7ACFD1FFC3C341213391ADDFE4F32EA4B90E1E94AC89225AA959310C"
     },
@@ -283,7 +283,7 @@
       "hash": "B372A037D4230AA57FBEFFDEF30FD6123F9C0C2DB85D0ACED00C91B974F33F99"
     },
     {
-      "name": "meteor-client\\app\\logger-1.2.11-265d4bc466193cb52f39734d99121b.jar",
+      "name": "meteor-client\\app\\logger-1.2.12-265d4bc466193cb52f39734d99121b.jar",
       "size": 8658,
       "hash": "56646EAF21A125B82D615E149E25EBA40AEE9B84B8428DED5B69AF9E87059907"
     },
@@ -303,14 +303,14 @@
       "hash": "05B00E8745C9C16CDF67E903BA3CDDC0E3AD149597FB0DA7070F8944E659B0C4"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.2.11-r1-5a2ca58779cdff957e4968338d704bee.jar",
-      "size": 8152186,
-      "hash": "EF6661404A721A93731290FE326B5E8410BACBE1972CAB14F9E8957EA89773A6"
+      "name": "meteor-client\\app\\meteor-client-1.2.12-r1-89d754e2419e1a8feb321e8de54bb11.jar",
+      "size": 8150180,
+      "hash": "A1EEEF1B66686A74C4021B206E53385C94AAAB2185A5BC544449E0EFF6C13DFF"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7905,
-      "hash": "401FB31A8528D5F108EC389B1025B4422B77655621C62F69F08FF58E2EB1DC59"
+      "size": 7904,
+      "hash": "7672A10895F9425E549A3488D0731D0FBFA0C2D2FFD6EE87BCC36FCA5AB88E6A"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -338,7 +338,7 @@
       "hash": "7DA9427375532325C56F0C7190D091197B09A5C4453C90D2E67FDEDD2008EA92"
     },
     {
-      "name": "meteor-client\\app\\scripts-1.2.11-67923c812931ce7a351364ede7315cf2.jar",
+      "name": "meteor-client\\app\\scripts-1.2.12-67923c812931ce7a351364ede7315cf2.jar",
       "size": 31877,
       "hash": "F50F7F8C058C001A3AE88CBF3244ADECE6B2DFDB0CE3F21D502CD21ED8C723B5"
     },
@@ -420,7 +420,7 @@
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "DF94F8A7F5B1358311AD05F4464B59D8A24C6211A4939CD1DB6880E1AF912EF8"
+      "hash": "9FC419D4D473D1A246E99B9F751C6E0DE68832FBACCCFE6BCC9A14E9C9CCDF1C"
     },
     {
       "name": "meteor-client\\meteor-client.ico",
@@ -635,137 +635,137 @@
     {
       "name": "meteor-client\\runtime\\bin\\attach.dll",
       "size": 26832,
-      "hash": "9F4110314562281A66FB31B902266AAD1F43C7E53987F5D98647D76AB7B92591"
+      "hash": "27D0DA4045CF7C69645692C94DDE7E18F23394B4754072E94245850337C30CC1"
     },
     {
       "name": "meteor-client\\runtime\\bin\\awt.dll",
-      "size": 1482960,
-      "hash": "88DEB6614DB8A47097D91EF099776F739DD377018AFAA9C6068D4844C58AE557"
+      "size": 1483472,
+      "hash": "7626F782A0154649603CA57F5E4170FB9C2E95AA4FEF422B8341C7F41B0FE61B"
     },
     {
       "name": "meteor-client\\runtime\\bin\\dt_shmem.dll",
       "size": 34512,
-      "hash": "CB9CC4E3F5EC8780535334A3EF3F107C728AAB9140DF5F89662B83C091C82449"
+      "hash": "97103E8FB86E79D912FD934713BCCCC9B35426BD6B684048F9579997D1CA61AF"
     },
     {
       "name": "meteor-client\\runtime\\bin\\dt_socket.dll",
       "size": 33488,
-      "hash": "3D806DE93DEA8EF885CA92324195CAB1BDDFDD11FD0BDE5925B7CB15C9B1BC7C"
+      "hash": "4B2933DB0A10DA66984C650D4F45D5372713C18CC81F95AA960F7099D4232A37"
     },
     {
       "name": "meteor-client\\runtime\\bin\\fontmanager.dll",
       "size": 674000,
-      "hash": "E61ACC199E467D1CADDA98187F55DA59E763DE8636597D3CD795BD49BFBF8F28"
+      "hash": "4711A5C51F23614895AC47B2D2BD7F0ADA6AB372ACA0082663AAC46B3CDF7137"
     },
     {
       "name": "meteor-client\\runtime\\bin\\freetype.dll",
       "size": 550608,
-      "hash": "9E5DFF79AB08FDF7B9CBFF225A963EF8F11A4B93BED2BCC8DE31302FC1074FF9"
+      "hash": "D57F4021448715BA0FD6FA9B774C9FA2A123123E97F4950628B02E9540F83DF1"
     },
     {
       "name": "meteor-client\\runtime\\bin\\instrument.dll",
       "size": 48336,
-      "hash": "B42E76CCF64CF9E879C6A901F77F1DCC429C0B0D45D2DD3BEFAB03D2867109A7"
+      "hash": "E1F12B2A8B4ADAA0768476D195772BFCD764F1F278B0414491004C5A9734BB78"
     },
     {
       "name": "meteor-client\\runtime\\bin\\j2gss.dll",
       "size": 48336,
-      "hash": "F3268C1F11F50426E4CC459F3FEDB47AA0FBBC097D918E16CE791CFE339454A3"
+      "hash": "CA382F321C65444226BB451594C84758FE6BBA11B4E291542427DDCE1E4240D0"
     },
     {
       "name": "meteor-client\\runtime\\bin\\j2pcsc.dll",
       "size": 23760,
-      "hash": "C32F449EA999F4D6562E044887638465993FBD04149A944072A9D2F575EF6D6B"
+      "hash": "5505B23C6EE9F00395041145886B94820F7832ECDA496D33B91B3201590D0C91"
     },
     {
       "name": "meteor-client\\runtime\\bin\\j2pkcs11.dll",
       "size": 75984,
-      "hash": "066778BE5FD11037486FEF922F231DC0834B070EBF0F5FCD193658AC00F43865"
+      "hash": "EC4C79DFF4F8BF2674E02E1F5F8D03E5914A8DC364773B41C8D7740D9F0F90D6"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jaas.dll",
       "size": 25808,
-      "hash": "5D716298C250A00546A8FBF43B017BBA09245A487684FD9D3016F518A81A4423"
+      "hash": "C32826C6B8DB88DDDE436B29B4345DDD4FA8824C492C9AB2E648D9B6556B870A"
     },
     {
       "name": "meteor-client\\runtime\\bin\\java.dll",
       "size": 144592,
-      "hash": "160753293C1FB381CB1EF276EE34EC4B3F0635E27ABF85062B49997EC897A2E4"
+      "hash": "3CF1D8FDD62F7FEDA9D83869B17E0CEB014521DF329FCDE6ED2C17F36614064A"
     },
     {
       "name": "meteor-client\\runtime\\bin\\javaaccessbridge.dll",
       "size": 285904,
-      "hash": "043C0ECE572EE9E48CDA9B8C0A8AFEE311F2C92A25B0A12E6223AE64B3CD03A4"
+      "hash": "6E801A8C676E86C34151323959B63E750B67E470B1BC4C71E245B3BCE58D1E2D"
     },
     {
       "name": "meteor-client\\runtime\\bin\\javajpeg.dll",
       "size": 176336,
-      "hash": "56042F54780A07B7B7239377B264801CC65707F4746F79B1BDBAA5830AB25EAA"
+      "hash": "F4F936343D56DC45D7D7A0AAD8A7A8A2F888C32249B581AC87327E3669D3BD91"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jawt.dll",
       "size": 18640,
-      "hash": "A01CD31A90F2FBB9C01C10E71F6E4B0247D76DF0F0C70756FA7E106A084382EE"
+      "hash": "5CCB8A4DDA4FAEEEAF617CA7CA45E0850ADD02DF795CF66B7348C8C330BF2D69"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jdwp.dll",
       "size": 227536,
-      "hash": "CF11F527D983C60E92FB2D11FCCB22C2B644E72DDED1433BBDD9B9DEC1689E27"
+      "hash": "4492BED4F0870C07EAF84D7FA92F72F76A204EBE2B20FA994EB779D7472893FA"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jimage.dll",
       "size": 30928,
-      "hash": "BCCEE95F286BB57411AB709E152C3B4E5CCC569CCA73CB4F0BBFCF647938C1FE"
+      "hash": "CFF6381FB11AFFDE31BAC0112519BF5A0F0322F108E4CF53E0B5BFA9A2EA3D89"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jli.dll",
       "size": 87248,
-      "hash": "5E79209D6978954155612B63658F057C1D012B80384AABAB08FA28CABB62C573"
+      "hash": "37CDB11A72B01D3AD01F25735B8E47F307D5B438872E6329FA5080C1632C8B00"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jpackage.dll",
       "size": 127696,
-      "hash": "BEABF44107AE0013C1C6852EBE25A4116FA7AB03A0D9AFF2EDF10DF50797CB0E"
+      "hash": "6BC3691448A891C46959439457B0C899525FE2323338CA59D790704473B2BE7A"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jsound.dll",
       "size": 58064,
-      "hash": "371FE81387409870DC133B6352B012FD30B9C2C0A4DD713AE84C1E627619E04B"
+      "hash": "F77A223EB79CBB4BD6C8EF78A3613DE4CFC1D9B89F0D711DAF86DB71901324E0"
     },
     {
       "name": "meteor-client\\runtime\\bin\\jsvml.dll",
       "size": 867024,
-      "hash": "11B96E13A6EF1986D1F3DB47B31950DF038E061746DACC816748FA6CF50B7A61"
+      "hash": "98CFABE02895AFD3AC8173492C9C99C294F9390192901D565A838BDBE002DD59"
     },
     {
       "name": "meteor-client\\runtime\\bin\\lcms.dll",
       "size": 253136,
-      "hash": "B5D44FBAD95052D158EC146C8D11164723EDED1630162E533B157D98F9013E3B"
+      "hash": "909E5A53D9C8296F91D2B9CC03E9AC317BE2BCDE7CF97AE739B14865DF58DAAA"
     },
     {
       "name": "meteor-client\\runtime\\bin\\le.dll",
       "size": 32976,
-      "hash": "5C88E109BF904ACB1C791AB8F305CFA1CBCFA05F7F6A0ECBE9ADD1383578138A"
+      "hash": "9B49BE12359D22595A7EC69A9BD31A942C966357E6ECDF35DDACE9AE91C490E2"
     },
     {
       "name": "meteor-client\\runtime\\bin\\management.dll",
       "size": 26320,
-      "hash": "D8C8B6CA1D9BDB69B2EAD8645888395E497554183F23258A1C9096E5B0059F71"
+      "hash": "AAF2D983D52197C1013D6C8A80EAC7864FDBF027F313FDFB77C107185B8EA1CB"
     },
     {
       "name": "meteor-client\\runtime\\bin\\management_agent.dll",
       "size": 21712,
-      "hash": "A1C3EE95F58268EE9D0748454AC7833B3B88A286934751B206991F46A6361F61"
+      "hash": "C467565BBFD28632453D2277635F3B1E6E34FDD932EE7F47D77DE91AB5AEE7A4"
     },
     {
       "name": "meteor-client\\runtime\\bin\\management_ext.dll",
       "size": 33488,
-      "hash": "368BEA6D39FD01AB0EC23845A50D912A8E5088F880A0805097CF8147F41B64E2"
+      "hash": "A2791682B32ACD6C3B11191549072593C09C735934AA357482A5D1828E6E4396"
     },
     {
       "name": "meteor-client\\runtime\\bin\\mlib_image.dll",
       "size": 507600,
-      "hash": "5E192C96FED4AEB4A5B9519E052383E952CF56AAE01A6703AC40945BC014C84E"
+      "hash": "FB92269FA39C4FC4E3A289F13C954FE77AF2FBB3099A86692D407EC3CF4BCFEC"
     },
     {
       "name": "meteor-client\\runtime\\bin\\msvcp140.dll",
@@ -775,47 +775,47 @@
     {
       "name": "meteor-client\\runtime\\bin\\net.dll",
       "size": 94416,
-      "hash": "376BBEE52E853350A72E1E7025EEB00FE9C2FE6577E538F6A941B8AE51D6F8DF"
+      "hash": "D0FF51EF5B53A810AED749DC24A1C27E603702B2301FA24C058C95EB8B4B183C"
     },
     {
       "name": "meteor-client\\runtime\\bin\\nio.dll",
       "size": 77520,
-      "hash": "9A0F5BE1720CC3ECF4A9B9B021ACBEFB1B087AFD7BB64690B8629B090903EAF7"
+      "hash": "5F1AF7649646F77D464777993EA14546D2F37E2155EDBEF976088FF8628AE1DF"
     },
     {
       "name": "meteor-client\\runtime\\bin\\prefs.dll",
       "size": 22736,
-      "hash": "7BF2C8CC3D047156BC596A0A0FF33AF82E2FDB2FA312A5ECAF764D5B562F3084"
+      "hash": "6D1CA0309D81BFBD4A19C7D01F3FAEF96AB281C436EFF15FF575E0FB4EC3A59F"
     },
     {
       "name": "meteor-client\\runtime\\bin\\rmi.dll",
       "size": 18128,
-      "hash": "A6D4E2EEED3B042FECE86B2F2B115C629F8A6041A5B0B0555EDDF83F91B95D21"
+      "hash": "BBA4811044A53EAD52928E2268AA5807CAEA4C41AB2054337F6300B609B285A7"
     },
     {
       "name": "meteor-client\\runtime\\bin\\saproc.dll",
       "size": 36048,
-      "hash": "E9B8A30490BAAE027C7F311747C0BA2B7F4BCCBFCF4451B23728B702FD6EDFF2"
+      "hash": "2867B04173FE344C13ED68DB2252B718A923041C6A6C131D33FA5510DCB93166"
     },
     {
       "name": "meteor-client\\runtime\\bin\\server\\jvm.dll",
-      "size": 11987152,
-      "hash": "175FA971A1214EF670FBB0DF8A2A4B0350D3CE678ED3269A862E495062B03E70"
+      "size": 11984080,
+      "hash": "99B9DF6B7E6F4374DADBC663DF859D3F65B472D69C71C46BC2A7E6698CE596CC"
     },
     {
       "name": "meteor-client\\runtime\\bin\\splashscreen.dll",
       "size": 215760,
-      "hash": "6142F4253485BBFB7B69717B2298A435D8F26B625EB0CFA73CE53B6156CF627D"
+      "hash": "5BFC36208523D4A1DFB699FF5148A29B405D7D461B74C0F4EE19945147AABBF3"
     },
     {
       "name": "meteor-client\\runtime\\bin\\sspi_bridge.dll",
       "size": 42192,
-      "hash": "DB79504B4FE4C205E14E8D1592568EF9AB80C5F40B595DC41455118FAF45306A"
+      "hash": "27574BF89BD98A3D18FC494783F742A51D1B1BEF185B001F5204D5482FA68FC7"
     },
     {
       "name": "meteor-client\\runtime\\bin\\sunmscapi.dll",
       "size": 44752,
-      "hash": "A71C6097F7BE1F0EEACD2F1942032B0DF44496DAFD89642DDA05F7E760DC71E3"
+      "hash": "8F5717404E3F8174E115027A5A5B61AF5663A37FF297909CDBD05C5E45A927FC"
     },
     {
       "name": "meteor-client\\runtime\\bin\\ucrtbase.dll",
@@ -835,27 +835,27 @@
     {
       "name": "meteor-client\\runtime\\bin\\verify.dll",
       "size": 52432,
-      "hash": "189BFD166700B0409EAA29B6D3A947EFCE97AE34C55DE9103431FCFA31D74E0E"
+      "hash": "E53B717C69964E9A2AB6B008FEB940BF3D80FCC00A3E4AC06E289E34D05E3FCA"
     },
     {
       "name": "meteor-client\\runtime\\bin\\w2k_lsa_auth.dll",
       "size": 28880,
-      "hash": "A534746747A53462656113A446186A31CD45E1CF5239C28374C4A086CF18CD62"
+      "hash": "D985EBEBCB0A82D45E4C0A0E5177C25321848CD93CBECB931F3325569533A32B"
     },
     {
       "name": "meteor-client\\runtime\\bin\\windowsaccessbridge-64.dll",
       "size": 69840,
-      "hash": "657A435CFB7108D4C99083CBE13A6F9768C4637E4385617F02668685FA812AE4"
+      "hash": "158D8D43227048863DB445D93847D822BE3B7F1302DB0C4F4C9D14AEC70A51B1"
     },
     {
       "name": "meteor-client\\runtime\\bin\\WinFallbackLookup.dll",
       "size": 25296,
-      "hash": "7146577F1BD53032103BCC61C04527B4BE79827330A4B282E1E5CAA253B018EF"
+      "hash": "44FE483634CDA99DA0D04C0E893AC4C19220982710A8CDAC9A797367EF00407B"
     },
     {
       "name": "meteor-client\\runtime\\bin\\zip.dll",
       "size": 84176,
-      "hash": "FE535619F86A6B7EAB2C2C23CCFEA96A47401F735E4963603F37DED724E192BF"
+      "hash": "68E8DCE846D2BB30FF591C657AE5F917556865D9E61F324CA2A9A528383B76C4"
     },
     {
       "name": "meteor-client\\runtime\\conf\\logging.properties",
@@ -930,12 +930,12 @@
     {
       "name": "meteor-client\\runtime\\lib\\classlist",
       "size": 73065,
-      "hash": "2306F5571BF8D79CB80AEC09B359AEE761D6BDFC9F704736A24ECCA3EDCA8629"
+      "hash": "8EE815373D46D65F3538A6B742C32E442CF5D815BA99ECE18277DF51389DBDE3"
     },
     {
       "name": "meteor-client\\runtime\\lib\\ct.sym",
       "size": 8888730,
-      "hash": "061697617A3214BB350B89305AAE51DF87B6131F431106A3A6E5E89F86949839"
+      "hash": "8DE9951AD76E7C0CD21EEAA3C9C73BD77476F259913124267BD8F922660E78B0"
     },
     {
       "name": "meteor-client\\runtime\\lib\\fontconfig.bfc",
@@ -964,8 +964,8 @@
     },
     {
       "name": "meteor-client\\runtime\\lib\\jrt-fs.jar",
-      "size": 110496,
-      "hash": "45D60983E1B40D5BD5B7AAF72AA42485A07FBBE0ADDD6E7A9EF23E2F8E1D6B37"
+      "size": 110497,
+      "hash": "256FCDAE37D5DB3C537F09AE32599D9A5AE9F7901D96E9C92FA6044F897B243E"
     },
     {
       "name": "meteor-client\\runtime\\lib\\jvm.cfg",
@@ -974,8 +974,8 @@
     },
     {
       "name": "meteor-client\\runtime\\lib\\jvm.lib",
-      "size": 974664,
-      "hash": "0EED037A4D19340D882DF96751BAF0BD69DAFED8402C553469CAA02B6274547B"
+      "size": 974668,
+      "hash": "835B00C255DAFEBB65E873792AFE71AB07C346B8B2D8EFEDE7BB267491A64C24"
     },
     {
       "name": "meteor-client\\runtime\\lib\\psfont.properties.ja",
@@ -1020,24 +1020,24 @@
     {
       "name": "meteor-client\\runtime\\release",
       "size": 1093,
-      "hash": "F5070B3A9C86A5E73468F3C5BB39C21ECFBCF8E7814164AAE49C5FE7A9526842"
+      "hash": "393FA29BCCAA81B28DF4EC06776C3F179C182B73FDE9C02CF52E6087C533F359"
     }
   ],
   "modulesParts": [
     {
       "name": "modules\\modules-0",
       "size": 47185920,
-      "hash": "0C9277A0180B09A7E98319ADD4950384C66F1A3DDCC184A39965DD674FBB570B"
+      "hash": "A230CEE7E34F2862EF95ED0A75768C46A5ECE2DC44EA434F4218214452C1B1B7"
     },
     {
       "name": "modules\\modules-1",
       "size": 47185920,
-      "hash": "ED59BEE82D72363A1B5800F657AA002422EACCC28B95CF55DF237AD7E83240CF"
+      "hash": "15658F62CE60DD3C07728644C77EDA94D7B5B0E9C359439EED4961360091F7C6"
     },
     {
       "name": "modules\\modules-2",
-      "size": 39504954,
-      "hash": "BD1B691B02C9E90DDD2245DB36A3DC12B12AF3B1904BFF0C5EBBB4DD394916D0"
+      "size": 39593606,
+      "hash": "275E918672B5A6DF494CCFC85220E0B1AC19EC231190B562B7175081EE03518E"
     }
   ]
 }
