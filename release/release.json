@@ -303,14 +303,14 @@
       "hash": "05B00E8745C9C16CDF67E903BA3CDDC0E3AD149597FB0DA7070F8944E659B0C4"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.3.0-r2-db34a9baeeb7ea19e92c412aec6ec5c.jar",
+      "name": "meteor-client\\app\\meteor-client-1.3.0-r2-dabcfafcd3b5bad8ceec14a0b9a160ad.jar",
       "size": 8201109,
-      "hash": "DCFBF84A612765B50E0380F07E3550E61E8B041A6E4179F0D7C08EC65F36CE5E"
+      "hash": "D6671B69320B0EE472500E369120D0918CBA387299E1E460C1C5C9D861099C84"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7913,
-      "hash": "9A6C77344D2F2258A6D97B1C0D40559624406F00167BCEB2CFD59203649CB4E8"
+      "size": 7915,
+      "hash": "DD8875C0DDC985E44D132CF830286EB01A13456A4E24091622C68BA04A56B677"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
