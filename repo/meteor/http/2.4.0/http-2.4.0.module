@@ -1,0 +1,107 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "http",
+    "version": "2.4.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "http-2.4.0.jar",
+          "url": "http-2.4.0.jar",
+          "size": 104410,
+          "sha512": "78e8c87446f16d610689ec1cede09c9f204407932e923413abc0ad9ea2c94942843524ad46c0c684eaa53eb85ac12a6d556c94e0806f6908536433c860855f80",
+          "sha256": "e08df2462865d94a143da963caf9c0f3df6eb4f178cfc257485ae64f7746924b",
+          "sha1": "e6917ff86a8639c9c1482ccf21e47ecfd9866dae",
+          "md5": "b979c5be38e083175e8506e05b48cf94"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "meteor",
+          "module": "api",
+          "version": {
+            "requires": "2.4.0"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "logger",
+          "version": {
+            "requires": "2.4.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.5"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "23.2-jre"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "3.7.0",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-csv",
+          "version": {
+            "requires": "1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "http-2.4.0.jar",
+          "url": "http-2.4.0.jar",
+          "size": 104410,
+          "sha512": "78e8c87446f16d610689ec1cede09c9f204407932e923413abc0ad9ea2c94942843524ad46c0c684eaa53eb85ac12a6d556c94e0806f6908536433c860855f80",
+          "sha256": "e08df2462865d94a143da963caf9c0f3df6eb4f178cfc257485ae64f7746924b",
+          "sha1": "e6917ff86a8639c9c1482ccf21e47ecfd9866dae",
+          "md5": "b979c5be38e083175e8506e05b48cf94"
+        }
+      ]
+    }
+  ]
+}

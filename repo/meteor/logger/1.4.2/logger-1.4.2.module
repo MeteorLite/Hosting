@@ -1,0 +1,78 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "logger",
+    "version": "1.4.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "logger-1.4.2.jar",
+          "url": "logger-1.4.2.jar",
+          "size": 8658,
+          "sha512": "88c70445edfd4aa8fdca8568f79f903c4e27adb6a4325e91b5ff66197c0b3df1c7a6b7b5e1239f5e7077acfff1081b37962fa09b5a63344b25f1939c98d88c17",
+          "sha256": "5dd11fceb6285d8300b8402b381d8963aff9a3f4086ae6723c79ad1f794f67ff",
+          "sha1": "8bd22a9ad403a01efac1a2771f9bec6b69aa83d0",
+          "md5": "043ce18dd92cbf9bcdb51c1081fd58ff"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "logger-1.4.2.jar",
+          "url": "logger-1.4.2.jar",
+          "size": 8658,
+          "sha512": "88c70445edfd4aa8fdca8568f79f903c4e27adb6a4325e91b5ff66197c0b3df1c7a6b7b5e1239f5e7077acfff1081b37962fa09b5a63344b25f1939c98d88c17",
+          "sha256": "5dd11fceb6285d8300b8402b381d8963aff9a3f4086ae6723c79ad1f794f67ff",
+          "sha1": "8bd22a9ad403a01efac1a2771f9bec6b69aa83d0",
+          "md5": "043ce18dd92cbf9bcdb51c1081fd58ff"
+        }
+      ]
+    }
+  ]
+}

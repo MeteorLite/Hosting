@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "api-rs",
+    "version": "2.4.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "api-rs-2.4.0.jar",
+          "url": "api-rs-2.4.0.jar",
+          "size": 122412,
+          "sha512": "b7a404f72bff16ab5c8e3404cac4af570684c585219aa2e166c97cec64ce41a58024c0d2e20e41cb0a427914cb48b7528749ded48aa657a5df258aeaa8f24b31",
+          "sha256": "5893dff92c690e5268b2bfa12818cc2bbf544186b7d5a7cec2a3b0b46bb6f2dc",
+          "sha1": "b56d0f82176b77e9f60645039e4a4b2fa34302c0",
+          "md5": "7bb4b582268a7e466856fcecedc4a422"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "meteor",
+          "module": "annotations",
+          "version": {
+            "requires": "2.4.0"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "api",
+          "version": {
+            "requires": "2.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8"
+        }
+      ],
+      "files": [
+        {
+          "name": "api-rs-2.4.0.jar",
+          "url": "api-rs-2.4.0.jar",
+          "size": 122412,
+          "sha512": "b7a404f72bff16ab5c8e3404cac4af570684c585219aa2e166c97cec64ce41a58024c0d2e20e41cb0a427914cb48b7528749ded48aa657a5df258aeaa8f24b31",
+          "sha256": "5893dff92c690e5268b2bfa12818cc2bbf544186b7d5a7cec2a3b0b46bb6f2dc",
+          "sha1": "b56d0f82176b77e9f60645039e4a4b2fa34302c0",
+          "md5": "7bb4b582268a7e466856fcecedc4a422"
+        }
+      ]
+    }
+  ]
+}
