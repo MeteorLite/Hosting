@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "scripts",
+    "version": "1.4.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "scripts-1.4.4.jar",
+          "url": "scripts-1.4.4.jar",
+          "size": 31877,
+          "sha512": "7b7d1437d157b289853775a8c8c31a6fe8f6147b380457d74029b33e4d5ed5751718c8ff34abc3977ddb65a42eaf1a8bde3e3c209cfcdbc5bcedb542106d1dbd",
+          "sha256": "b78b833c5bc7890c35a3bceb744d381fd7327677a6ec8162af7a6fbd88e3263d",
+          "sha1": "58e2e209499052c4e05e140d3eb697940f30e1a1",
+          "md5": "798170e1078b0968c4dc92621e15ac19"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.20"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "23.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "scripts-1.4.4.jar",
+          "url": "scripts-1.4.4.jar",
+          "size": 31877,
+          "sha512": "7b7d1437d157b289853775a8c8c31a6fe8f6147b380457d74029b33e4d5ed5751718c8ff34abc3977ddb65a42eaf1a8bde3e3c209cfcdbc5bcedb542106d1dbd",
+          "sha256": "b78b833c5bc7890c35a3bceb744d381fd7327677a6ec8162af7a6fbd88e3263d",
+          "sha1": "58e2e209499052c4e05e140d3eb697940f30e1a1",
+          "md5": "798170e1078b0968c4dc92621e15ac19"
+        }
+      ]
+    }
+  ]
+}
