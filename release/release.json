@@ -1,11 +1,11 @@
 {
-  "version": "1.4.4-7",
+  "version": "1.4.4-8",
   "updateInfo": "Items are okay I guess",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 200,
-      "hash": "C068F8FE335FEDA4CC2AB75BC04DD092EDAAB6DB145DAB97723084C6026F40D3"
+      "hash": "DD766A7554DA9E21E5683EFC74CC24936294155E6E8AEC07D5902B66660389E0"
     },
     {
       "name": "meteor-client\\app\\animation-core-desktop-0.0.0-on-rebase-12-apr-2022-dev668-34f2b4c2d50ff4f4c3e8b72c4929c6.jar",
@@ -303,14 +303,14 @@
       "hash": "05B00E8745C9C16CDF67E903BA3CDDC0E3AD149597FB0DA7070F8944E659B0C4"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.4.4-r7-55a68948e9cbdbb2c252a0c23fca54a9.jar",
+      "name": "meteor-client\\app\\meteor-client-1.4.4-r8-3dfc47672f23c437bbb3d76327be3e29.jar",
       "size": 8301626,
-      "hash": "DD7986296199BF066729181733AC204B8CAF26CF6BECFC18BF0A6256FB4725AF"
+      "hash": "F3899584347B712A9E856226B477D35D095E850132B0371B3CE1F599381A826C"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
       "size": 7919,
-      "hash": "0E5FB162A0081DFE04307F2B8887A35D950BB92A78E5EEBAF2CA3948E40FFE77"
+      "hash": "C57455EA0A23B522A508C77EB87657123C973D9D889C2CB3CA0524CFD22831A7"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -420,7 +420,7 @@
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "3C718CCBA11DE9A019A022AF48EBD1E62E8200B266C5C2650AF7D3319D03A982"
+      "hash": "8D922ABC1041573C0DCEAB2B17C30323C1DC7A9B49DCA8BD84ADF66FDB05F751"
     },
     {
       "name": "meteor-client\\meteor-client.ico",
