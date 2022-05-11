@@ -39,10 +39,10 @@
           "name": "api-1.4.4.jar",
           "url": "api-1.4.4.jar",
           "size": 1338053,
-          "sha512": "3df82eff144e4e30d628298c182ab0bd0c471a6f2c6b3c97a0855200474f5138a7e8e7fa2cb427be97147eb3df18b42b47ba4a36432c47f8959668eae2272aaa",
-          "sha256": "18a177fb27cd998ab6f283fb80d101a346e02e83136aa6a014213ba866627adb",
-          "sha1": "e26f277075e3dbda737a76625cac1118a1f4bbd7",
-          "md5": "e72b3ac2d0bcbd8fcf1b4b57aca05044"
+          "sha512": "a218e21c425b1ba1130798b59dc26120f2e9968d61c97befeda1b43a33d8b6e819f7673a95dcb9a2aa42c4981db591f93fdd54ef7379296d7ebffad4a20c6cee",
+          "sha256": "8d3b14b6b262578d1ce5cd2594a25adeecf1ce587ad7f9f02395b557d058c2a0",
+          "sha1": "de2ca71d4daf9d7e00e5bac13dcec5a50d6ffd3d",
+          "md5": "45a2586ee916bfffe43958685fed9f35"
         }
       ]
     },
@@ -113,10 +113,10 @@
           "name": "api-1.4.4.jar",
           "url": "api-1.4.4.jar",
           "size": 1338053,
-          "sha512": "3df82eff144e4e30d628298c182ab0bd0c471a6f2c6b3c97a0855200474f5138a7e8e7fa2cb427be97147eb3df18b42b47ba4a36432c47f8959668eae2272aaa",
-          "sha256": "18a177fb27cd998ab6f283fb80d101a346e02e83136aa6a014213ba866627adb",
-          "sha1": "e26f277075e3dbda737a76625cac1118a1f4bbd7",
-          "md5": "e72b3ac2d0bcbd8fcf1b4b57aca05044"
+          "sha512": "a218e21c425b1ba1130798b59dc26120f2e9968d61c97befeda1b43a33d8b6e819f7673a95dcb9a2aa42c4981db591f93fdd54ef7379296d7ebffad4a20c6cee",
+          "sha256": "8d3b14b6b262578d1ce5cd2594a25adeecf1ce587ad7f9f02395b557d058c2a0",
+          "sha1": "de2ca71d4daf9d7e00e5bac13dcec5a50d6ffd3d",
+          "md5": "45a2586ee916bfffe43958685fed9f35"
         }
       ]
     }

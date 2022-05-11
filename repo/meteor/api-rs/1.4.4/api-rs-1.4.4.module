@@ -28,10 +28,10 @@
           "name": "api-rs-1.4.4.jar",
           "url": "api-rs-1.4.4.jar",
           "size": 122412,
-          "sha512": "7fd98a2e79cb6a4d2674817b3b00835ac3c1fc9a56631969d7a565f05e5c66ea5614b6719235a832e042e99657dc2319b9552792a03f82daf09e34600fe43956",
-          "sha256": "c19fb67d7499b656d5fd6931e56eaf30fad47b2d5c116084e7f4ee884e0258ff",
-          "sha1": "baea773a84040078b493f1f7cf3e3ed26c3421cb",
-          "md5": "9ef7f243de6f706df16c6dc4ad466d55"
+          "sha512": "19f9e9752971357d3fc3056e8482ff038f44dd662aa6818ed53cae616d4380b526f2e74e9b65f5ec7c714af22470817f3c1de0ecdca4d9d5cae024c211113025",
+          "sha256": "697edad5aabd7012bbaac9ba7312b4d8c51f065c7035b4ac59bcffbad00cbac4",
+          "sha1": "665980c83df4fc873cf353a1f6acbd8b41c323f6",
+          "md5": "3d8c057da2bd136d676f1c6ac047aa95"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "api-rs-1.4.4.jar",
           "url": "api-rs-1.4.4.jar",
           "size": 122412,
-          "sha512": "7fd98a2e79cb6a4d2674817b3b00835ac3c1fc9a56631969d7a565f05e5c66ea5614b6719235a832e042e99657dc2319b9552792a03f82daf09e34600fe43956",
-          "sha256": "c19fb67d7499b656d5fd6931e56eaf30fad47b2d5c116084e7f4ee884e0258ff",
-          "sha1": "baea773a84040078b493f1f7cf3e3ed26c3421cb",
-          "md5": "9ef7f243de6f706df16c6dc4ad466d55"
+          "sha512": "19f9e9752971357d3fc3056e8482ff038f44dd662aa6818ed53cae616d4380b526f2e74e9b65f5ec7c714af22470817f3c1de0ecdca4d9d5cae024c211113025",
+          "sha256": "697edad5aabd7012bbaac9ba7312b4d8c51f065c7035b4ac59bcffbad00cbac4",
+          "sha1": "665980c83df4fc873cf353a1f6acbd8b41c323f6",
+          "md5": "3d8c057da2bd136d676f1c6ac047aa95"
         }
       ]
     }
