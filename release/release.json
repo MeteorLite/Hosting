@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2-4",
+  "version": "1.5.2-2",
   "updateInfo": "Items are okay I guess",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 200,
-      "hash": "116109379F0F983BF5EE0C794C59EFE7B2EF195A8DC9332769AACA6C39BEBA50"
+      "hash": "085D39DE32F00C9BBDA0A89FAFDCB9792F03DD9A105F628FC2853652E03DE89C"
     },
     {
       "name": "meteor-client\\app\\animation-core-desktop-1.2.0-alpha01-dev686-34f2b4c2d50ff4f4c3e8b72c4929c6.jar",
@@ -313,19 +313,24 @@
       "hash": "05B00E8745C9C16CDF67E903BA3CDDC0E3AD149597FB0DA7070F8944E659B0C4"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.5.2-r1-33755c78929f1be9b7ede49ed6d64b6.jar",
-      "size": 8374797,
-      "hash": "53DD99D975C22720DFE44628BAF361F9CDD881DEAF66A0D0DB8DB363CE400E10"
+      "name": "meteor-client\\app\\meteor-client-1.5.2-r2-f75c554dbd1fba7b9947a17b47c24d.jar",
+      "size": 8980700,
+      "hash": "DE0C2869D18B3ABE7C09D31F247C12A1D09A8BD19065C12A9E48BB4AAE59F8EA"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7836,
-      "hash": "F25C10438C3DC8BACFAB6F8AA5D34295D1AE579B89273DA1CEC6AE38B44A953F"
+      "size": 7916,
+      "hash": "F8ADE0F551B529518E0E9E9C83D64DA9FC551A055FC20E34E099415758B73D26"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
       "size": 201819,
       "hash": "F3BF5AB4041767DA532E11E78A49A183DA499D1A54BA539232D833B75F965667"
+    },
+    {
+      "name": "meteor-client\\app\\octicons-desktop-1.0.0-7e2a59ab3313729206cae3b4d134f10.jar",
+      "size": 1247278,
+      "hash": "9581E362D105699653798000D7B395567289DFD8C76D616D285D837DB2D8408C"
     },
     {
       "name": "meteor-client\\app\\okhttp-3.7.0-852c3a2c2bdee62ca89b8ef5a7b395a9.jar",
@@ -430,7 +435,7 @@
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "F6CACE3B72EAA448E086797DCD9682059E9E9E58865BE4D477591906A1FE8347"
+      "hash": "B4CC9062491429FE448885A2E9ECF65C80A49BD0218790138A4B58B5C1E995F8"
     },
     {
       "name": "meteor-client\\meteor-client.ico",

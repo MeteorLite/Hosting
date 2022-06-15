@@ -1,0 +1,495 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "client",
+    "version": "1.5.2-2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "client-1.5.2-2.jar",
+          "url": "client-1.5.2-2.jar",
+          "size": 8980700,
+          "sha512": "8d2e31b57a047fd35ad64f70756c6d4a5d70afeff813bd3d263cdc3d4e9ed0d78e841bd2ebee818a778884baa3822b20d6306a8310f94c06808006b6d28aa152",
+          "sha256": "de0c2869d18b3abe7c09d31f247c12a1d09a8bd19065c12a9e48bb4aae59f8ea",
+          "sha1": "66cb3ec9bab567987bf71e7900e536fc1ebc8599",
+          "md5": "f75c554dbd1f0ba7b9947a17b47c024d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "meteor",
+          "module": "api-rs",
+          "version": {
+            "requires": "1.5.2"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "api",
+          "version": {
+            "requires": "1.5.2"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "http",
+          "version": {
+            "requires": "1.5.2"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "annotations",
+          "version": {
+            "requires": "1.5.2"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "logger",
+          "version": {
+            "requires": "1.5.2"
+          }
+        },
+        {
+          "group": "net.runelite.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          }
+        },
+        {
+          "group": "net.runelite.jogl",
+          "module": "jogl-rl",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          }
+        },
+        {
+          "group": "net.runelite.jogl",
+          "module": "jogl-gldesktop-dbg",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          }
+        },
+        {
+          "group": "net.runelite.jocl",
+          "module": "jocl",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-bom",
+          "version": {
+            "requires": "1.6.20"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.36"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-simple",
+          "version": {
+            "requires": "1.7.36"
+          }
+        },
+        {
+          "group": "org.rationalityfrontline",
+          "module": "kevent",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.11",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "3.7.0",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1.1-jre",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.9",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.11.0",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "net.sf.jopt-simple",
+          "module": "jopt-simple",
+          "version": {
+            "requires": "5.0.4",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.7",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "net.runelite",
+          "module": "discord",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "com.formdev",
+          "module": "flatlaf",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.formdev",
+          "module": "flatlaf-intellij-themes",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.miglayout",
+          "module": "miglayout",
+          "version": {
+            "requires": "3.7.4"
+          }
+        },
+        {
+          "group": "io.insert-koin",
+          "module": "koin-core",
+          "version": {
+            "requires": "3.1.5"
+          }
+        },
+        {
+          "group": "com.kitfox.svg",
+          "module": "svg-salamander",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.formdev",
+          "module": "flatlaf-extras",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.godaddy.android.colorpicker",
+          "module": "compose-color-picker-jvm",
+          "version": {
+            "requires": "0.4.2",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.compose.icons.jetbrains",
+          "module": "octicons",
+          "version": {
+            "requires": "1.0.0",
+            "rejects": [
+              "_"
+            ]
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.desktop",
+          "module": "desktop-jvm-windows-x64",
+          "version": {
+            "requires": "1.2.0-alpha01-dev686"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "injected",
+          "version": {
+            "requires": "1.5.2"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "scripts",
+          "version": {
+            "requires": "1.5.2"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk15on",
+          "version": {
+            "requires": "1.70"
+          }
+        },
+        {
+          "group": "net.runelite.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux-amd64"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-amd64"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-i586"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-macosx-universal"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.jogl",
+          "module": "jogl-rl",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-rl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux-amd64"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.jogl",
+          "module": "jogl-rl",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-rl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-amd64"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.jogl",
+          "module": "jogl-rl",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-rl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-i586"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.jogl",
+          "module": "jogl-rl",
+          "version": {
+            "requires": "2.4.0-rc-20220318"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-rl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-macosx-universal"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.jocl",
+          "module": "jocl",
+          "version": {
+            "requires": "1.0"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jocl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "macos-x64"
+            }
+          }
+        },
+        {
+          "group": "net.runelite.jocl",
+          "module": "jocl",
+          "version": {
+            "requires": "1.0"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jocl",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "macos-arm64"
+            }
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "client-1.5.2-2.jar",
+          "url": "client-1.5.2-2.jar",
+          "size": 8980700,
+          "sha512": "8d2e31b57a047fd35ad64f70756c6d4a5d70afeff813bd3d263cdc3d4e9ed0d78e841bd2ebee818a778884baa3822b20d6306a8310f94c06808006b6d28aa152",
+          "sha256": "de0c2869d18b3abe7c09d31f247c12a1d09a8bd19065c12a9e48bb4aae59f8ea",
+          "sha1": "66cb3ec9bab567987bf71e7900e536fc1ebc8599",
+          "md5": "f75c554dbd1f0ba7b9947a17b47c024d"
+        }
+      ]
+    }
+  ]
+}
