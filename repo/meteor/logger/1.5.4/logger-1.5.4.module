@@ -37,10 +37,10 @@
           "name": "logger-1.5.4.jar",
           "url": "logger-1.5.4.jar",
           "size": 8658,
-          "sha512": "2a121b6fdd9eb92a04d178aa12129969a0c38aae6aad105638c011c1efb16c2d96250fbd94d85ccc1f1827ba2c208173f8db7388d4dc0db2f1c8caaef7f21f7a",
-          "sha256": "5a388d324ec5d2d165c5f993accf313780b15cbab1659cc6d1fdc8a55ba61088",
-          "sha1": "a8df4b5be83bdf1e0c1812b9b2185b74dbfc9b37",
-          "md5": "df99af567eb0d1b03cc76da2357d942c"
+          "sha512": "04806c78c3f6fbeda93fbdf5bbcd3f96994778c72dcac80273c2ccb125c2a38bd5d612efbf0d077de9edc97d50a54132bdafab63e2441b1e599d44cf65d7ad92",
+          "sha256": "cb34b079720dbfb6a018424f818bcb778f952c0be798c44e60b2032ddaa04ab6",
+          "sha1": "8c083260c58e96e8ed11484210d89bee038b2ab5",
+          "md5": "06ed317af1d199c612996fe2fc897e7d"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "name": "logger-1.5.4.jar",
           "url": "logger-1.5.4.jar",
           "size": 8658,
-          "sha512": "2a121b6fdd9eb92a04d178aa12129969a0c38aae6aad105638c011c1efb16c2d96250fbd94d85ccc1f1827ba2c208173f8db7388d4dc0db2f1c8caaef7f21f7a",
-          "sha256": "5a388d324ec5d2d165c5f993accf313780b15cbab1659cc6d1fdc8a55ba61088",
-          "sha1": "a8df4b5be83bdf1e0c1812b9b2185b74dbfc9b37",
-          "md5": "df99af567eb0d1b03cc76da2357d942c"
+          "sha512": "04806c78c3f6fbeda93fbdf5bbcd3f96994778c72dcac80273c2ccb125c2a38bd5d612efbf0d077de9edc97d50a54132bdafab63e2441b1e599d44cf65d7ad92",
+          "sha256": "cb34b079720dbfb6a018424f818bcb778f952c0be798c44e60b2032ddaa04ab6",
+          "sha1": "8c083260c58e96e8ed11484210d89bee038b2ab5",
+          "md5": "06ed317af1d199c612996fe2fc897e7d"
         }
       ]
     }
