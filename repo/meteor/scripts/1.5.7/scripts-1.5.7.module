@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "scripts",
+    "version": "1.5.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "scripts-1.5.7.jar",
+          "url": "scripts-1.5.7.jar",
+          "size": 31947,
+          "sha512": "03db410369a22177202ed9ef1783aaf03c87a19450aff9e9fd5859c8661dcbaa3772a28fbacc6ed344e1af5053cbb7660db2db98a6901640fc213fd2d3dc8653",
+          "sha256": "fe69d21a5500d71aa878d005e773caa526744ce54287d821ca6d926b068dc913",
+          "sha1": "e34889af7b916adee82d8b5ba9ba092ae37ded3c",
+          "md5": "96dd6e9d6a208648a711d1672865a4a1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.20"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "23.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "scripts-1.5.7.jar",
+          "url": "scripts-1.5.7.jar",
+          "size": 31947,
+          "sha512": "03db410369a22177202ed9ef1783aaf03c87a19450aff9e9fd5859c8661dcbaa3772a28fbacc6ed344e1af5053cbb7660db2db98a6901640fc213fd2d3dc8653",
+          "sha256": "fe69d21a5500d71aa878d005e773caa526744ce54287d821ca6d926b068dc913",
+          "sha1": "e34889af7b916adee82d8b5ba9ba092ae37ded3c",
+          "md5": "96dd6e9d6a208648a711d1672865a4a1"
+        }
+      ]
+    }
+  ]
+}

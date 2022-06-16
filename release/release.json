@@ -1,11 +1,11 @@
 {
-  "version": "1.5.6-1",
+  "version": "1.5.7-1",
   "updateInfo": "Items are okay I guess",
   "files": [
     {
       "name": "meteor-client\\app\\.jpackage.xml",
       "size": 200,
-      "hash": "AC5ABB17AD2CDE05D2C3FADB799C77A10990DE51534D763BB05F64FE74CADEB8"
+      "hash": "CBC92A3AA53DDFEDCEBCE7A4CBE93E79D18736302BE2B4915AF61E0CBC2FF0AE"
     },
     {
       "name": "meteor-client\\app\\animation-core-desktop-1.2.0-alpha01-dev686-34f2b4c2d50ff4f4c3e8b72c4929c6.jar",
@@ -18,9 +18,9 @@
       "hash": "EC71A16C67A730634D3FCB2DF9ABCF6F9856F358CC643620473EE15CD46FFD08"
     },
     {
-      "name": "meteor-client\\app\\annotations-1.5.6-52e54602f38bad8cceba2908fadeb16.jar",
+      "name": "meteor-client\\app\\annotations-1.5.7-d9e4d4b61dc4cd8406bbc5a54d66e4e.jar",
       "size": 8843,
-      "hash": "64A22F01367DBCFFD5216463E01E503EA1F42302D4AEC1881B998502B2B5C8E6"
+      "hash": "1422BF125F29957BDB9A21A035BF3CF8899086E3AFB545026905FE36E84FCEFA"
     },
     {
       "name": "meteor-client\\app\\annotations-23.0.0-8484cd17d040d837983323f760b2c660.jar",
@@ -28,14 +28,14 @@
       "hash": "7B0F19724082CBFCBC66E5ABEA2B9BC92CF08A1EA11E191933ED43801EB3CD05"
     },
     {
-      "name": "meteor-client\\app\\api-1.5.6-7cbc96583364581ddf19edcf79c4d4.jar",
+      "name": "meteor-client\\app\\api-1.5.7-ec46de179940ebe5199eb87a13fec32c.jar",
       "size": 1338171,
-      "hash": "8891E11236D869E493DC85FBB47070DD1FBE8697341535E4AFD28DC69618C85B"
+      "hash": "EAC08FD5BE93B9532FB48175DE59EE7117DA3501FF651137D7007071FF97A139"
     },
     {
-      "name": "meteor-client\\app\\api-rs-1.5.6-a0c9d407d5a469f6734f758359c4e7e.jar",
+      "name": "meteor-client\\app\\api-rs-1.5.7-e9f815d2c1c339a4c9dd7d25be2c311.jar",
       "size": 123367,
-      "hash": "26F4A92AE9B5D071509F478E9CBC3192985F31A9304A00B5CA1D56D719D3FC77"
+      "hash": "919B05D67FB0943F9DF7F8C344798A3DB5EEA9485C6533AEBFB4E19822D355F2"
     },
     {
       "name": "meteor-client\\app\\atomicfu-jvm-0.17.2-d6b6f3a195696acf1828b1f125125ed7.jar",
@@ -163,9 +163,9 @@
       "hash": "44CE229CE26D880BF3AFC362BBFCEC34D7E6903D195BBB1DB9F3B6E0D9834F06"
     },
     {
-      "name": "meteor-client\\app\\http-1.5.6-bd81b6194dd3080eed3ffd4574264.jar",
+      "name": "meteor-client\\app\\http-1.5.7-2bd2130d9de6ea2bdc54053e790f1a4.jar",
       "size": 104410,
-      "hash": "AAC30944D71A28D87721BF0CB0F919B11F26262A578AE9112C1178060A8C87AF"
+      "hash": "DCA6E7EF77DCE69422B7CFC328C305CB9C2F8842A507245815A932F9FD7521FB"
     },
     {
       "name": "meteor-client\\app\\icudtl.dat",
@@ -173,9 +173,9 @@
       "hash": "846942A316B4E38FDBD4DE3AD83E4FAAE78A8BCED50F4720ACDBDAB6EE7C4B8E"
     },
     {
-      "name": "meteor-client\\app\\injected-1.5.6-7098876b535959a5bbcacfaa94f5c2d.jar",
-      "size": 3697835,
-      "hash": "0321D1F68E089ED766748823B1D835C67577CB52F7BBF16B2ED0B604958E2175"
+      "name": "meteor-client\\app\\injected-1.5.7-eeaaf868aa164373aa482764c89777.jar",
+      "size": 3697811,
+      "hash": "0DDD7E966CC217E311C9240B97725671B7D026D3001B39867186452104FC33BB"
     },
     {
       "name": "meteor-client\\app\\j2objc-annotations-1.3-5fa4ec4ec0c5aa70af8a7d4922df1931.jar",
@@ -293,9 +293,9 @@
       "hash": "B372A037D4230AA57FBEFFDEF30FD6123F9C0C2DB85D0ACED00C91B974F33F99"
     },
     {
-      "name": "meteor-client\\app\\logger-1.5.6-27d8a5faa14eb0b37e39f611e476f7d5.jar",
+      "name": "meteor-client\\app\\logger-1.5.7-5c519a2a99138dffa5edbff93c94703a.jar",
       "size": 8658,
-      "hash": "FAAC101D09D122D78CEEF571A28ECAAE05CDBD07F25ED169C4FBFABDAD000CFB"
+      "hash": "2C4FB813500B2E4181AE9E31EFCEE88C519AA64ABE806BD35AA12732409E99CC"
     },
     {
       "name": "meteor-client\\app\\material-desktop-1.2.0-alpha01-dev686-b1866daa2bad5fe591bd6b3179ed559c.jar",
@@ -313,14 +313,14 @@
       "hash": "05B00E8745C9C16CDF67E903BA3CDDC0E3AD149597FB0DA7070F8944E659B0C4"
     },
     {
-      "name": "meteor-client\\app\\meteor-client-1.5.6-r1-9b6aa8e3f64d91e7971a385231f6f15.jar",
-      "size": 8981822,
-      "hash": "BC29D7644A2F4214E5E12BDB0BB90C4142B671A2D2022EF6EE8CCF9F90D042DF"
+      "name": "meteor-client\\app\\meteor-client-1.5.7-r1-d693873e1ecda591a6f986f9c461fdb9.jar",
+      "size": 8981803,
+      "hash": "98046008EFE2A5DCCC0C603CFB13A0B9E7AABC0499692DB5D6AE6FBB61D26BBB"
     },
     {
       "name": "meteor-client\\app\\meteor-client.cfg",
-      "size": 7912,
-      "hash": "CB4B3E8F5A8795E2794A495E3CCD4C0BB28F3AC3459EDEE59D459D7048970515"
+      "size": 7918,
+      "hash": "DAC91AE1B87BE64506B7107D1FD38890A05764F18F226E0C492B45799C5CB13D"
     },
     {
       "name": "meteor-client\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -353,9 +353,9 @@
       "hash": "7DA9427375532325C56F0C7190D091197B09A5C4453C90D2E67FDEDD2008EA92"
     },
     {
-      "name": "meteor-client\\app\\scripts-1.5.6-3c1ab6616d35f6f56ab1ee075ea6642.jar",
+      "name": "meteor-client\\app\\scripts-1.5.7-96dd6e9d6a208648a711d1672865a4a1.jar",
       "size": 31947,
-      "hash": "D32603ED6CA5B8933D35CC1564483D23F93575D4928EF38B5CBDB8905EE93B69"
+      "hash": "FE69D21A5500D71AA878D005E773CAA526744CE54287D821CA6D926B068DC913"
     },
     {
       "name": "meteor-client\\app\\skiko-awt-0.7.18-21b7c15c7855c5edf8cc9ba4572ad.jar",
@@ -435,7 +435,7 @@
     {
       "name": "meteor-client\\meteor-client.exe",
       "size": 429568,
-      "hash": "D34D4408433109835D4C0201BF3DBD63B447F07667FC4D3409BF5D7B7008CFAF"
+      "hash": "826D116064A1191BB0C71FE3384E37005EA8FA51AC13D491B21F72010BAD8232"
     },
     {
       "name": "meteor-client\\meteor-client.ico",
