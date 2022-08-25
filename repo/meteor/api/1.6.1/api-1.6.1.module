@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,8 +36,8 @@
       ],
       "files": [
         {
-          "name": "api-1.6.0.jar",
-          "url": "api-1.6.0.jar",
+          "name": "api-1.6.1.jar",
+          "url": "api-1.6.1.jar",
           "size": 1337766,
           "sha512": "871d09e92759fd8307b1f0ae7d4680a113d52b86fc63cc6ceab3488a6dada3c9ed6199034a7586f3292f56c5f5d44083399f0c2ac9840df7d55ec345b5c89c10",
           "sha256": "68ffa52f642d628b8fade18140b0dd49251e468d7d2942876bd088d0c325a18b",
@@ -62,14 +62,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "meteor",
           "module": "logger",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.6.1"
           }
         },
         {
@@ -110,8 +110,8 @@
       ],
       "files": [
         {
-          "name": "api-1.6.0.jar",
-          "url": "api-1.6.0.jar",
+          "name": "api-1.6.1.jar",
+          "url": "api-1.6.1.jar",
           "size": 1337766,
           "sha512": "871d09e92759fd8307b1f0ae7d4680a113d52b86fc63cc6ceab3488a6dada3c9ed6199034a7586f3292f56c5f5d44083399f0c2ac9840df7d55ec345b5c89c10",
           "sha256": "68ffa52f642d628b8fade18140b0dd49251e468d7d2942876bd088d0c325a18b",

@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api-rs",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,8 +25,8 @@
       },
       "files": [
         {
-          "name": "api-rs-1.6.0.jar",
-          "url": "api-rs-1.6.0.jar",
+          "name": "api-rs-1.6.1.jar",
+          "url": "api-rs-1.6.1.jar",
           "size": 123317,
           "sha512": "6c636158daef28b59c343ae6887dd2ae7637e371c90c39453f2a11ac550da3f6d17a73d3c7daab7197fa1e1f078e3d060efe41a7fdfa525fe43e1f75ce36434f",
           "sha256": "28b6e7d65ee8f7689a462ceae8c979725c6175cfc554b07faa6532c57f4d806f",
@@ -49,14 +49,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "meteor",
           "module": "api",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.6.1"
           }
         },
         {
@@ -66,8 +66,8 @@
       ],
       "files": [
         {
-          "name": "api-rs-1.6.0.jar",
-          "url": "api-rs-1.6.0.jar",
+          "name": "api-rs-1.6.1.jar",
+          "url": "api-rs-1.6.1.jar",
           "size": 123317,
           "sha512": "6c636158daef28b59c343ae6887dd2ae7637e371c90c39453f2a11ac550da3f6d17a73d3c7daab7197fa1e1f078e3d060efe41a7fdfa525fe43e1f75ce36434f",
           "sha256": "28b6e7d65ee8f7689a462ceae8c979725c6175cfc554b07faa6532c57f4d806f",
