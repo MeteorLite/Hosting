@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "api-1.6.1.jar",
-          "url": "api-1.6.1.jar",
-          "size": 1337750,
-          "sha512": "60d0086cd8816657d788a389ada5a9320ca10838331cda70eaeff023da386e86687a0e3b9e8d09b9fc8b0e5577caa43b26150f7d8565f5dbef6c1bd0cef3ab1a",
-          "sha256": "6209415e966ea0c10d13a89ca26bf8ee16d57995d449f97fd85e79944888a735",
-          "sha1": "a8e88571a47f01496ac97ff8c2eb6b5236470e92",
-          "md5": "5c8ff5c536f058f7814a25ef8808d544"
+          "name": "api-1.6.2.jar",
+          "url": "api-1.6.2.jar",
+          "size": 1337273,
+          "sha512": "54da96f3a4973f4f65e0e6fc06568b8e7f0debeb04720bc3af96ac915657ea34191e93c99b212df0574a6203a948be4ddb991324310f7ad002b054c9b5a611e5",
+          "sha256": "705141297b8d2f34871f6f474f9764047391290cdeb2af2f82620b0caee594b2",
+          "sha1": "fc0fc73e711ca4717759ba993068dd1ee063198d",
+          "md5": "f207135e62a84c0052648c7c7d8eca20"
         }
       ]
     },
@@ -62,14 +62,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.6.2"
           }
         },
         {
           "group": "meteor",
           "module": "logger",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.6.2"
           }
         },
         {
@@ -110,13 +110,13 @@
       ],
       "files": [
         {
-          "name": "api-1.6.1.jar",
-          "url": "api-1.6.1.jar",
-          "size": 1337750,
-          "sha512": "60d0086cd8816657d788a389ada5a9320ca10838331cda70eaeff023da386e86687a0e3b9e8d09b9fc8b0e5577caa43b26150f7d8565f5dbef6c1bd0cef3ab1a",
-          "sha256": "6209415e966ea0c10d13a89ca26bf8ee16d57995d449f97fd85e79944888a735",
-          "sha1": "a8e88571a47f01496ac97ff8c2eb6b5236470e92",
-          "md5": "5c8ff5c536f058f7814a25ef8808d544"
+          "name": "api-1.6.2.jar",
+          "url": "api-1.6.2.jar",
+          "size": 1337273,
+          "sha512": "54da96f3a4973f4f65e0e6fc06568b8e7f0debeb04720bc3af96ac915657ea34191e93c99b212df0574a6203a948be4ddb991324310f7ad002b054c9b5a611e5",
+          "sha256": "705141297b8d2f34871f6f474f9764047391290cdeb2af2f82620b0caee594b2",
+          "sha1": "fc0fc73e711ca4717759ba993068dd1ee063198d",
+          "md5": "f207135e62a84c0052648c7c7d8eca20"
         }
       ]
     }

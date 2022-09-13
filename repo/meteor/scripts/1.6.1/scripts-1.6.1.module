@@ -20,7 +20,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 18,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -30,10 +30,10 @@
           "name": "scripts-1.6.1.jar",
           "url": "scripts-1.6.1.jar",
           "size": 31942,
-          "sha512": "a3a4691ad6af85df36306933b1c6bb7d7ddaea8ee9e9fab8aeba677f4c696e123bb61c6e8e467949aed479de62e95cfae7c8ac4dd7d70569f06b4cc471add3b5",
-          "sha256": "78f501f03f9ba22803c735004f1a13c73e228b0f434fc54098ea862eea10f655",
-          "sha1": "9aba3a80c0c6081127b9883d4488da59942955c7",
-          "md5": "1f21d946518f9fbb271c073b2c299ec9"
+          "sha512": "cd21f10666835bbed5b655e975649bf5047e6538119d2d142b25f2bdfae30eb933a3196deae4cb1f6973330b03d9dda77c04c68ea144130f9d92a3baf179f962",
+          "sha256": "6abf3d93d732679670dcd0abc8a8f129c7901a6fcf193fec42d6f4d04d138b02",
+          "sha1": "4367395e4dce35a20062125938fa2b78ec0f46cb",
+          "md5": "9fe62d4c561e7eb4a2fa34802edd83ea"
         }
       ]
     },
@@ -43,7 +43,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 18,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -69,10 +69,10 @@
           "name": "scripts-1.6.1.jar",
           "url": "scripts-1.6.1.jar",
           "size": 31942,
-          "sha512": "a3a4691ad6af85df36306933b1c6bb7d7ddaea8ee9e9fab8aeba677f4c696e123bb61c6e8e467949aed479de62e95cfae7c8ac4dd7d70569f06b4cc471add3b5",
-          "sha256": "78f501f03f9ba22803c735004f1a13c73e228b0f434fc54098ea862eea10f655",
-          "sha1": "9aba3a80c0c6081127b9883d4488da59942955c7",
-          "md5": "1f21d946518f9fbb271c073b2c299ec9"
+          "sha512": "cd21f10666835bbed5b655e975649bf5047e6538119d2d142b25f2bdfae30eb933a3196deae4cb1f6973330b03d9dda77c04c68ea144130f9d92a3baf179f962",
+          "sha256": "6abf3d93d732679670dcd0abc8a8f129c7901a6fcf193fec42d6f4d04d138b02",
+          "sha1": "4367395e4dce35a20062125938fa2b78ec0f46cb",
+          "md5": "9fe62d4c561e7eb4a2fa34802edd83ea"
         }
       ]
     }

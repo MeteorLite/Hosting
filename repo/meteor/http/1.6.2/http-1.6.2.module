@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "http",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "http-1.6.1.jar",
-          "url": "http-1.6.1.jar",
-          "size": 104410,
-          "sha512": "f9f4a3c2b97de3f27b1623645bcc62c5f0697540d7235d8719df2244b2821c8ca426e67ef612da5f50a3f377c6c1b1657eaf2b0346068352cc1c25441208baac",
-          "sha256": "255b071ab56291c0ce9e31854724aeb3f6df1d2d38d2f1397683e539c6573270",
-          "sha1": "f4e69bbcea1fff5725a60466646d8f9c2c5fe6d8",
-          "md5": "9e1008ddc2afb88679cb493862993b65"
+          "name": "http-1.6.2.jar",
+          "url": "http-1.6.2.jar",
+          "size": 104648,
+          "sha512": "db70095afbafb5ed353943c6ee3031d9c4d8d7606bb87c2bd43f407d479eef551d58b1132e1be6db3e2319dae4e9755f8c26df4cfd4e84d6ca73cb8146c0e778",
+          "sha256": "8c7a9ef50a19d603720c91c90b31d8114f31cea1c81e8239ccc099b167c87e63",
+          "sha1": "1a52f7759521ee8d19f2822fe07f060693e2b378",
+          "md5": "294b056990ee92b47b5e170331d17f4d"
         }
       ]
     },
@@ -49,14 +49,14 @@
           "group": "meteor",
           "module": "api",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.6.2"
           }
         },
         {
           "group": "meteor",
           "module": "logger",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.6.2"
           }
         },
         {
@@ -93,13 +93,13 @@
       ],
       "files": [
         {
-          "name": "http-1.6.1.jar",
-          "url": "http-1.6.1.jar",
-          "size": 104410,
-          "sha512": "f9f4a3c2b97de3f27b1623645bcc62c5f0697540d7235d8719df2244b2821c8ca426e67ef612da5f50a3f377c6c1b1657eaf2b0346068352cc1c25441208baac",
-          "sha256": "255b071ab56291c0ce9e31854724aeb3f6df1d2d38d2f1397683e539c6573270",
-          "sha1": "f4e69bbcea1fff5725a60466646d8f9c2c5fe6d8",
-          "md5": "9e1008ddc2afb88679cb493862993b65"
+          "name": "http-1.6.2.jar",
+          "url": "http-1.6.2.jar",
+          "size": 104648,
+          "sha512": "db70095afbafb5ed353943c6ee3031d9c4d8d7606bb87c2bd43f407d479eef551d58b1132e1be6db3e2319dae4e9755f8c26df4cfd4e84d6ca73cb8146c0e778",
+          "sha256": "8c7a9ef50a19d603720c91c90b31d8114f31cea1c81e8239ccc099b167c87e63",
+          "sha1": "1a52f7759521ee8d19f2822fe07f060693e2b378",
+          "md5": "294b056990ee92b47b5e170331d17f4d"
         }
       ]
     }
