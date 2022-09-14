@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api-rs",
-    "version": "1.6.6",
+    "version": "1.6.7",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "api-rs-1.6.6.jar",
-          "url": "api-rs-1.6.6.jar",
+          "name": "api-rs-1.6.7.jar",
+          "url": "api-rs-1.6.7.jar",
           "size": 123444,
-          "sha512": "639e6b6613ef287671d448521056842026eab8a377629357f853d85298ad303428b6befedd8b30298b28865bc53012bc8bd4e7721380b273ca29583460baad57",
-          "sha256": "c08456db3cf7c445e2ff60eaf5caf4f8bc93e63d913bf477076b6086f889770b",
-          "sha1": "20b5447c3fcc7e0eabd027f54be126d92d5c98e0",
-          "md5": "debf5802188e9491da8a1189f4f2b8a9"
+          "sha512": "8a172485e8117ed1d930f12425018752b2a3a7a6696386147d054149dfd2d8de6d9671079af30c5eab95f7ca1d417f8bd2eb9cb54ac8d45062402525dd6561e4",
+          "sha256": "8e384796fb86a65daa00ca7a56939c6a8095ea733538aab85f9b740b9d5ebb77",
+          "sha1": "8686a5affef0852942d3809a15967e52743662e4",
+          "md5": "175f85e61804a0ad6fbc689c9a5eb20b"
         }
       ]
     },
@@ -49,14 +49,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.6.6"
+            "requires": "1.6.7"
           }
         },
         {
           "group": "meteor",
           "module": "api",
           "version": {
-            "requires": "1.6.6"
+            "requires": "1.6.7"
           }
         },
         {
@@ -66,13 +66,13 @@
       ],
       "files": [
         {
-          "name": "api-rs-1.6.6.jar",
-          "url": "api-rs-1.6.6.jar",
+          "name": "api-rs-1.6.7.jar",
+          "url": "api-rs-1.6.7.jar",
           "size": 123444,
-          "sha512": "639e6b6613ef287671d448521056842026eab8a377629357f853d85298ad303428b6befedd8b30298b28865bc53012bc8bd4e7721380b273ca29583460baad57",
-          "sha256": "c08456db3cf7c445e2ff60eaf5caf4f8bc93e63d913bf477076b6086f889770b",
-          "sha1": "20b5447c3fcc7e0eabd027f54be126d92d5c98e0",
-          "md5": "debf5802188e9491da8a1189f4f2b8a9"
+          "sha512": "8a172485e8117ed1d930f12425018752b2a3a7a6696386147d054149dfd2d8de6d9671079af30c5eab95f7ca1d417f8bd2eb9cb54ac8d45062402525dd6561e4",
+          "sha256": "8e384796fb86a65daa00ca7a56939c6a8095ea733538aab85f9b740b9d5ebb77",
+          "sha1": "8686a5affef0852942d3809a15967e52743662e4",
+          "md5": "175f85e61804a0ad6fbc689c9a5eb20b"
         }
       ]
     }
