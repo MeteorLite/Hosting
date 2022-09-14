@@ -39,10 +39,10 @@
           "name": "api-1.6.2.jar",
           "url": "api-1.6.2.jar",
           "size": 1337273,
-          "sha512": "54da96f3a4973f4f65e0e6fc06568b8e7f0debeb04720bc3af96ac915657ea34191e93c99b212df0574a6203a948be4ddb991324310f7ad002b054c9b5a611e5",
-          "sha256": "705141297b8d2f34871f6f474f9764047391290cdeb2af2f82620b0caee594b2",
-          "sha1": "fc0fc73e711ca4717759ba993068dd1ee063198d",
-          "md5": "f207135e62a84c0052648c7c7d8eca20"
+          "sha512": "a07de57a9e25f79adb0c078f915b3abadfa2835e55c96d856f4b144ec9c47cc81ba4f5ad6f4b7209ecaee79b2559ff5c10a6fcaecff33de6e5aeab6216800cd3",
+          "sha256": "a6be61666afb561b1cbcc8455bcb788563b9190297f6893cca674a0c3806f05d",
+          "sha1": "8d7850d677ac6e55a366cbed4f7752f4072af5be",
+          "md5": "ef84b42c84f9ddb69cc09d66dfc08de2"
         }
       ]
     },
@@ -113,10 +113,10 @@
           "name": "api-1.6.2.jar",
           "url": "api-1.6.2.jar",
           "size": 1337273,
-          "sha512": "54da96f3a4973f4f65e0e6fc06568b8e7f0debeb04720bc3af96ac915657ea34191e93c99b212df0574a6203a948be4ddb991324310f7ad002b054c9b5a611e5",
-          "sha256": "705141297b8d2f34871f6f474f9764047391290cdeb2af2f82620b0caee594b2",
-          "sha1": "fc0fc73e711ca4717759ba993068dd1ee063198d",
-          "md5": "f207135e62a84c0052648c7c7d8eca20"
+          "sha512": "a07de57a9e25f79adb0c078f915b3abadfa2835e55c96d856f4b144ec9c47cc81ba4f5ad6f4b7209ecaee79b2559ff5c10a6fcaecff33de6e5aeab6216800cd3",
+          "sha256": "a6be61666afb561b1cbcc8455bcb788563b9190297f6893cca674a0c3806f05d",
+          "sha1": "8d7850d677ac6e55a366cbed4f7752f4072af5be",
+          "md5": "ef84b42c84f9ddb69cc09d66dfc08de2"
         }
       ]
     }

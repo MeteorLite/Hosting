@@ -30,10 +30,10 @@
           "name": "annotations-1.6.2.jar",
           "url": "annotations-1.6.2.jar",
           "size": 8843,
-          "sha512": "1bcd6e66e4a3c032860fb24d9e0b0e1d9ad78db7bc966458b39b94409d2d7f4ee952491c48ed0c5b6b2d47fe346db2d0c90f4485d1b0c197b71f05c2d1d0fce9",
-          "sha256": "949bf1536a5c975558c07cfd7dc78a6dd2bc328a11069e446da3fbabddb44b5d",
-          "sha1": "829cd892681d01f6f07ad0ffa1d5abe2a7fb822d",
-          "md5": "67ed8add6af743a023c28a3c8739bcb0"
+          "sha512": "afcfbeba5ec6cf8d614dec4bbc5b1967766d07603970ed209607af8a3302ce4587b1df40858740d61365aeb83f57cf3e0d6a1eccbd3f8323a7dae153b6753720",
+          "sha256": "c884b453107614e926b21991c3adaad18f8d45a7f2b484d3e009cd348d1ad67b",
+          "sha1": "792354c5dfb3b291fc2e2f8232a5ba852e4ed55c",
+          "md5": "e36acb2481434d1d3e0f7254f329f763"
         }
       ]
     },
@@ -62,10 +62,10 @@
           "name": "annotations-1.6.2.jar",
           "url": "annotations-1.6.2.jar",
           "size": 8843,
-          "sha512": "1bcd6e66e4a3c032860fb24d9e0b0e1d9ad78db7bc966458b39b94409d2d7f4ee952491c48ed0c5b6b2d47fe346db2d0c90f4485d1b0c197b71f05c2d1d0fce9",
-          "sha256": "949bf1536a5c975558c07cfd7dc78a6dd2bc328a11069e446da3fbabddb44b5d",
-          "sha1": "829cd892681d01f6f07ad0ffa1d5abe2a7fb822d",
-          "md5": "67ed8add6af743a023c28a3c8739bcb0"
+          "sha512": "afcfbeba5ec6cf8d614dec4bbc5b1967766d07603970ed209607af8a3302ce4587b1df40858740d61365aeb83f57cf3e0d6a1eccbd3f8323a7dae153b6753720",
+          "sha256": "c884b453107614e926b21991c3adaad18f8d45a7f2b484d3e009cd348d1ad67b",
+          "sha1": "792354c5dfb3b291fc2e2f8232a5ba852e4ed55c",
+          "md5": "e36acb2481434d1d3e0f7254f329f763"
         }
       ]
     }

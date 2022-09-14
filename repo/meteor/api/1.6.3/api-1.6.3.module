@@ -1,0 +1,124 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "api",
+    "version": "1.6.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "api-1.6.3.jar",
+          "url": "api-1.6.3.jar",
+          "size": 1339550,
+          "sha512": "9fc782ebf4812a03e4d8f932b967ab7eaa4b3ea38612aefe9dac9e94936940c1cb898fa9d21746b188274ae2b8cb9e6d7b9afd376516b8fdbc4035b615a6be96",
+          "sha256": "06d6782d5efefd3ab0428364924d0eea4ae82eae40a4bca2273bac2ab59e9176",
+          "sha1": "f15eba7e3e4f6396fce1009ef496480e8ab92fc1",
+          "md5": "304afea99642dc3775336764f5e77c48"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "meteor",
+          "module": "annotations",
+          "version": {
+            "requires": "1.6.3"
+          }
+        },
+        {
+          "group": "meteor",
+          "module": "logger",
+          "version": {
+            "requires": "1.6.3"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "23.2-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "23.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "api-1.6.3.jar",
+          "url": "api-1.6.3.jar",
+          "size": 1339550,
+          "sha512": "9fc782ebf4812a03e4d8f932b967ab7eaa4b3ea38612aefe9dac9e94936940c1cb898fa9d21746b188274ae2b8cb9e6d7b9afd376516b8fdbc4035b615a6be96",
+          "sha256": "06d6782d5efefd3ab0428364924d0eea4ae82eae40a4bca2273bac2ab59e9176",
+          "sha1": "f15eba7e3e4f6396fce1009ef496480e8ab92fc1",
+          "md5": "304afea99642dc3775336764f5e77c48"
+        }
+      ]
+    }
+  ]
+}
