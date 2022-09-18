@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteor",
+    "module": "scripts",
+    "version": "1.6.11",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "scripts-1.6.11.jar",
+          "url": "scripts-1.6.11.jar",
+          "size": 28428,
+          "sha512": "c25d0f4cd42c598003cffd444e6aa3c95a9b669b1e31bc624fd4e07fb0866bfd27f41db9fb48d798764bd674ba55cdfb8869b0a2a15790c6ecdbb6080d084b0b",
+          "sha256": "bdf2757c77cd093d90e379a3b61ef1e39e1414e60a1485100b51e51ecd363631",
+          "sha1": "6f20a403979706efa9a882e4ce34c21f8af05246",
+          "md5": "8c1ff134f1f5680fe95e7bdf0d2faf94"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "23.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "scripts-1.6.11.jar",
+          "url": "scripts-1.6.11.jar",
+          "size": 28428,
+          "sha512": "c25d0f4cd42c598003cffd444e6aa3c95a9b669b1e31bc624fd4e07fb0866bfd27f41db9fb48d798764bd674ba55cdfb8869b0a2a15790c6ecdbb6080d084b0b",
+          "sha256": "bdf2757c77cd093d90e379a3b61ef1e39e1414e60a1485100b51e51ecd363631",
+          "sha1": "6f20a403979706efa9a882e4ce34c21f8af05246",
+          "md5": "8c1ff134f1f5680fe95e7bdf0d2faf94"
+        }
+      ]
+    }
+  ]
+}
