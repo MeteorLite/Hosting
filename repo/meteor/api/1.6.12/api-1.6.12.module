@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api",
-    "version": "1.6.11",
+    "version": "1.6.12",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "api-1.6.11.jar",
-          "url": "api-1.6.11.jar",
+          "name": "api-1.6.12.jar",
+          "url": "api-1.6.12.jar",
           "size": 1341880,
-          "sha512": "43fafeee69ea24a2bab56496ad1ad7831e9f28e7183f5848bb54114b53f525cff8e3b2b9716abecb26d893afd0ce30e834c110142c7c2a857730888bf462be7b",
-          "sha256": "feb636a2035cb821d46643a172d0971d98be23c37609c16a6eb8d33f55c0b6c2",
-          "sha1": "82ac63e25831f29b7b8af423f3770f1a9e8535d8",
-          "md5": "c9c5b2550233322d9533533a21a24ffd"
+          "sha512": "33fdf2a608899f795defc6f2e652c7f308d276e674f9e74fb7ce352a240740c56188a23152598dc4bb30b504f59e93e7f7bbea8d1c8ee510e0e571adcc01465d",
+          "sha256": "6b6200d37ef9561e07892ac2d6ad07f70b15b6cb66f7610acfb218abf7189ede",
+          "sha1": "f51e7325ca89ec24ea4d72d322c0026a8d77942e",
+          "md5": "64876498627a759c4530d166ed092dd0"
         }
       ]
     },
@@ -62,14 +62,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.6.11"
+            "requires": "1.6.12"
           }
         },
         {
           "group": "meteor",
           "module": "logger",
           "version": {
-            "requires": "1.6.11"
+            "requires": "1.6.12"
           }
         },
         {
@@ -110,13 +110,13 @@
       ],
       "files": [
         {
-          "name": "api-1.6.11.jar",
-          "url": "api-1.6.11.jar",
+          "name": "api-1.6.12.jar",
+          "url": "api-1.6.12.jar",
           "size": 1341880,
-          "sha512": "43fafeee69ea24a2bab56496ad1ad7831e9f28e7183f5848bb54114b53f525cff8e3b2b9716abecb26d893afd0ce30e834c110142c7c2a857730888bf462be7b",
-          "sha256": "feb636a2035cb821d46643a172d0971d98be23c37609c16a6eb8d33f55c0b6c2",
-          "sha1": "82ac63e25831f29b7b8af423f3770f1a9e8535d8",
-          "md5": "c9c5b2550233322d9533533a21a24ffd"
+          "sha512": "33fdf2a608899f795defc6f2e652c7f308d276e674f9e74fb7ce352a240740c56188a23152598dc4bb30b504f59e93e7f7bbea8d1c8ee510e0e571adcc01465d",
+          "sha256": "6b6200d37ef9561e07892ac2d6ad07f70b15b6cb66f7610acfb218abf7189ede",
+          "sha1": "f51e7325ca89ec24ea4d72d322c0026a8d77942e",
+          "md5": "64876498627a759c4530d166ed092dd0"
         }
       ]
     }

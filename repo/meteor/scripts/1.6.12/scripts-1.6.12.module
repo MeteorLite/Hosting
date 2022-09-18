@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "scripts",
-    "version": "1.6.11",
+    "version": "1.6.12",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "scripts-1.6.11.jar",
-          "url": "scripts-1.6.11.jar",
+          "name": "scripts-1.6.12.jar",
+          "url": "scripts-1.6.12.jar",
           "size": 28428,
-          "sha512": "22bf7f50d1b3c39048b63a867b4a6822f8890fa4140f371d3bcbd74ff986884ff263c1ede07ba97cd0d9f229c4a0656852a4d28273945a7f427453817c7eeb89",
-          "sha256": "8f9f2535eb0a005972d2de5d154fc1dc97c08fae97e26d7bae089003bcc8960e",
-          "sha1": "4c30b99bf8df8c98971b547b5751dcc6db9fb832",
-          "md5": "95600ed634543c03188c680333f4c05f"
+          "sha512": "7033cddffcbf457c7614744ebbb3c0b69faca069548b88e811edf830bd2731a717e040a507e069e3d093faa50f76843bc7ed408b952e6a4bbceea65e4f41d922",
+          "sha256": "12a357098fcbb42b4145622732755348db6c98cd66b7e7056304ea3fab5f0771",
+          "sha1": "0eec86c74b7f3da796bc77bd223ae7844ce2449b",
+          "md5": "2fb6346e3bcf22dfe9c807925db42377"
         }
       ]
     },
@@ -66,13 +66,13 @@
       ],
       "files": [
         {
-          "name": "scripts-1.6.11.jar",
-          "url": "scripts-1.6.11.jar",
+          "name": "scripts-1.6.12.jar",
+          "url": "scripts-1.6.12.jar",
           "size": 28428,
-          "sha512": "22bf7f50d1b3c39048b63a867b4a6822f8890fa4140f371d3bcbd74ff986884ff263c1ede07ba97cd0d9f229c4a0656852a4d28273945a7f427453817c7eeb89",
-          "sha256": "8f9f2535eb0a005972d2de5d154fc1dc97c08fae97e26d7bae089003bcc8960e",
-          "sha1": "4c30b99bf8df8c98971b547b5751dcc6db9fb832",
-          "md5": "95600ed634543c03188c680333f4c05f"
+          "sha512": "7033cddffcbf457c7614744ebbb3c0b69faca069548b88e811edf830bd2731a717e040a507e069e3d093faa50f76843bc7ed408b952e6a4bbceea65e4f41d922",
+          "sha256": "12a357098fcbb42b4145622732755348db6c98cd66b7e7056304ea3fab5f0771",
+          "sha1": "0eec86c74b7f3da796bc77bd223ae7844ce2449b",
+          "md5": "2fb6346e3bcf22dfe9c807925db42377"
         }
       ]
     }
