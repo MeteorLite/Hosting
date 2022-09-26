@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "logger",
-    "version": "1.6.13",
+    "version": "1.6.14",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -34,13 +34,13 @@
       ],
       "files": [
         {
-          "name": "logger-1.6.13.jar",
-          "url": "logger-1.6.13.jar",
+          "name": "logger-1.6.14.jar",
+          "url": "logger-1.6.14.jar",
           "size": 8579,
-          "sha512": "e072810cfbc051c51da4085b5326db91ff2af18df0267535ca5686cdf803da97229d02a8aa1d150de94e3c951aa637829eb61671703b1861528cc052c4906839",
-          "sha256": "a5625de0482a87db6d053ab229baf6564034a23e70293bdc1cdc224618fb11cc",
-          "sha1": "18055d95aed358f9c051e99a8660750dd0f261ab",
-          "md5": "32b6f668deedf1539f33b08b02f976ea"
+          "sha512": "261621669a8f328694b2b7748f487323ba14521b9b96bd1c95c2bc7f566466f32dbcd356a3b53cade14cf536324d0ac9da8b0ae6c2ab73aa2e36832349206b68",
+          "sha256": "4cdc9bc6db12a0a8ca944ce5b5eba4b781006a4ab1670940a53aa75f88740beb",
+          "sha1": "ef5804e477f6e9ea9db8c289a3a6cc1eacc8ae53",
+          "md5": "efb9ed20ff358239c169e8ff1d568590"
         }
       ]
     },
@@ -64,13 +64,13 @@
       ],
       "files": [
         {
-          "name": "logger-1.6.13.jar",
-          "url": "logger-1.6.13.jar",
+          "name": "logger-1.6.14.jar",
+          "url": "logger-1.6.14.jar",
           "size": 8579,
-          "sha512": "e072810cfbc051c51da4085b5326db91ff2af18df0267535ca5686cdf803da97229d02a8aa1d150de94e3c951aa637829eb61671703b1861528cc052c4906839",
-          "sha256": "a5625de0482a87db6d053ab229baf6564034a23e70293bdc1cdc224618fb11cc",
-          "sha1": "18055d95aed358f9c051e99a8660750dd0f261ab",
-          "md5": "32b6f668deedf1539f33b08b02f976ea"
+          "sha512": "261621669a8f328694b2b7748f487323ba14521b9b96bd1c95c2bc7f566466f32dbcd356a3b53cade14cf536324d0ac9da8b0ae6c2ab73aa2e36832349206b68",
+          "sha256": "4cdc9bc6db12a0a8ca944ce5b5eba4b781006a4ab1670940a53aa75f88740beb",
+          "sha1": "ef5804e477f6e9ea9db8c289a3a6cc1eacc8ae53",
+          "md5": "efb9ed20ff358239c169e8ff1d568590"
         }
       ]
     }

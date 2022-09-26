@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "annotations",
-    "version": "1.6.13",
+    "version": "1.6.14",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "annotations-1.6.13.jar",
-          "url": "annotations-1.6.13.jar",
+          "name": "annotations-1.6.14.jar",
+          "url": "annotations-1.6.14.jar",
           "size": 8843,
-          "sha512": "b3517c2e4e50bb4d1a1bbd69b3f8a8955032f10204a1f677d2a1535befad8f03b6d10a4da1d3779b2a5703d5abe9978749afa8e4574600b0af36dd32041ddda6",
-          "sha256": "423f417d041085a563c44590366a2c9660939e15bd9c27cb7437773d613f2425",
-          "sha1": "c1ec0eefa0aee8278c878bbad52796c3a17b18e0",
-          "md5": "ce34967dce8bf25760c5020bf20fba0e"
+          "sha512": "f6d48dae01866439fc76463238986de0c0f51b1cb6ff6888a66099ccbb6d4c5d688dc4184e62809f5b2f82ad30237a1da4c4c5140cb0697c1052a7e3966ab292",
+          "sha256": "7a40f9e6b30618be6f8ec6f413f8f0510b723e2e0769ba40678d1e5e7dcb80fb",
+          "sha1": "e0aa1429e4347891a6f024bfdc8035eef0d8ca37",
+          "md5": "645140d91fae78118be32ca6db742102"
         }
       ]
     },
@@ -59,13 +59,13 @@
       ],
       "files": [
         {
-          "name": "annotations-1.6.13.jar",
-          "url": "annotations-1.6.13.jar",
+          "name": "annotations-1.6.14.jar",
+          "url": "annotations-1.6.14.jar",
           "size": 8843,
-          "sha512": "b3517c2e4e50bb4d1a1bbd69b3f8a8955032f10204a1f677d2a1535befad8f03b6d10a4da1d3779b2a5703d5abe9978749afa8e4574600b0af36dd32041ddda6",
-          "sha256": "423f417d041085a563c44590366a2c9660939e15bd9c27cb7437773d613f2425",
-          "sha1": "c1ec0eefa0aee8278c878bbad52796c3a17b18e0",
-          "md5": "ce34967dce8bf25760c5020bf20fba0e"
+          "sha512": "f6d48dae01866439fc76463238986de0c0f51b1cb6ff6888a66099ccbb6d4c5d688dc4184e62809f5b2f82ad30237a1da4c4c5140cb0697c1052a7e3966ab292",
+          "sha256": "7a40f9e6b30618be6f8ec6f413f8f0510b723e2e0769ba40678d1e5e7dcb80fb",
+          "sha1": "e0aa1429e4347891a6f024bfdc8035eef0d8ca37",
+          "md5": "645140d91fae78118be32ca6db742102"
         }
       ]
     }

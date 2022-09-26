@@ -2,8 +2,8 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "annotations",
-    "version": "1.6.13",
+    "module": "scripts",
+    "version": "1.6.14",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "annotations-1.6.13.jar",
-          "url": "annotations-1.6.13.jar",
-          "size": 8843,
-          "sha512": "b3517c2e4e50bb4d1a1bbd69b3f8a8955032f10204a1f677d2a1535befad8f03b6d10a4da1d3779b2a5703d5abe9978749afa8e4574600b0af36dd32041ddda6",
-          "sha256": "423f417d041085a563c44590366a2c9660939e15bd9c27cb7437773d613f2425",
-          "sha1": "c1ec0eefa0aee8278c878bbad52796c3a17b18e0",
-          "md5": "ce34967dce8bf25760c5020bf20fba0e"
+          "name": "scripts-1.6.14.jar",
+          "url": "scripts-1.6.14.jar",
+          "size": 28428,
+          "sha512": "ea834d3b000fb5baa4db8b6739e7df65d129d3751cfa07ca9b00209362be730429fcf8b7266d08de454c15bff475e12e81e7b6e25134ce74e07f41ef28f753a1",
+          "sha256": "d1888325f06d8b498327ce708eb3c72e8fd4ddc1005487b9420f2bb791690d33",
+          "sha1": "748f61afdce8d21ec234f196e79a9b3502a863f9",
+          "md5": "a4a0efa8e380efab16cecd01ff689611"
         }
       ]
     },
@@ -51,21 +51,28 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.10"
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "23.0.0"
           }
         }
       ],
       "files": [
         {
-          "name": "annotations-1.6.13.jar",
-          "url": "annotations-1.6.13.jar",
-          "size": 8843,
-          "sha512": "b3517c2e4e50bb4d1a1bbd69b3f8a8955032f10204a1f677d2a1535befad8f03b6d10a4da1d3779b2a5703d5abe9978749afa8e4574600b0af36dd32041ddda6",
-          "sha256": "423f417d041085a563c44590366a2c9660939e15bd9c27cb7437773d613f2425",
-          "sha1": "c1ec0eefa0aee8278c878bbad52796c3a17b18e0",
-          "md5": "ce34967dce8bf25760c5020bf20fba0e"
+          "name": "scripts-1.6.14.jar",
+          "url": "scripts-1.6.14.jar",
+          "size": 28428,
+          "sha512": "ea834d3b000fb5baa4db8b6739e7df65d129d3751cfa07ca9b00209362be730429fcf8b7266d08de454c15bff475e12e81e7b6e25134ce74e07f41ef28f753a1",
+          "sha256": "d1888325f06d8b498327ce708eb3c72e8fd4ddc1005487b9420f2bb791690d33",
+          "sha1": "748f61afdce8d21ec234f196e79a9b3502a863f9",
+          "md5": "a4a0efa8e380efab16cecd01ff689611"
         }
       ]
     }
