@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api",
-    "version": "1.6.14",
+    "version": "1.6.15",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "api-1.6.14.jar",
-          "url": "api-1.6.14.jar",
+          "name": "api-1.6.15.jar",
+          "url": "api-1.6.15.jar",
           "size": 1367744,
-          "sha512": "6365174541e2de88fbf07631793bf714639e4aa9c015240db5c9d71c4df4d1e2a1bab5c7a7e598395d64dd646c49312db78785009d997d2d65c59cb689601f65",
-          "sha256": "037702794969d71a975ba092c6bbef34adebc2167e77b0dc137dfba237b01844",
-          "sha1": "260534df8de4afcff3b29dbd1bb41f67347eace7",
-          "md5": "c68783c24c67a30100ae25917e2e1a5c"
+          "sha512": "71298f9961a5262c11870468dcdc9b5515d560a63408f847148fae7a4fcfb3a452b1ab32c6b39a535ed495090b267286faaa4c9b4cec8e609dbf24433374a68c",
+          "sha256": "0bfd560d74d0f1ab18ee486404f0c865af5691bf8dae205f13e68cf233c9b039",
+          "sha1": "be62a65609f3eba2cf7dee1ceaf81613210b0600",
+          "md5": "937d625139a91c1b718fb815858e3e69"
         }
       ]
     },
@@ -62,14 +62,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.6.14"
+            "requires": "1.6.15"
           }
         },
         {
           "group": "meteor",
           "module": "logger",
           "version": {
-            "requires": "1.6.14"
+            "requires": "1.6.15"
           }
         },
         {
@@ -110,13 +110,13 @@
       ],
       "files": [
         {
-          "name": "api-1.6.14.jar",
-          "url": "api-1.6.14.jar",
+          "name": "api-1.6.15.jar",
+          "url": "api-1.6.15.jar",
           "size": 1367744,
-          "sha512": "6365174541e2de88fbf07631793bf714639e4aa9c015240db5c9d71c4df4d1e2a1bab5c7a7e598395d64dd646c49312db78785009d997d2d65c59cb689601f65",
-          "sha256": "037702794969d71a975ba092c6bbef34adebc2167e77b0dc137dfba237b01844",
-          "sha1": "260534df8de4afcff3b29dbd1bb41f67347eace7",
-          "md5": "c68783c24c67a30100ae25917e2e1a5c"
+          "sha512": "71298f9961a5262c11870468dcdc9b5515d560a63408f847148fae7a4fcfb3a452b1ab32c6b39a535ed495090b267286faaa4c9b4cec8e609dbf24433374a68c",
+          "sha256": "0bfd560d74d0f1ab18ee486404f0c865af5691bf8dae205f13e68cf233c9b039",
+          "sha1": "be62a65609f3eba2cf7dee1ceaf81613210b0600",
+          "md5": "937d625139a91c1b718fb815858e3e69"
         }
       ]
     }

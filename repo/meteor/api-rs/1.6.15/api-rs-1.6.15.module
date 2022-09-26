@@ -3,7 +3,7 @@
   "component": {
     "group": "meteor",
     "module": "api-rs",
-    "version": "1.6.14",
+    "version": "1.6.15",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "api-rs-1.6.14.jar",
-          "url": "api-rs-1.6.14.jar",
+          "name": "api-rs-1.6.15.jar",
+          "url": "api-rs-1.6.15.jar",
           "size": 124096,
-          "sha512": "df9b3abf8ae3ae95f8e5df756132808c53a74d43124c0bdbbec25bcc943a08883ac87d4d940e1cad5a0482397d217761dec21d5cec0b36df97bcf6911d3c46c0",
-          "sha256": "75f6bed936024199e08012a1fcf9221e30e94b64951c1faf15e5a8792397cd1d",
-          "sha1": "f98f892e450d82bd7698c53de0546b4f4e82b7b5",
-          "md5": "76be2a3214faa0efd7f943da65eb5145"
+          "sha512": "a8184f510bff31c20ea5341ec53425903d0d6ff9f88d4fae048212466ce6ae73bf02d0e67b6e730439aa95f67384b8a9089221ede3413b1b147052b07c2f7270",
+          "sha256": "64f792084fe734d2952567a9079b0921c84adc1d56235a538706969e6884d0cf",
+          "sha1": "5912074afd7db163fd0b73091ca505b5436eae5a",
+          "md5": "95d0170090b319bd72238810276e2cf9"
         }
       ]
     },
@@ -49,14 +49,14 @@
           "group": "meteor",
           "module": "annotations",
           "version": {
-            "requires": "1.6.14"
+            "requires": "1.6.15"
           }
         },
         {
           "group": "meteor",
           "module": "api",
           "version": {
-            "requires": "1.6.14"
+            "requires": "1.6.15"
           }
         },
         {
@@ -66,13 +66,13 @@
       ],
       "files": [
         {
-          "name": "api-rs-1.6.14.jar",
-          "url": "api-rs-1.6.14.jar",
+          "name": "api-rs-1.6.15.jar",
+          "url": "api-rs-1.6.15.jar",
           "size": 124096,
-          "sha512": "df9b3abf8ae3ae95f8e5df756132808c53a74d43124c0bdbbec25bcc943a08883ac87d4d940e1cad5a0482397d217761dec21d5cec0b36df97bcf6911d3c46c0",
-          "sha256": "75f6bed936024199e08012a1fcf9221e30e94b64951c1faf15e5a8792397cd1d",
-          "sha1": "f98f892e450d82bd7698c53de0546b4f4e82b7b5",
-          "md5": "76be2a3214faa0efd7f943da65eb5145"
+          "sha512": "a8184f510bff31c20ea5341ec53425903d0d6ff9f88d4fae048212466ce6ae73bf02d0e67b6e730439aa95f67384b8a9089221ede3413b1b147052b07c2f7270",
+          "sha256": "64f792084fe734d2952567a9079b0921c84adc1d56235a538706969e6884d0cf",
+          "sha1": "5912074afd7db163fd0b73091ca505b5436eae5a",
+          "md5": "95d0170090b319bd72238810276e2cf9"
         }
       ]
     }

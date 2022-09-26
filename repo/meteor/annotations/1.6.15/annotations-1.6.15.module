@@ -2,8 +2,8 @@
   "formatVersion": "1.1",
   "component": {
     "group": "meteor",
-    "module": "scripts",
-    "version": "1.6.14",
+    "module": "annotations",
+    "version": "1.6.15",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "scripts-1.6.14.jar",
-          "url": "scripts-1.6.14.jar",
-          "size": 28428,
-          "sha512": "c4f7cdba92ac4c03bdf01bb1da4819bc7b42d1ccd4f46095f432bb5fbb2c4e6718a5dac1703c352a8ca59a78fcd238211bba07681cb8bb09f4a31ae7f702c241",
-          "sha256": "02fdd68ace28791f7ff36ddc35e67aef93be48cf6f8063e65b1eee19fb2a0089",
-          "sha1": "375ae8db35208e28e3ec053734688b18d60d2232",
-          "md5": "91facb28948405ff66f94a3b6aeb1646"
+          "name": "annotations-1.6.15.jar",
+          "url": "annotations-1.6.15.jar",
+          "size": 8843,
+          "sha512": "9abf6b2f6635606569eea43f08d69503c12ebb469866e20b234c9a616b76f5e1008d233f317a2e3cef30d96c08e06368b5d92556659ec649c9efdbda42159ed8",
+          "sha256": "d74ed6abfa2ee3980fe2510f445d1edf4b5076e1458ee9d7c6b1d8ff50d55313",
+          "sha1": "8383e0a97169c7436f74634925ccc7051bfb61b6",
+          "md5": "8a5291142172521585af74acaf8c1cd5"
         }
       ]
     },
@@ -51,28 +51,21 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.7.0"
-          }
-        },
-        {
-          "group": "org.jetbrains",
-          "module": "annotations",
-          "version": {
-            "requires": "23.0.0"
+            "requires": "1.6.10"
           }
         }
       ],
       "files": [
         {
-          "name": "scripts-1.6.14.jar",
-          "url": "scripts-1.6.14.jar",
-          "size": 28428,
-          "sha512": "c4f7cdba92ac4c03bdf01bb1da4819bc7b42d1ccd4f46095f432bb5fbb2c4e6718a5dac1703c352a8ca59a78fcd238211bba07681cb8bb09f4a31ae7f702c241",
-          "sha256": "02fdd68ace28791f7ff36ddc35e67aef93be48cf6f8063e65b1eee19fb2a0089",
-          "sha1": "375ae8db35208e28e3ec053734688b18d60d2232",
-          "md5": "91facb28948405ff66f94a3b6aeb1646"
+          "name": "annotations-1.6.15.jar",
+          "url": "annotations-1.6.15.jar",
+          "size": 8843,
+          "sha512": "9abf6b2f6635606569eea43f08d69503c12ebb469866e20b234c9a616b76f5e1008d233f317a2e3cef30d96c08e06368b5d92556659ec649c9efdbda42159ed8",
+          "sha256": "d74ed6abfa2ee3980fe2510f445d1edf4b5076e1458ee9d7c6b1d8ff50d55313",
+          "sha1": "8383e0a97169c7436f74634925ccc7051bfb61b6",
+          "md5": "8a5291142172521585af74acaf8c1cd5"
         }
       ]
     }
