@@ -3,1137 +3,1137 @@
   "updateInfo": "Items are okay I guess",
   "files": [
     {
-      "name": "app\\.jpackage.xml",
+      "name": "\\app\\.jpackage.xml",
       "size": 193,
       "hash": "E337E6EF18C455CE2E43200A61566CAACC713EC40C50DDD0E922D984C4A84014"
     },
     {
-      "name": "app\\animation-core-desktop-1.3.0-alpha01-dev827-7361a63d91c29ba3bdbca736d24da12.jar",
+      "name": "\\app\\animation-core-desktop-1.3.0-alpha01-dev827-7361a63d91c29ba3bdbca736d24da12.jar",
       "size": 313924,
       "hash": "F0C3A21F83EEE5AAAEF7566B9C9301F2DDCD34D1276C6D312A15A042879D0024"
     },
     {
-      "name": "app\\animation-desktop-1.3.0-alpha01-dev827-8cdacb667176f633b6d28e31c1d28ea6.jar",
+      "name": "\\app\\animation-desktop-1.3.0-alpha01-dev827-8cdacb667176f633b6d28e31c1d28ea6.jar",
       "size": 280539,
       "hash": "FD928926C2A4BA271FF10E0537AC42B398554FC5BE041B96289D076AB8A022B1"
     },
     {
-      "name": "app\\annotations-1.0.0-8ff42f6453b33c88f86c88f53fe929f.jar",
+      "name": "\\app\\annotations-1.0.0-8ff42f6453b33c88f86c88f53fe929f.jar",
       "size": 8843,
       "hash": "D52959187BD6AFC166918524A4B52EDD4D4832F947851241FBC1D74B85D98827"
     },
     {
-      "name": "app\\annotations-23.0.0-8484cd17d040d837983323f760b2c660.jar",
+      "name": "\\app\\annotations-23.0.0-8484cd17d040d837983323f760b2c660.jar",
       "size": 29371,
       "hash": "7B0F19724082CBFCBC66E5ABEA2B9BC92CF08A1EA11E191933ED43801EB3CD05"
     },
     {
-      "name": "app\\antlr4-runtime-4.6-f3d51633922cb63b29934843aa92986.jar",
+      "name": "\\app\\antlr4-runtime-4.6-f3d51633922cb63b29934843aa92986.jar",
       "size": 308316,
       "hash": "08B519CE8883F9E0C92D5E16B911DBBB3D29FAA434EFC4C3C62435341EC4B332"
     },
     {
-      "name": "app\\aopalliance-1.0-4177054e180d09e3998808efa41c7.jar",
+      "name": "\\app\\aopalliance-1.0-4177054e180d09e3998808efa41c7.jar",
       "size": 4467,
       "hash": "0ADDEC670FEDCD3F113C5C8091D783280D23F75E3ACB841B61A9CDB079376A08"
     },
     {
-      "name": "app\\api-1.0.4-ecb4b5d5b219bc23cd8ff0af442c2cbc.jar",
+      "name": "\\app\\api-1.0.4-ecb4b5d5b219bc23cd8ff0af442c2cbc.jar",
       "size": 1367270,
       "hash": "27D622CF2E765EBCEA9599BFEF0491EA0DE9DD04D34CEE279081F870A0B35F56"
     },
     {
-      "name": "app\\api-rs-1.0.0-5f0748432c1dcd8e03f7a9c427d331.jar",
+      "name": "\\app\\api-rs-1.0.0-5f0748432c1dcd8e03f7a9c427d331.jar",
       "size": 124274,
       "hash": "218384AD51979FC3F0E9DA612DB984F31048B45E1CBCDF329F99A5F8D40C3A6D"
     },
     {
-      "name": "app\\atomicfu-jvm-0.17.2-d6b6f3a195696acf1828b1f125125ed7.jar",
+      "name": "\\app\\atomicfu-jvm-0.17.2-d6b6f3a195696acf1828b1f125125ed7.jar",
       "size": 36312,
       "hash": "636968B47A6C31262EBC984255E56CA54A8DD16DE7F17C35103AAC88D827256E"
     },
     {
-      "name": "app\\bcprov-jdk15on-1.70-189d0449a6374279c1fdd3be26cd92.jar",
+      "name": "\\app\\bcprov-jdk15on-1.70-189d0449a6374279c1fdd3be26cd92.jar",
       "size": 5867298,
       "hash": "8F3C20E3E2D565D26F33E8D4857A37D0D7F8AC39B62A7026496FCAB1BDAC30D4"
     },
     {
-      "name": "app\\cache-1.8.33-8135d195d627fba1fdb280538ab092b8.jar",
+      "name": "\\app\\cache-1.8.33-8135d195d627fba1fdb280538ab092b8.jar",
       "size": 416755,
       "hash": "54133E4A2FB5AB55CE421C2A884EB183C15D063B44D7BC57C513B3DDCCAE005F"
     },
     {
-      "name": "app\\checker-qual-3.12.0-ab1ae0e2f2f6361597a5a96fca8a54f.jar",
+      "name": "\\app\\checker-qual-3.12.0-ab1ae0e2f2f6361597a5a96fca8a54f.jar",
       "size": 208835,
       "hash": "FF10785AC2A357EC5DE9C293CB982A2CBB605C0309EA4CC1CB9B9BC6DBE7F3CB"
     },
     {
-      "name": "app\\client.cfg",
+      "name": "\\app\\client.cfg",
       "size": 9385,
       "hash": "512DC2619168190826BBA118CF0C66AFB9E6D8F023DD927F7BB980B04A7ED5EB"
     },
     {
-      "name": "app\\color-picker-jvm-d3cb316b54a9432145c62bd15cb99c53.jar",
+      "name": "\\app\\color-picker-jvm-d3cb316b54a9432145c62bd15cb99c53.jar",
       "size": 133576,
       "hash": "D37A6E7F955DC42C829A1C66230880D4BAE19CD0A637F534F4B14A399BF0DEBD"
     },
     {
-      "name": "app\\colormath-jvm-3.2.0-e2476281b7c5dca28ab5ccea6cb21538.jar",
+      "name": "\\app\\colormath-jvm-3.2.0-e2476281b7c5dca28ab5ccea6cb21538.jar",
       "size": 350981,
       "hash": "11CC96AFFEBB3934176E06FFA7472987CC0BC99995171C8F0768ED0DEAE5E812"
     },
     {
-      "name": "app\\commons-cli-1.3.1-8d5fa2a42fef17d934b35a9ac9cc750.jar",
+      "name": "\\app\\commons-cli-1.3.1-8d5fa2a42fef17d934b35a9ac9cc750.jar",
       "size": 52988,
       "hash": "3A2F057041AA6A8813F5B59B695F726C5E85014A703D208D7E1689098E92D8C0"
     },
     {
-      "name": "app\\commons-compress-1.10-c1169464be26d435f268f03918b6baf7.jar",
+      "name": "\\app\\commons-compress-1.10-c1169464be26d435f268f03918b6baf7.jar",
       "size": 409475,
       "hash": "807C95293E41E8159477442077DA6D0962A7F486D4B980BE61F60A8DB9CB290F"
     },
     {
-      "name": "app\\commons-csv-1.9.0-75559edcb39c783299289690c5a45816.jar",
+      "name": "\\app\\commons-csv-1.9.0-75559edcb39c783299289690c5a45816.jar",
       "size": 51322,
       "hash": "C418D6AAB4DB4F1F70983D355DE8D7C1E755C754820A92294DA2E5F5081022CC"
     },
     {
-      "name": "app\\commons-io-2.11.0-3b4b7ccfaeceeac240b84839ee1a1ca.jar",
+      "name": "\\app\\commons-io-2.11.0-3b4b7ccfaeceeac240b84839ee1a1ca.jar",
       "size": 327135,
       "hash": "961B2F6D87DBACC5D54ABF45AB7A6E2495F89B75598962D8C723CEA9BC210908"
     },
     {
-      "name": "app\\commons-lang3-3.12.0-19fe50567358922bdad277959ea69545.jar",
+      "name": "\\app\\commons-lang3-3.12.0-19fe50567358922bdad277959ea69545.jar",
       "size": 587402,
       "hash": "D919D904486C037F8D193412DA0C92E22A9FA24230B9D67A57855C5C31C7E94E"
     },
     {
-      "name": "app\\commons-text-1.10.0-4afc9bfa2d31dbf733c98fcc954b892.jar",
+      "name": "\\app\\commons-text-1.10.0-4afc9bfa2d31dbf733c98fcc954b892.jar",
       "size": 238400,
       "hash": "770CD903FA7B604D1F7EF7BA17F84108667294B2B478BE8ED1AF3BFFB4AE0018"
     },
     {
-      "name": "app\\desktop-jvm-1.3.0-alpha01-dev827-7f7e146d46b0c68060c5ea21fc31b5bd.jar",
+      "name": "\\app\\desktop-jvm-1.3.0-alpha01-dev827-7f7e146d46b0c68060c5ea21fc31b5bd.jar",
       "size": 7722,
       "hash": "8248B892FA3C16E3FB76D394F6B8BA72EFAE5E42910530F8EB1D2CB2CF38507B"
     },
     {
-      "name": "app\\discord-1.4-d8bd9a4e72f60f14ae2d43d3dcfe3f.jar",
+      "name": "\\app\\discord-1.4-d8bd9a4e72f60f14ae2d43d3dcfe3f.jar",
       "size": 681590,
       "hash": "6409723FD13496386DFB1335A9794DC0919DB6132522F2B7486D6734FC5DF6E5"
     },
     {
-      "name": "app\\error_prone_annotations-2.11.0-656ad66261b7e7ea472ed0ffeea773ea.jar",
+      "name": "\\app\\error_prone_annotations-2.11.0-656ad66261b7e7ea472ed0ffeea773ea.jar",
       "size": 15979,
       "hash": "721CB91842B46FA056847D104D5225C8B8E1E8B62263B993051E1E5A0137B7EC"
     },
     {
-      "name": "app\\failureaccess-1.0.1-91883993ef5bfa91da01dcc8fc52236.jar",
+      "name": "\\app\\failureaccess-1.0.1-91883993ef5bfa91da01dcc8fc52236.jar",
       "size": 4617,
       "hash": "A171EE4C734DD2DA837E4B16BE9DF4661AFAB72A41ADAF31EB84DFDAF936CA26"
     },
     {
-      "name": "app\\flatlaf-2.5-aa8ba1177a39a548a57e7a5ff6b7c20.jar",
+      "name": "\\app\\flatlaf-2.5-aa8ba1177a39a548a57e7a5ff6b7c20.jar",
       "size": 729660,
       "hash": "7FD89E565038C90ED601F3D4043C3A937DC975F25942FD74DBAF630F1F5422D3"
     },
     {
-      "name": "app\\flatlaf-extras-2.5-2f7ad7ecafe26440198931754cbdd611.jar",
+      "name": "\\app\\flatlaf-extras-2.5-2f7ad7ecafe26440198931754cbdd611.jar",
       "size": 114719,
       "hash": "2E3BCEA2514AB0A56EB8000DD9DBFE9C823564C5D0AAF7EEB1EB56AD841306E3"
     },
     {
-      "name": "app\\flatlaf-intellij-themes-2.5-bf2189fbbefd745aad1af6c5fa35f1e.jar",
+      "name": "\\app\\flatlaf-intellij-themes-2.5-bf2189fbbefd745aad1af6c5fa35f1e.jar",
       "size": 412816,
       "hash": "2EB6FAE4C6684A9BC80E4A8D3378B0D15D777366F3D18F31F39C532F039E3ABE"
     },
     {
-      "name": "app\\foundation-desktop-1.3.0-alpha01-dev827-da637a89e9744e91a5f1d3e8d5358.jar",
+      "name": "\\app\\foundation-desktop-1.3.0-alpha01-dev827-da637a89e9744e91a5f1d3e8d5358.jar",
       "size": 2253164,
       "hash": "0D83B48202505083114E2E28C69E639578A1551A193235403132392CFBB2C2FB"
     },
     {
-      "name": "app\\foundation-layout-desktop-1.3.0-alpha01-dev827-4e91a7353bd5edaddbe793584975988.jar",
+      "name": "\\app\\foundation-layout-desktop-1.3.0-alpha01-dev827-4e91a7353bd5edaddbe793584975988.jar",
       "size": 410558,
       "hash": "B38AA3F80C2628AD70C00ADB1E27D3569865755E9DE22CD253F7EA0BEA6129E0"
     },
     {
-      "name": "app\\gson-2.9.1-d507d266dcf7eea4b53fc3778d91c9.jar",
+      "name": "\\app\\gson-2.9.1-d507d266dcf7eea4b53fc3778d91c9.jar",
       "size": 265030,
       "hash": "378534E339E6E6D50B1736FB3ABB76F1C15D1BE3F4C13CEC6D536412E23DA603"
     },
     {
-      "name": "app\\guava-31.1-jre-e37782d974104aa3b0a7bee9927c8042.jar",
+      "name": "\\app\\guava-31.1-jre-e37782d974104aa3b0a7bee9927c8042.jar",
       "size": 2959479,
       "hash": "A42EDC9CAB792E39FE39BB94F3FCA655ED157FF87A8AF78E1D6BA5B07C4A00AB"
     },
     {
-      "name": "app\\guice-4.0-969e114e22733923ba147331dd779ed5.jar",
+      "name": "\\app\\guice-4.0-969e114e22733923ba147331dd779ed5.jar",
       "size": 668235,
       "hash": "B378FFC35E7F7125B3C5F3A461D4591AE1685E3C781392F0C854ED7B7581D6D2"
     },
     {
-      "name": "app\\http-1.0.0-e9f8a6442d5b366fa6118b6e354d8.jar",
+      "name": "\\app\\http-1.0.0-e9f8a6442d5b366fa6118b6e354d8.jar",
       "size": 104715,
       "hash": "124A9D51C92FBE9D3712C51A3AC0118DC9B2E446AC15F2AA5FB55175DDBA35A8"
     },
     {
-      "name": "app\\icudtl.dat",
+      "name": "\\app\\icudtl.dat",
       "size": 10185008,
       "hash": "846942A316B4E38FDBD4DE3AD83E4FAAE78A8BCED50F4720ACDBDAB6EE7C4B8E"
     },
     {
-      "name": "app\\injected-client-c5222ee09cb8341c583ffbc561d96ae.jar",
+      "name": "\\app\\injected-client-c5222ee09cb8341c583ffbc561d96ae.jar",
       "size": 3763438,
       "hash": "23A963EFB6A96BAD77C92FE293B676A376761C541F0DE084668A5A44EB2684DB"
     },
     {
-      "name": "app\\j2objc-annotations-1.3-5fa4ec4ec0c5aa70af8a7d4922df1931.jar",
+      "name": "\\app\\j2objc-annotations-1.3-5fa4ec4ec0c5aa70af8a7d4922df1931.jar",
       "size": 8781,
       "hash": "21AF30C92267BD6122C0E0B4D20CCCB6641A37EAF956C6540EC471D584E64A7B"
     },
     {
-      "name": "app\\javax.annotation-api-1.2-75fe32d2b3763bd6883ae1ede35e987.jar",
+      "name": "\\app\\javax.annotation-api-1.2-75fe32d2b3763bd6883ae1ede35e987.jar",
       "size": 26366,
       "hash": "5909B396CA3A2BE10D0EEA32C74EF78D816E1B4EAD21DE1D78DE1F890D033E04"
     },
     {
-      "name": "app\\javax.inject-1-289075e48b909e9e74e6c915b3631d2e.jar",
+      "name": "\\app\\javax.inject-1-289075e48b909e9e74e6c915b3631d2e.jar",
       "size": 2497,
       "hash": "91C77044A50C481636C32D916FD89C9118A72195390452C81065080F957DE7FF"
     },
     {
-      "name": "app\\jna-4.5.1-239aa981207a1e853dd9c86c44082.jar",
+      "name": "\\app\\jna-4.5.1-239aa981207a1e853dd9c86c44082.jar",
       "size": 1440662,
       "hash": "FBC9DE96A0CC193A125B4008DBC348E9ED54E5E13FC67B8ED40E645D303CC51B"
     },
     {
-      "name": "app\\jocl-1.0-dbe5b264af283ae51f6cd5cea4b03060.jar",
+      "name": "\\app\\jocl-1.0-dbe5b264af283ae51f6cd5cea4b03060.jar",
       "size": 67704,
       "hash": "126BDE4A6BE269579A84A67DFC7707FD2916E0EEF11B74C4DE7CC61A36D2420E"
     },
     {
-      "name": "app\\jocl-1.0-macos-arm64-44cdc8a298cb76e231423ae6d75fad.jar",
+      "name": "\\app\\jocl-1.0-macos-arm64-44cdc8a298cb76e231423ae6d75fad.jar",
       "size": 59579,
       "hash": "4FB96241F95970BD329EF03AF1E9C94A9114E91A571523BCAF2AF66BEE2F2BFA"
     },
     {
-      "name": "app\\jocl-1.0-macos-x64-eebfd8871a2f8f3cfafc39a659bbd20.jar",
+      "name": "\\app\\jocl-1.0-macos-x64-eebfd8871a2f8f3cfafc39a659bbd20.jar",
       "size": 59030,
       "hash": "2BCB853DAFF68FE4FAED28F871624A428C5DB90F9E3ECB4286DF8AECA4B93B38"
     },
     {
-      "name": "app\\jopt-simple-6.0-alpha-3-8142d46877a93158112d42db5c170e5.jar",
+      "name": "\\app\\jopt-simple-6.0-alpha-3-8142d46877a93158112d42db5c170e5.jar",
       "size": 79368,
       "hash": "D440CEB839D6ADB5CFA81AA321813D60255E68A3E9CA564C91126599310ABDE5"
     },
     {
-      "name": "app\\jsr305-3.0.2-dd83accb899363c32b7d7a1b2e4ce40.jar",
+      "name": "\\app\\jsr305-3.0.2-dd83accb899363c32b7d7a1b2e4ce40.jar",
       "size": 19936,
       "hash": "766AD2A0783F2687962C8AD74CEECC38A28B9F72A2D085EE438B7813E928D0C7"
     },
     {
-      "name": "app\\kevent-2.1.4-a6fde2ba2aa913da9f5c16a63c934311.jar",
+      "name": "\\app\\kevent-2.1.4-a6fde2ba2aa913da9f5c16a63c934311.jar",
       "size": 52665,
       "hash": "DCD4228B0E95A9F76303180B4EB2AC4F2B30DD1209750082D82D580B7166FC36"
     },
     {
-      "name": "app\\koin-core-jvm-3.2.2-c387fa5dc74d6d3f9efad38aa2ccee8.jar",
+      "name": "\\app\\koin-core-jvm-3.2.2-c387fa5dc74d6d3f9efad38aa2ccee8.jar",
       "size": 328320,
       "hash": "1684443E89400C62CDDCAF8C740C6F214C0217BAA7C182532BCDAEC1524B0FD4"
     },
     {
-      "name": "app\\kotlin-logging-jvm-2.1.21-20757820c220698ca9ac6c6f603ecd9b.jar",
+      "name": "\\app\\kotlin-logging-jvm-2.1.21-20757820c220698ca9ac6c6f603ecd9b.jar",
       "size": 43729,
       "hash": "7B15CCB488261DE2A77004F13B2D4A00C92D1BBBB2AD79EFB9B6C2E56C5A7AE6"
     },
     {
-      "name": "app\\kotlin-reflect-1.7.10-22aaff1245b21364e794444c9e64ec.jar",
+      "name": "\\app\\kotlin-reflect-1.7.10-22aaff1245b21364e794444c9e64ec.jar",
       "size": 3119699,
       "hash": "187C5E5A588A6ED18C3A41B54DF138A5944121BDB396BE1C3FA4ABEE67397955"
     },
     {
-      "name": "app\\kotlin-stdlib-1.7.10-c0d54ffa8ca9eeb13d6e81639ff87096.jar",
+      "name": "\\app\\kotlin-stdlib-1.7.10-c0d54ffa8ca9eeb13d6e81639ff87096.jar",
       "size": 1524620,
       "hash": "E771FE74250A943E8F6346713201FF1D8CB95C3A5D1A91A22B65A9E04F6A8901"
     },
     {
-      "name": "app\\kotlin-stdlib-common-1.7.10-e2fbf05c93d846bbe26655d6d6d2e137.jar",
+      "name": "\\app\\kotlin-stdlib-common-1.7.10-e2fbf05c93d846bbe26655d6d6d2e137.jar",
       "size": 198936,
       "hash": "19F102EFE9629F8EABC63853AD15C533E47C47F91FCA09285C5BDE86E59F91D4"
     },
     {
-      "name": "app\\kotlin-stdlib-jdk7-1.7.10-16e9288ff1d39c8f98357e3cd72e8a8.jar",
+      "name": "\\app\\kotlin-stdlib-jdk7-1.7.10-16e9288ff1d39c8f98357e3cd72e8a8.jar",
       "size": 23868,
       "hash": "54F61351B1936AD88F4E53059FE781E723EAE51D78ED9E7422D8B403574EC682"
     },
     {
-      "name": "app\\kotlin-stdlib-jdk8-1.7.10-83947a580c9fae4d5e0aa15ed5f186f.jar",
+      "name": "\\app\\kotlin-stdlib-jdk8-1.7.10-83947a580c9fae4d5e0aa15ed5f186f.jar",
       "size": 19787,
       "hash": "8AAFDD60C94F454C92E5066D266A5ED53ECC63C78F623B3FD9DB56FEA4032873"
     },
     {
-      "name": "app\\kotlinx-coroutines-core-jvm-1.6.1-d8e16aeb91febb3e23dfab503931bc95.jar",
+      "name": "\\app\\kotlinx-coroutines-core-jvm-1.6.1-d8e16aeb91febb3e23dfab503931bc95.jar",
       "size": 1492143,
       "hash": "3A93FFD052844643C0FEF950AE5578DB47CCCBE9E7176D681333182E232BB0F1"
     },
     {
-      "name": "app\\kotlinx-serialization-core-jvm-1.4.0-272518eea8fa965ee3e735312435d3c0.jar",
+      "name": "\\app\\kotlinx-serialization-core-jvm-1.4.0-272518eea8fa965ee3e735312435d3c0.jar",
       "size": 345423,
       "hash": "9EDFAB129CD0A219F06A01A5BAF6C03A09B5DB8B5A3BEC4DD95071EDD61D6271"
     },
     {
-      "name": "app\\kotlinx-serialization-json-jvm-1.4.0-776327ff84a48f4ac49539652ac3c6f.jar",
+      "name": "\\app\\kotlinx-serialization-json-jvm-1.4.0-776327ff84a48f4ac49539652ac3c6f.jar",
       "size": 230064,
       "hash": "A1C344D0E21F14FD82EDBCDAC374CF160D7289459DCF75DEC688A9FBDCE6A099"
     },
     {
-      "name": "app\\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-d094c22570d65e132c19cea5d352e381.jar",
+      "name": "\\app\\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-d094c22570d65e132c19cea5d352e381.jar",
       "size": 2199,
       "hash": "B372A037D4230AA57FBEFFDEF30FD6123F9C0C2DB85D0ACED00C91B974F33F99"
     },
     {
-      "name": "app\\logger-1.0.0-d8d28a51992cf99d25bacf65475518a.jar",
+      "name": "\\app\\logger-1.0.0-d8d28a51992cf99d25bacf65475518a.jar",
       "size": 8245,
       "hash": "61BE4810162E0095FAC4F778483CF0FD5C2FC879C4F2946DD15448E390CA5424"
     },
     {
-      "name": "app\\lwjgl-3.3.1-268db624c57a2c8abad4587f873fa8d.jar",
+      "name": "\\app\\lwjgl-3.3.1-268db624c57a2c8abad4587f873fa8d.jar",
       "size": 724243,
       "hash": "CF83F90E32FB973FF5EDFCA4EF35F55CA51BB70A579B6A1F290744F552E8E484"
     },
     {
-      "name": "app\\lwjgl-3.3.1-natives-linux-aeba195b5e56e5033b41bddf95541d1.jar",
+      "name": "\\app\\lwjgl-3.3.1-natives-linux-aeba195b5e56e5033b41bddf95541d1.jar",
       "size": 110704,
       "hash": "22EF2AFA31A1740A337EC9C6806C6B8D97E931A63E2C43270CBAF14FB3F6FC4E"
     },
     {
-      "name": "app\\lwjgl-3.3.1-natives-macos-4e148c20ef4fce64c561abd0bac69fc.jar",
+      "name": "\\app\\lwjgl-3.3.1-natives-macos-4e148c20ef4fce64c561abd0bac69fc.jar",
       "size": 55706,
       "hash": "F48E610A981DCA515B9BBE7345CC76E3450C13404B052D8AC357EF0AF8E90ABF"
     },
     {
-      "name": "app\\lwjgl-3.3.1-natives-macos-arm64-e683ddd45f47c3de2e56da36a3c83ab1.jar",
+      "name": "\\app\\lwjgl-3.3.1-natives-macos-arm64-e683ddd45f47c3de2e56da36a3c83ab1.jar",
       "size": 42693,
       "hash": "7197E89AB80A2A2183B4EE925CCB44E572F0CB757A92776ADF8265269200A36A"
     },
     {
-      "name": "app\\lwjgl-3.3.1-natives-windows-2f8f6ce014378833d2a2bd9f91835829.jar",
+      "name": "\\app\\lwjgl-3.3.1-natives-windows-2f8f6ce014378833d2a2bd9f91835829.jar",
       "size": 159361,
       "hash": "093D13D62A6434BC656BF10A3B37E2530FD9AF3B0BC20F8E9545BE58659D1443"
     },
     {
-      "name": "app\\lwjgl-3.3.1-natives-windows-x86-fbfa91e563448711e9b7b54710ba53.jar",
+      "name": "\\app\\lwjgl-3.3.1-natives-windows-x86-fbfa91e563448711e9b7b54710ba53.jar",
       "size": 134695,
       "hash": "E90C1F9CF5701AEEF2982EBF0905A2B991F4622B8A7F8250EAF0873B5A0A0223"
     },
     {
-      "name": "app\\lwjgl-opengl-3.3.1-198c85e7eb29ade7804513dd4733b53d.jar",
+      "name": "\\app\\lwjgl-opengl-3.3.1-198c85e7eb29ade7804513dd4733b53d.jar",
       "size": 921563,
       "hash": "E436D2144F3A36FFF772FD64233316809B795F390DEFD4D55660FC686E7C2834"
     },
     {
-      "name": "app\\lwjgl-opengl-3.3.1-natives-linux-4e3e26107d9a2d995abc4b71d780aed9.jar",
+      "name": "\\app\\lwjgl-opengl-3.3.1-natives-linux-4e3e26107d9a2d995abc4b71d780aed9.jar",
       "size": 79125,
       "hash": "BCFCD9F8DFD229488AD9EC353D48C7B02DE5CA21BADD4092F1902239A1ED0690"
     },
     {
-      "name": "app\\lwjgl-opengl-3.3.1-natives-macos-8d6f7a642375d8b5ef2839366f9bb3c.jar",
+      "name": "\\app\\lwjgl-opengl-3.3.1-natives-macos-8d6f7a642375d8b5ef2839366f9bb3c.jar",
       "size": 40709,
       "hash": "711F29972888509262A957F1B3138BFA9B505519D11DF6E5763D1C9A3F8B3C5D"
     },
     {
-      "name": "app\\lwjgl-opengl-3.3.1-natives-macos-arm64-58e8b66d8d747b4c2e83f46deca5ffc.jar",
+      "name": "\\app\\lwjgl-opengl-3.3.1-natives-macos-arm64-58e8b66d8d747b4c2e83f46deca5ffc.jar",
       "size": 41665,
       "hash": "DBD110044EAE8ADBCA8E3C7A730529A351559E74CEA887BB3CD6EF0DC016F295"
     },
     {
-      "name": "app\\lwjgl-opengl-3.3.1-natives-windows-b0407bab535189c6b5b354cc5af7cea.jar",
+      "name": "\\app\\lwjgl-opengl-3.3.1-natives-windows-b0407bab535189c6b5b354cc5af7cea.jar",
       "size": 100205,
       "hash": "851B9B593CAC21E3AF51DD4C303E8DF3FE6A344A3F81D6B9BCC186E7E540BFDA"
     },
     {
-      "name": "app\\lwjgl-opengl-3.3.1-natives-windows-x86-edbd18a1ed9952acfd8be33b6af0a215.jar",
+      "name": "\\app\\lwjgl-opengl-3.3.1-natives-windows-x86-edbd18a1ed9952acfd8be33b6af0a215.jar",
       "size": 87463,
       "hash": "683D8AD3D0D0977A6EA18B88A4CBE7E8FD4F06C1AB21BABEDAB88309740BCC60"
     },
     {
-      "name": "app\\material-desktop-1.3.0-alpha01-dev827-3b12c7ca70ee6259f226a8b3b8899f5d.jar",
+      "name": "\\app\\material-desktop-1.3.0-alpha01-dev827-3b12c7ca70ee6259f226a8b3b8899f5d.jar",
       "size": 1566977,
       "hash": "A747D310C35313DF5CAC796403EDC11EB4BAA467FB0A614EB1EF123152BF1262"
     },
     {
-      "name": "app\\material-icons-core-desktop-1.3.0-alpha01-dev827-36f68265ff9f9733b116f398b9d424c5.jar",
+      "name": "\\app\\material-icons-core-desktop-1.3.0-alpha01-dev827-36f68265ff9f9733b116f398b9d424c5.jar",
       "size": 725140,
       "hash": "FA400014102B141D277CE8B0AE1D35943E7F83AC7A52A1865290B1F5FCA77332"
     },
     {
-      "name": "app\\material-ripple-desktop-1.3.0-alpha01-dev827-b75486d6b72c74ae5b8a08c25eb1f8.jar",
+      "name": "\\app\\material-ripple-desktop-1.3.0-alpha01-dev827-b75486d6b72c74ae5b8a08c25eb1f8.jar",
       "size": 53605,
       "hash": "E6EB0A2986CF45DD1A04A374EF6F4FECB0EA3522F7125D6C3C17FD26904E3C1B"
     },
     {
-      "name": "app\\maven-artifact-3.8.6-e58778f4d241bdf8b31303aa4c6d8.jar",
+      "name": "\\app\\maven-artifact-3.8.6-e58778f4d241bdf8b31303aa4c6d8.jar",
       "size": 58076,
       "hash": "DE22A4C6F54FE31276A823B1BBD3ADFD6823529E732F431B5EFF0852C2B9252B"
     },
     {
-      "name": "app\\maven-model-3.8.6-7812dccb91cf3e8faaa67ae060ceb7c2.jar",
+      "name": "\\app\\maven-model-3.8.6-7812dccb91cf3e8faaa67ae060ceb7c2.jar",
       "size": 216125,
       "hash": "13986DC4D0E7EABD0C991C8FD22EF10E44F917F7A218A5A75C51B5620D4C22B0"
     },
     {
-      "name": "app\\maven-plugin-api-3.8.6-c8187986d35b9d8a347e3989402879f3.jar",
+      "name": "\\app\\maven-plugin-api-3.8.6-c8187986d35b9d8a347e3989402879f3.jar",
       "size": 46967,
       "hash": "2C317F6041219F16F34BD47EA7618E57552D4F1F707378701B9EFED4ADECF70A"
     },
     {
-      "name": "app\\meteor-client-1.7-r1-5e2f7e2680d8dc623de31738cd75f11b.jar",
+      "name": "\\app\\meteor-client-1.7-r1-5e2f7e2680d8dc623de31738cd75f11b.jar",
       "size": 14205508,
       "hash": "319E53DDCE0B58909CB5A9DD685F6BC675D93EB8385B6790802BA81586731893"
     },
     {
-      "name": "app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
+      "name": "\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
       "size": 201819,
       "hash": "F3BF5AB4041767DA532E11E78A49A183DA499D1A54BA539232D833B75F965667"
     },
     {
-      "name": "app\\octicons-desktop-1.0.0-7e2a59ab3313729206cae3b4d134f10.jar",
+      "name": "\\app\\octicons-desktop-1.0.0-7e2a59ab3313729206cae3b4d134f10.jar",
       "size": 1247278,
       "hash": "9581E362D105699653798000D7B395567289DFD8C76D616D285D837DB2D8408C"
     },
     {
-      "name": "app\\okhttp-jvm-5.0.0-alpha.10-d5deb6beec3e52fbd51e3652f0ceab85.jar",
+      "name": "\\app\\okhttp-jvm-5.0.0-alpha.10-d5deb6beec3e52fbd51e3652f0ceab85.jar",
       "size": 859442,
       "hash": "045EBDC4DDE2AC3E79C27344E7B9A9B4E7EC3528FA2A1772109E05043AB94689"
     },
     {
-      "name": "app\\okio-jvm-3.2.0-93417dbcbbb0e56d272b7ad5b28afede.jar",
+      "name": "\\app\\okio-jvm-3.2.0-93417dbcbbb0e56d272b7ad5b28afede.jar",
       "size": 345115,
       "hash": "B642BAEF4C570055DE4CB3D1667B2B16DCED901FF8066345A063691AA06025A4"
     },
     {
-      "name": "app\\org.eclipse.sisu.inject-0.3.5-1b296bddd911ed375b3df93b395cd5.jar",
+      "name": "\\app\\org.eclipse.sisu.inject-0.3.5-1b296bddd911ed375b3df93b395cd5.jar",
       "size": 379348,
       "hash": "C5994010BCDCE1D2BD603A4D50C47191DDBD7875D1157B23AAA26D33C82FDA13"
     },
     {
-      "name": "app\\org.eclipse.sisu.plexus-0.3.5-30c4a9fa2137698ed66c8542f1be196a.jar",
+      "name": "\\app\\org.eclipse.sisu.plexus-0.3.5-30c4a9fa2137698ed66c8542f1be196a.jar",
       "size": 205307,
       "hash": "7E4C61096D70826F20F7A7D55C59A5528E7AA5AD247EE2DFE544E4DD25F6A784"
     },
     {
-      "name": "app\\plexus-classworlds-2.6.0-67e722b27e3a33b33c1b263b99dd7c43.jar",
+      "name": "\\app\\plexus-classworlds-2.6.0-67e722b27e3a33b33c1b263b99dd7c43.jar",
       "size": 52873,
       "hash": "52F77C5EC49F787C9C417EBED5D6EFD9922F44A202F217376E4F94C0D74F3549"
     },
     {
-      "name": "app\\plexus-component-annotations-1.5.5-ef37dcdb843422db428b63c4354e5b.jar",
+      "name": "\\app\\plexus-component-annotations-1.5.5-ef37dcdb843422db428b63c4354e5b.jar",
       "size": 4211,
       "hash": "4DF7A6A7BE64B35BBCCF60B5C115697F9EA3421D22674AE67135DDE375FCCA1F"
     },
     {
-      "name": "app\\plexus-utils-3.3.1-89d7dce81bf90f469c7eec197ce299c.jar",
+      "name": "\\app\\plexus-utils-3.3.1-89d7dce81bf90f469c7eec197ce299c.jar",
       "size": 262026,
       "hash": "4B570FCDBE5A894F249D2EB9B929358A9C88C3E548D227A80010461930222F2A"
     },
     {
-      "name": "app\\rlawt-1.3-80f8d83f50994aea5b5db591eb7d3af0.jar",
+      "name": "\\app\\rlawt-1.3-80f8d83f50994aea5b5db591eb7d3af0.jar",
       "size": 161458,
       "hash": "3C3C608F97CE74BDFAA3AF30FD026D5D8956280607E11DD1A0996FDB16EEF6EF"
     },
     {
-      "name": "app\\runtime-desktop-1.3.0-alpha01-dev827-ac7fcd352b8655b056a3ed6b949e.jar",
+      "name": "\\app\\runtime-desktop-1.3.0-alpha01-dev827-ac7fcd352b8655b056a3ed6b949e.jar",
       "size": 1017553,
       "hash": "3D42C85CE83631F503BF242533A1F46C7FACE1A7021FE76C7371FBBABCFAE94D"
     },
     {
-      "name": "app\\runtime-saveable-desktop-1.3.0-alpha01-dev827-de79a57a2a9e78d4901cc81f0f35f4.jar",
+      "name": "\\app\\runtime-saveable-desktop-1.3.0-alpha01-dev827-de79a57a2a9e78d4901cc81f0f35f4.jar",
       "size": 52873,
       "hash": "F0B1A2D7FB6CA14639AB329BC0D9D70EB5896BC8719340EFD1611409CADC3FB6"
     },
     {
-      "name": "app\\scripts-1.0-SNAPSHOT-fe14cd792530219df09f828b58f5229f.jar",
+      "name": "\\app\\scripts-1.0-SNAPSHOT-fe14cd792530219df09f828b58f5229f.jar",
       "size": 6595,
       "hash": "FC892339A0DFC868CD4473426BAA378B197590F0E324225949767B1802A8F2D9"
     },
     {
-      "name": "app\\skiko-awt-0.7.34-7e32a7881b262fbce51f0fc66f996bd.jar",
+      "name": "\\app\\skiko-awt-0.7.34-7e32a7881b262fbce51f0fc66f996bd.jar",
       "size": 1140508,
       "hash": "2DD64AE1012041EB759F983900BFCC1AB34B63DE9145948B84A46C09F2476576"
     },
     {
-      "name": "app\\skiko-awt-runtime-windows-x64-0.7.34-425294575bafd98d54b6238bd4758849.jar",
+      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.34-425294575bafd98d54b6238bd4758849.jar",
       "size": 1151885,
       "hash": "8A5CE210B0F6D8E1A373DA7E9504C138B6B34BADD9CA598914D413784B3D8B73"
     },
     {
-      "name": "app\\skiko-windows-x64.dll",
+      "name": "\\app\\skiko-windows-x64.dll",
       "size": 16768000,
       "hash": "4136501B6F6D5307BFA98B0AACF8DE7921247D35ED65529A9F0B268F5557C70B"
     },
     {
-      "name": "app\\skiko-windows-x64.dll.sha256",
+      "name": "\\app\\skiko-windows-x64.dll.sha256",
       "size": 64,
       "hash": "F617C9F57234631246BC5EDD8086D75C96DE5F8503C8EE6933A9139A01E47DDC"
     },
     {
-      "name": "app\\slf4j-api-2.0.3-6ad2df2735d23889e5e6ea1d79bfe6c.jar",
+      "name": "\\app\\slf4j-api-2.0.3-6ad2df2735d23889e5e6ea1d79bfe6c.jar",
       "size": 61409,
       "hash": "68DDCDA65300FF8097AD1A096D7CD2FB06CEF25193887CEC3F2690E01BDBF421"
     },
     {
-      "name": "app\\slf4j-simple-2.0.3-704bca68f11a9163b5b9d45b51296136.jar",
+      "name": "\\app\\slf4j-simple-2.0.3-704bca68f11a9163b5b9d45b51296136.jar",
       "size": 14905,
       "hash": "BB20ABA9B5DBBC0EF752015361E0B22E2CF06DA3D3FDF07207C635193BEBE0F3"
     },
     {
-      "name": "app\\svg-salamander-1.0-9d4f4ea4a5be9aed75e051a88db48d39.jar",
+      "name": "\\app\\svg-salamander-1.0-9d4f4ea4a5be9aed75e051a88db48d39.jar",
       "size": 306765,
       "hash": "C1CA16F6D892B6267B0B7CD9B8BAC0AC6B3C71E99415AB6688BB354CA1C7F7B9"
     },
     {
-      "name": "app\\svgSalamander-1.1.3-d520012bde9b288e956ac86bbf31a.jar",
+      "name": "\\app\\svgSalamander-1.1.3-d520012bde9b288e956ac86bbf31a.jar",
       "size": 320460,
       "hash": "CBB67BDE385AB1C1E9832F54912982C69FC60C81C244835D07F43CA4E4610EB0"
     },
     {
-      "name": "app\\ui-desktop-1.3.0-alpha01-dev827-293d3ac7f0713577a8482c422e8874d.jar",
+      "name": "\\app\\ui-desktop-1.3.0-alpha01-dev827-293d3ac7f0713577a8482c422e8874d.jar",
       "size": 2092512,
       "hash": "927EB65CE5A30241AE7EB8955503754545CDC05A7770AD74F174C5D3E5B5EC6A"
     },
     {
-      "name": "app\\ui-geometry-desktop-1.3.0-alpha01-dev827-c4f336d0fc1cb6c2728c845940985b3c.jar",
+      "name": "\\app\\ui-geometry-desktop-1.3.0-alpha01-dev827-c4f336d0fc1cb6c2728c845940985b3c.jar",
       "size": 37833,
       "hash": "EAFB98EFA790AA0A9621E8DB9B6150BE091E1F377CAB4346FA86AA1F0F6D552C"
     },
     {
-      "name": "app\\ui-graphics-desktop-1.3.0-alpha01-dev827-254d817016a8cd3f6e719ee568296d6.jar",
+      "name": "\\app\\ui-graphics-desktop-1.3.0-alpha01-dev827-254d817016a8cd3f6e719ee568296d6.jar",
       "size": 400673,
       "hash": "A5573C7F19B5501C53EC532595B2149B6568624004778A90A0EBD5800F3EDCA6"
     },
     {
-      "name": "app\\ui-text-desktop-1.3.0-alpha01-dev827-a8774ecfa9141ab959c1d4ef635638.jar",
+      "name": "\\app\\ui-text-desktop-1.3.0-alpha01-dev827-a8774ecfa9141ab959c1d4ef635638.jar",
       "size": 568102,
       "hash": "1B1F4C62C319F729A599D09E3C516318AFF61A326337B4FC51D3331E781B0317"
     },
     {
-      "name": "app\\ui-tooling-preview-desktop-1.3.0-alpha01-dev827-597f98f6b3c92d798357a1163f7e8d0.jar",
+      "name": "\\app\\ui-tooling-preview-desktop-1.3.0-alpha01-dev827-597f98f6b3c92d798357a1163f7e8d0.jar",
       "size": 1863,
       "hash": "DB49FF56ACF0A3C0F3062ED744C0CD3498DEDF8A2785FE91CC6D6A64BFD4B99A"
     },
     {
-      "name": "app\\ui-unit-desktop-1.3.0-alpha01-dev827-c838eaa73f6b83a6444558ac917a56d.jar",
+      "name": "\\app\\ui-unit-desktop-1.3.0-alpha01-dev827-c838eaa73f6b83a6444558ac917a56d.jar",
       "size": 68073,
       "hash": "B9A82CAF4188544FC8F9CCF120F2DD8003571E2147150165C6A74C00FCBA63C8"
     },
     {
-      "name": "app\\ui-util-desktop-1.3.0-alpha01-dev827-91695551374750756a335e65a6eb7b4.jar",
+      "name": "\\app\\ui-util-desktop-1.3.0-alpha01-dev827-91695551374750756a335e65a6eb7b4.jar",
       "size": 5941,
       "hash": "518A6042EF106536B8F77D8127F2EA7B7B9434B76809703E61F7EEDC8835CD29"
     },
     {
-      "name": "client.exe",
+      "name": "\\client.exe",
       "size": 428544,
       "hash": "C12615AE9FFF73D62D0C6FD496C3DCFBEE0EEF8BC120BF264EC077C6F5A0BE4B"
     },
     {
-      "name": "client.ico",
+      "name": "\\client.ico",
       "size": 20726,
       "hash": "648EF91E34DC477A3888D6E1D75C28F62D988A510E50A7A6AC963CD063A5BE2E"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-console-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-console-l1-1-0.dll",
       "size": 12224,
       "hash": "2AFBFA1D77969D0F4CEE4547870355498D5C1DA81D241E09556D0BD1D6230F8C"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-console-l1-2-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-console-l1-2-0.dll",
       "size": 12224,
       "hash": "00942431C2D3193061C7F4DC340E8446BFDBF792A7489F60349299DFF689C2F9"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-datetime-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-datetime-l1-1-0.dll",
       "size": 11712,
       "hash": "77577F35D3A61217EA70F21398E178F8749455689DB52A2B35A85F9B54C79638"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-debug-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-debug-l1-1-0.dll",
       "size": 11720,
       "hash": "45E48320ABE6E3C6079F3F6B84636920A367989A88F9BA6847F88C210D972CF1"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll",
       "size": 11720,
       "hash": "ACCDD7455FB6D02FE298B987AD412E00D0B8E6F5FB10B52826367E7358AE1187"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-file-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-file-l1-1-0.dll",
       "size": 15304,
       "hash": "7CB0396229C3DA434482A5EF929D3A2C392791712242C9693F06BAA78948EF66"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-file-l1-2-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-file-l1-2-0.dll",
       "size": 11712,
       "hash": "7A3C5167731238CF262F749AA46AB3BFB2AE1B22191B76E28E1D7499D28C24B7"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-file-l2-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-file-l2-1-0.dll",
       "size": 11720,
       "hash": "349A79FA1572E3538DFBB942610D8C47D03E8A41B98897BC02EC7E897D05237E"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-handle-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-handle-l1-1-0.dll",
       "size": 11720,
       "hash": "C78A1217F8DCB157D1A66B80348DA48EBDBBEDCEA1D487FC393191C05AAD476D"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-heap-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-heap-l1-1-0.dll",
       "size": 12232,
       "hash": "2E981EE04F35C0E0B7C58282B70DCC9FC0318F20F900607DAE7A0D40B36E80AF"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-interlocked-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-interlocked-l1-1-0.dll",
       "size": 11712,
       "hash": "B02324C49DD039FA889B4647331AA9AC65E5ADC0CC06B26F9F086E2654FF9F08"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll",
       "size": 12736,
       "hash": "08484ED55E43584068C337281E2C577CF984BB504871B3156DE11C7CC1EEC38F"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-localization-l1-2-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-localization-l1-2-0.dll",
       "size": 14280,
       "hash": "059CB23FDCF4D80B92E3DA29E9EF4C322EDF6FBA9A1837978FD983E9BDFC7413"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-memory-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-memory-l1-1-0.dll",
       "size": 12224,
       "hash": "DADBD2204B015E81F94C537AC7A36CD39F82D7C366C193062210C7288BAA19E3"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll",
       "size": 11720,
       "hash": "B57E70798AF248F91C8C46A3F3B2952EFFAE92CA8EF9640C952467BC6726F363"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll",
       "size": 12744,
       "hash": "AA415DB99828F30A396CBD4E53C94096DB89756C88A19D8564F0EED0674ADD43"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-processthreads-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-processthreads-l1-1-0.dll",
       "size": 14272,
       "hash": "C9A686030E073975009F993485D362CC31C7F79B683DEF713E667D13E9605A14"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-processthreads-l1-1-1.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-processthreads-l1-1-1.dll",
       "size": 12232,
       "hash": "25A99BDF8BF4D16077DC30DD9FFEF7BB5A2CEAF9AFCEE7CF52AD408355239D40"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-profile-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-profile-l1-1-0.dll",
       "size": 11200,
       "hash": "42F4E84073CF876BBAB9DD42FD87124A4BA10BB0B59D2C3031CB2B2DA7140594"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll",
       "size": 12224,
       "hash": "02D987EBA4A65509A2DF8ED5DD0B1A0578966E624FCF5806614ECE88A817499F"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-string-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-string-l1-1-0.dll",
       "size": 11720,
       "hash": "9447218CC4AB1A2C012629AAAE8D1C8A428A99184B011BCC766792AF5891E234"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-synch-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-synch-l1-1-0.dll",
       "size": 13760,
       "hash": "A31A15BED26232A178BA7ECB8C8AA9487C3287BB7909952FC06ED0D2C795DB26"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-synch-l1-2-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-synch-l1-2-0.dll",
       "size": 12232,
       "hash": "1C72AC404781A9986D8EDEB0EE5DD39D2C27CE505683CA3324C0ECCD6193610A"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll",
       "size": 12744,
       "hash": "19C78EF5BA470C5B295DDDEE9244CBD07D0368C5743B02A16D375BFB494D3328"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-timezone-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-timezone-l1-1-0.dll",
       "size": 12232,
       "hash": "3D798B9C345A507E142E8DACD7FB6C17528CC1453ABFEF2FFA9710D2FA9E032C"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-core-util-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-core-util-l1-1-0.dll",
       "size": 11720,
       "hash": "5EB724C51EECBA9AC7B8A53861A1D029BF2E6C62251D00F61AC7E2A5F813AAA3"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-conio-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-conio-l1-1-0.dll",
       "size": 12744,
       "hash": "B119ADAD588EBCA7F9C88628010D47D68BF6E7DC6050B7E4B787559F131F5EDE"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-convert-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-convert-l1-1-0.dll",
       "size": 15816,
       "hash": "6C008BE766C44BF968C9E91CDDC5B472110BEFFEE3106A99532E68C605C78D44"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-environment-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-environment-l1-1-0.dll",
       "size": 12232,
       "hash": "AA3E3E99964D7F9B89F288DBE30FF18CBC960EE5ADD533EC1B8326FE63787AA3"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll",
       "size": 13768,
       "hash": "974AF1F1A38C02869073B4E7EC4B2A47A6CE8339FA62C549DA6B20668DE6798C"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-heap-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-heap-l1-1-0.dll",
       "size": 12744,
       "hash": "8166321F14D5804CE76F172F290A6F39CE81373257887D9897A6CF3925D47989"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-locale-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-locale-l1-1-0.dll",
       "size": 12232,
       "hash": "EDC1699E9995F98826DF06D2C45BEB9E02AA7817BAE3E61373096AE7F6FA06E0"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-math-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-math-l1-1-0.dll",
       "size": 20928,
       "hash": "F6A93FE6B57A54AAC46229F2ED14A0A979BF60416ADB2B2CFC672386CCB2B42E"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-multibyte-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-multibyte-l1-1-0.dll",
       "size": 19904,
       "hash": "5B3E29116383BA48A2F46594402246264B4CB001023237EBBF28E7E9292CDB92"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-private-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-private-l1-1-0.dll",
       "size": 64456,
       "hash": "55BC91A549D22B160AE4704485E19DEE955C7C2534E7447AFB84801EE629639B"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-process-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-process-l1-1-0.dll",
       "size": 12736,
       "hash": "191F53988C7F02DD888C4FBF7C1D3351570F3B641146FAE6D60ACDAE544771AE"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-runtime-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-runtime-l1-1-0.dll",
       "size": 16328,
       "hash": "4390C389BBBF9EC7215D12D22723EFD77BEB4CD83311C75FFE215725ECFD55DC"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-stdio-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-stdio-l1-1-0.dll",
       "size": 17864,
       "hash": "6F6F6E857B347F70ECC669B4DF73C32E42199B834FE009641D7B41A0B1C210AF"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-string-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-string-l1-1-0.dll",
       "size": 18368,
       "hash": "45E0835B1D3B446FE2C347BD87922C53CFB6DD826499E19A1D977BF4C11B0E4A"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-time-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-time-l1-1-0.dll",
       "size": 14280,
       "hash": "B48310B0837027F756D62C37EA91AF988BAA403CBCBD01CB26B6FDAE21EA96A2"
     },
     {
-      "name": "runtime\\bin\\api-ms-win-crt-utility-l1-1-0.dll",
+      "name": "\\runtime\\bin\\api-ms-win-crt-utility-l1-1-0.dll",
       "size": 12224,
       "hash": "C81C4BBA4E5F205359AD145963F6FBD074879047C66569F52B6D66711108E1ED"
     },
     {
-      "name": "runtime\\bin\\attach.dll",
+      "name": "\\runtime\\bin\\attach.dll",
       "size": 29336,
       "hash": "C5911E24CB0D87EA4E0179FB5781B4C4125FE27DA915F3B072AB9B134068BAE5"
     },
     {
-      "name": "runtime\\bin\\awt.dll",
+      "name": "\\runtime\\bin\\awt.dll",
       "size": 1486488,
       "hash": "585B9F0B986CD294166700AF70C8F7C9226774EAC6F1F4F7EF8F33478078A6B0"
     },
     {
-      "name": "runtime\\bin\\dt_shmem.dll",
+      "name": "\\runtime\\bin\\dt_shmem.dll",
       "size": 37016,
       "hash": "7C857EBFA0ED1845DACDFA53148CDBE809255B620953ED4BB046FD4BB91B2D46"
     },
     {
-      "name": "runtime\\bin\\dt_socket.dll",
+      "name": "\\runtime\\bin\\dt_socket.dll",
       "size": 35992,
       "hash": "2D02BA0F7C5824CE0B0064236493BF41571A280EBC331D110E9D7FB1EE596875"
     },
     {
-      "name": "runtime\\bin\\fontmanager.dll",
+      "name": "\\runtime\\bin\\fontmanager.dll",
       "size": 790168,
       "hash": "DE61BBB1A50F87C21B1543D2EE55B3C0F4DF00AB8C28AC2F0DC6A566FA89A157"
     },
     {
-      "name": "runtime\\bin\\freetype.dll",
+      "name": "\\runtime\\bin\\freetype.dll",
       "size": 541848,
       "hash": "24196FAF0A80F540FF664C536C22447BE6CB549F2826BC7A75D3B15B616C60C0"
     },
     {
-      "name": "runtime\\bin\\instrument.dll",
+      "name": "\\runtime\\bin\\instrument.dll",
       "size": 50840,
       "hash": "5F92667ACCFEE06702B14A119EB48D29AC369EBF655E4737BE80F2BBEF8AF912"
     },
     {
-      "name": "runtime\\bin\\j2gss.dll",
+      "name": "\\runtime\\bin\\j2gss.dll",
       "size": 50840,
       "hash": "3AB9DAB673A1C34C2E04324A48B0102F34EC9063933826FA0EE626FE74B01937"
     },
     {
-      "name": "runtime\\bin\\j2pcsc.dll",
+      "name": "\\runtime\\bin\\j2pcsc.dll",
       "size": 26264,
       "hash": "EA148ED217144F129A146E9562438A1018522067509CCF659871B1477B1D98D3"
     },
     {
-      "name": "runtime\\bin\\j2pkcs11.dll",
+      "name": "\\runtime\\bin\\j2pkcs11.dll",
       "size": 78488,
       "hash": "D265CC48FDA87245199E2180A093F7A915E295C9001E824E27EF433EC8B0EE8A"
     },
     {
-      "name": "runtime\\bin\\jaas.dll",
+      "name": "\\runtime\\bin\\jaas.dll",
       "size": 28312,
       "hash": "0A94C12DEECB8012B9410FDC39E8A7E5FDF716AA0362FF48BADE93BBF6980BF0"
     },
     {
-      "name": "runtime\\bin\\java.dll",
+      "name": "\\runtime\\bin\\java.dll",
       "size": 147096,
       "hash": "6BE1ECBAA5A68488F22E9F818B4F1FD17CEE77E37578B12657C156CA52E67481"
     },
     {
-      "name": "runtime\\bin\\javaaccessbridge.dll",
+      "name": "\\runtime\\bin\\javaaccessbridge.dll",
       "size": 288408,
       "hash": "343826FB012FA8494D5EF8114300C15B83992540A867D70ECA4AAFF9A59CF501"
     },
     {
-      "name": "runtime\\bin\\javajpeg.dll",
+      "name": "\\runtime\\bin\\javajpeg.dll",
       "size": 178840,
       "hash": "69CFED874B126A867FD85D7BC4010EFCB9B540F129E47988360E6C7E06C66F7E"
     },
     {
-      "name": "runtime\\bin\\jawt.dll",
+      "name": "\\runtime\\bin\\jawt.dll",
       "size": 21144,
       "hash": "CB272A04F642A6FF63B1CBC8DF345D63778D830EC1AEF695B9672F042F34EF2C"
     },
     {
-      "name": "runtime\\bin\\jdwp.dll",
+      "name": "\\runtime\\bin\\jdwp.dll",
       "size": 229528,
       "hash": "7F256BD1B588C550B975D5AAF7E9CB51DC5E13516B03052F269B73C747520A8D"
     },
     {
-      "name": "runtime\\bin\\jimage.dll",
+      "name": "\\runtime\\bin\\jimage.dll",
       "size": 32920,
       "hash": "88197F473AA07782E23B72855F6283FB127F3DA50EC98C99731E4ADE3568F190"
     },
     {
-      "name": "runtime\\bin\\jli.dll",
+      "name": "\\runtime\\bin\\jli.dll",
       "size": 89752,
       "hash": "80617E22CC7659CF359452804C54370BF91E4FD67A1DAD568F93BA7260C1EC86"
     },
     {
-      "name": "runtime\\bin\\jpackage.dll",
+      "name": "\\runtime\\bin\\jpackage.dll",
       "size": 130200,
       "hash": "E3AA109175B89BB4D61286259B885129DDAA8030054371827B4B4B18024EC2EC"
     },
     {
-      "name": "runtime\\bin\\jsound.dll",
+      "name": "\\runtime\\bin\\jsound.dll",
       "size": 60568,
       "hash": "93B26079494FB3C5C2F6EE2C5A8B0136ECE8211C0A18CBC08479CED634755B56"
     },
     {
-      "name": "runtime\\bin\\jsvml.dll",
+      "name": "\\runtime\\bin\\jsvml.dll",
       "size": 869528,
       "hash": "7B351439C16083E2A496D1F319C9D75299366C7804D27B0E656C416CD13B95DA"
     },
     {
-      "name": "runtime\\bin\\lcms.dll",
+      "name": "\\runtime\\bin\\lcms.dll",
       "size": 255640,
       "hash": "72C16D1F434484DE755EA9189F0085B2CCD19BEFB07791B09BA2FAF3C6D6DF92"
     },
     {
-      "name": "runtime\\bin\\le.dll",
+      "name": "\\runtime\\bin\\le.dll",
       "size": 35480,
       "hash": "155C7A570BB3AB546AA512B100B059CDBCB88AC511C65CDBB33221C70A4561DC"
     },
     {
-      "name": "runtime\\bin\\management.dll",
+      "name": "\\runtime\\bin\\management.dll",
       "size": 28824,
       "hash": "A7BEBDB1C679D3C819979459D48B94F0DF69C0F567FF6DA39539326AB9C333E5"
     },
     {
-      "name": "runtime\\bin\\management_agent.dll",
+      "name": "\\runtime\\bin\\management_agent.dll",
       "size": 24216,
       "hash": "353429899A140DAE68D5C7B13F95DBC5BE28C41F755496F69D8312BF4B7C867D"
     },
     {
-      "name": "runtime\\bin\\management_ext.dll",
+      "name": "\\runtime\\bin\\management_ext.dll",
       "size": 35992,
       "hash": "452F2731FA2C5489EB1DD72823DF47C1418297A55D3EEAFD50B4F2A1897F9C51"
     },
     {
-      "name": "runtime\\bin\\mlib_image.dll",
+      "name": "\\runtime\\bin\\mlib_image.dll",
       "size": 510104,
       "hash": "7C7A5A6F16A2C3746EA53886A5F64BC6CF9F58C7249585A8DA86071459ACA82D"
     },
     {
-      "name": "runtime\\bin\\msvcp140.dll",
+      "name": "\\runtime\\bin\\msvcp140.dll",
       "size": 564112,
       "hash": "254DF96324D019A7C4213ABD4178944B8BF2873D0C3EDC1835D4C668F83D7C37"
     },
     {
-      "name": "runtime\\bin\\net.dll",
+      "name": "\\runtime\\bin\\net.dll",
       "size": 96920,
       "hash": "62193996E54F51C3129B3171F4858A3C517F260D96BB6173CAEB9BAE7D9806FC"
     },
     {
-      "name": "runtime\\bin\\nio.dll",
+      "name": "\\runtime\\bin\\nio.dll",
       "size": 80024,
       "hash": "3D15FE738A2BF089BA4FB1DCE434F95FD1929F8081F706D13B69F953FDE5B048"
     },
     {
-      "name": "runtime\\bin\\prefs.dll",
+      "name": "\\runtime\\bin\\prefs.dll",
       "size": 25240,
       "hash": "E6F37A9A25BA4D11C758D660D09E8000A71F5E9799B7470AFCB2F46226C59A33"
     },
     {
-      "name": "runtime\\bin\\rmi.dll",
+      "name": "\\runtime\\bin\\rmi.dll",
       "size": 20632,
       "hash": "CFBE9D4DAB0A0269AD6FF39AFE52EA4E7274E286B7CED2EDA18E4C507E85EDA5"
     },
     {
-      "name": "runtime\\bin\\saproc.dll",
+      "name": "\\runtime\\bin\\saproc.dll",
       "size": 38552,
       "hash": "2224B16B9947521D883A951EC469EF7DA5A4F8F6E711199C9801FC1DA8915BD9"
     },
     {
-      "name": "runtime\\bin\\server\\jvm.dll",
+      "name": "\\runtime\\bin\\server\\jvm.dll",
       "size": 11994264,
       "hash": "66749BF22EA851CA47A8D118C0741283D3C74FE3AC3E6C4EEA651A3A59726D49"
     },
     {
-      "name": "runtime\\bin\\splashscreen.dll",
+      "name": "\\runtime\\bin\\splashscreen.dll",
       "size": 218264,
       "hash": "5373BFFEEB4F4BD6BFDFA59E18C00CAED6B698575B77505B5FACE8FD871EC21C"
     },
     {
-      "name": "runtime\\bin\\sspi_bridge.dll",
+      "name": "\\runtime\\bin\\sspi_bridge.dll",
       "size": 44696,
       "hash": "CAFC989C0B5B752D859EE245BF55FBBEB92558F1D6E2635E847275D6E3779078"
     },
     {
-      "name": "runtime\\bin\\sunmscapi.dll",
+      "name": "\\runtime\\bin\\sunmscapi.dll",
       "size": 47256,
       "hash": "7150E842034506E9F435B8C7BBD59D240595D5DA626DC66CE21B5B959C7F4F54"
     },
     {
-      "name": "runtime\\bin\\ucrtbase.dll",
+      "name": "\\runtime\\bin\\ucrtbase.dll",
       "size": 1011656,
       "hash": "10521FE73FE05F2BA95D40757D9F676F2091E2ED578DA9D5CDEF352F986F3BCD"
     },
     {
-      "name": "runtime\\bin\\vcruntime140.dll",
+      "name": "\\runtime\\bin\\vcruntime140.dll",
       "size": 96144,
       "hash": "92D50F7C4055718812CD3D823AA2821D6718EB55D2AB2BAC55C2E47260C25A76"
     },
     {
-      "name": "runtime\\bin\\vcruntime140_1.dll",
+      "name": "\\runtime\\bin\\vcruntime140_1.dll",
       "size": 36752,
       "hash": "922124BA0821AA864A0261ED88BD25F8E40F94C24D00D389E23CD9AB2BFC6BA4"
     },
     {
-      "name": "runtime\\bin\\verify.dll",
+      "name": "\\runtime\\bin\\verify.dll",
       "size": 54936,
       "hash": "B36134228ACE5ADBBE7370C15CEE35152FDE510DECD5FECADF973A888EF8EA89"
     },
     {
-      "name": "runtime\\bin\\w2k_lsa_auth.dll",
+      "name": "\\runtime\\bin\\w2k_lsa_auth.dll",
       "size": 31384,
       "hash": "863F616E5D6AD095968CA99D75C45A182BD1EC47333AA4361CFBEB9963DD375E"
     },
     {
-      "name": "runtime\\bin\\windowsaccessbridge-64.dll",
+      "name": "\\runtime\\bin\\windowsaccessbridge-64.dll",
       "size": 72344,
       "hash": "3020BC557F175EC362289D532D16AFF6585CDD1662D30DB72C458FAB243F5DDF"
     },
     {
-      "name": "runtime\\bin\\WinFallbackLookup.dll",
+      "name": "\\runtime\\bin\\WinFallbackLookup.dll",
       "size": 27800,
       "hash": "75EC4416FF8CB933E8B28160982381DD63B2D91942DA46E629DA0B857EC377CE"
     },
     {
-      "name": "runtime\\bin\\zip.dll",
+      "name": "\\runtime\\bin\\zip.dll",
       "size": 86168,
       "hash": "412F50AFFB78BE8BC4A752636807F27675CDBFD78429D8EAD84301D89E15D233"
     },
     {
-      "name": "runtime\\conf\\logging.properties",
+      "name": "\\runtime\\conf\\logging.properties",
       "size": 2732,
       "hash": "B62D2733AB99556B108A1951D894C5A8D76B1AC7A00C02C388F9EB9BE046C56F"
     },
     {
-      "name": "runtime\\conf\\management\\jmxremote.access",
+      "name": "\\runtime\\conf\\management\\jmxremote.access",
       "size": 3997,
       "hash": "0C25D26EE212CA1E8C33F67C3C460D43FE849C3A1D23DBE341148517602B280C"
     },
     {
-      "name": "runtime\\conf\\management\\jmxremote.password.template",
+      "name": "\\runtime\\conf\\management\\jmxremote.password.template",
       "size": 5690,
       "hash": "0273B6A6B9E20E6CE54C5AEE70164028E0395063B2B7D39060A40B6495543DBF"
     },
     {
-      "name": "runtime\\conf\\management\\management.properties",
+      "name": "\\runtime\\conf\\management\\management.properties",
       "size": 14410,
       "hash": "F80096EC028DCB71625C398EC16D12023CAFC6A1C055ACEAED07D02E8D56F637"
     },
     {
-      "name": "runtime\\conf\\net.properties",
+      "name": "\\runtime\\conf\\net.properties",
       "size": 6671,
       "hash": "5BC726671936E0AF4FDF6BED67D9E3A20A92C30B0BA23673D0314BAA5E3FFB08"
     },
     {
-      "name": "runtime\\conf\\security\\java.policy",
+      "name": "\\runtime\\conf\\security\\java.policy",
       "size": 2180,
       "hash": "F2A00A1DEC3B7A097F0815F338A84717BA1017D5D7AAE96D842D2188D67C3250"
     },
     {
-      "name": "runtime\\conf\\security\\java.security",
+      "name": "\\runtime\\conf\\security\\java.security",
       "size": 58403,
       "hash": "F9B32ADEEE2ED2D3EA558CCC0DC5023EC9474BE301CF83FA09067B2A2A73D15F"
     },
     {
-      "name": "runtime\\conf\\security\\policy\\limited\\default_local.policy",
+      "name": "\\runtime\\conf\\security\\policy\\limited\\default_local.policy",
       "size": 647,
       "hash": "2B2627548E61316150D47FFC3E6CAD465CA05B3CCCD4785EB7D21AA7BAA0F441"
     },
     {
-      "name": "runtime\\conf\\security\\policy\\limited\\default_US_export.policy",
+      "name": "\\runtime\\conf\\security\\policy\\limited\\default_US_export.policy",
       "size": 146,
       "hash": "758B930A526FC670AB7537F8C26321527050A31F5F42149A2DDA623C56A0A1A9"
     },
     {
-      "name": "runtime\\conf\\security\\policy\\limited\\exempt_local.policy",
+      "name": "\\runtime\\conf\\security\\policy\\limited\\exempt_local.policy",
       "size": 566,
       "hash": "8C3D7648ABCD95A272CE12DB870082937F4D7F6878D730D83CB7FBB31EB8B2C9"
     },
     {
-      "name": "runtime\\conf\\security\\policy\\README.txt",
+      "name": "\\runtime\\conf\\security\\policy\\README.txt",
       "size": 2390,
       "hash": "6DA0747334B0FEA7592FD92614B2BBC8B126535E129B1FEE483774D914E98EB5"
     },
     {
-      "name": "runtime\\conf\\security\\policy\\unlimited\\default_local.policy",
+      "name": "\\runtime\\conf\\security\\policy\\unlimited\\default_local.policy",
       "size": 193,
       "hash": "8D8A318E6D90DFD7E26612D2B6385AA704F686CA6134C551F8928418D92B851A"
     },
     {
-      "name": "runtime\\conf\\security\\policy\\unlimited\\default_US_export.policy",
+      "name": "\\runtime\\conf\\security\\policy\\unlimited\\default_US_export.policy",
       "size": 146,
       "hash": "758B930A526FC670AB7537F8C26321527050A31F5F42149A2DDA623C56A0A1A9"
     },
     {
-      "name": "runtime\\conf\\sound.properties",
+      "name": "\\runtime\\conf\\sound.properties",
       "size": 1210,
       "hash": "299C2360B6155EB28990EC49CD21753F97E43442FE8FAB03E04F3E213DF43A66"
     },
     {
-      "name": "runtime\\lib\\classlist",
+      "name": "\\runtime\\lib\\classlist",
       "size": 73065,
       "hash": "2306F5571BF8D79CB80AEC09B359AEE761D6BDFC9F704736A24ECCA3EDCA8629"
     },
     {
-      "name": "runtime\\lib\\ct.sym",
+      "name": "\\runtime\\lib\\ct.sym",
       "size": 8888730,
       "hash": "7620C93486FF29AAA2D16A3AB66EA28FFE514B494FC09938128F015C392A7B6C"
     },
     {
-      "name": "runtime\\lib\\fontconfig.bfc",
+      "name": "\\runtime\\lib\\fontconfig.bfc",
       "size": 4630,
       "hash": "968AC99BBAAF8A49A474C934E73AD58F88C6C7F2A363CB44771E0378444E36BA"
     },
     {
-      "name": "runtime\\lib\\fontconfig.properties.src",
+      "name": "\\runtime\\lib\\fontconfig.properties.src",
       "size": 11348,
       "hash": "0E09536058276FBD7DBE92B7E359F6FDDE04B55EA7F9E4995B70C9BED34CD11A"
     },
     {
-      "name": "runtime\\lib\\jawt.lib",
+      "name": "\\runtime\\lib\\jawt.lib",
       "size": 1682,
       "hash": "8BDE26D5C4BCA97AAD6FAE47AC577FF738279F910941C0401E197A13DFE655B1"
     },
     {
-      "name": "runtime\\lib\\jfr\\default.jfc",
+      "name": "\\runtime\\lib\\jfr\\default.jfc",
       "size": 35581,
       "hash": "2FA6F0855601DCF44847947B3989EE9973BAC3468B0A6730339AD96A09A586CD"
     },
     {
-      "name": "runtime\\lib\\jfr\\profile.jfc",
+      "name": "\\runtime\\lib\\jfr\\profile.jfc",
       "size": 35541,
       "hash": "34C90A3E730DF674B8CD60FBC632539C754A559BF34CD9C8E2B70592D0F4DD78"
     },
     {
-      "name": "runtime\\lib\\jrt-fs.jar",
+      "name": "\\runtime\\lib\\jrt-fs.jar",
       "size": 110501,
       "hash": "7EF0883D88C0DD5F7354F7507882689394B93447145A24124AD7EED3200469B4"
     },
     {
-      "name": "runtime\\lib\\jvm.cfg",
+      "name": "\\runtime\\lib\\jvm.cfg",
       "size": 29,
       "hash": "AA9EFB969444C1484E29ADECAB55A122458090616E766B2F1230EF05BC3867E0"
     },
     {
-      "name": "runtime\\lib\\jvm.lib",
+      "name": "\\runtime\\lib\\jvm.lib",
       "size": 977608,
       "hash": "706C5F3AB8BC9CF85BE1308CF3F3700476B30E085744D4A821A5C97CF4695001"
     },
     {
-      "name": "runtime\\lib\\psfont.properties.ja",
+      "name": "\\runtime\\lib\\psfont.properties.ja",
       "size": 2796,
       "hash": "0C790DE696536165913685785EA8CBE1AC64ACF09E2C8D92D802083A6DA09393"
     },
     {
-      "name": "runtime\\lib\\psfontj2d.properties",
+      "name": "\\runtime\\lib\\psfontj2d.properties",
       "size": 10393,
       "hash": "7D51936FA3FD5812AE51F9F5657E0E70487DCA810B985607B6C5D6603F5E6C98"
     },
     {
-      "name": "runtime\\lib\\security\\blocked.certs",
+      "name": "\\runtime\\lib\\security\\blocked.certs",
       "size": 2527,
       "hash": "583500B76965EB54B03493372989AB4D3426F85462D1DB232C5AE6706A4D6C58"
     },
     {
-      "name": "runtime\\lib\\security\\cacerts",
+      "name": "\\runtime\\lib\\security\\cacerts",
       "size": 102206,
       "hash": "CCADBB4970973F42AD7391A0A2C4B8AAD19559F3B322092A1F2CAB044708EFAA"
     },
     {
-      "name": "runtime\\lib\\security\\default.policy",
+      "name": "\\runtime\\lib\\security\\default.policy",
       "size": 10813,
       "hash": "34ACD220C26FA1CB607E8723CBA9CC6DB9A432C5B2C6739EB5CC189C7D3D6168"
     },
     {
-      "name": "runtime\\lib\\security\\public_suffix_list.dat",
+      "name": "\\runtime\\lib\\security\\public_suffix_list.dat",
       "size": 234080,
       "hash": "72E17C92D464BA1476FBCC7DAC6CBC493F6FB04F158895368B57D81DDBE277D1"
     },
     {
-      "name": "runtime\\lib\\tzdb.dat",
+      "name": "\\runtime\\lib\\tzdb.dat",
       "size": 102670,
       "hash": "2743C0344131E00B73B2B47C1884F09F23B28B3ECD9135A460D0DD874F57BCD3"
     },
     {
-      "name": "runtime\\lib\\tzmappings",
+      "name": "\\runtime\\lib\\tzmappings",
       "size": 22143,
       "hash": "36DC51C4BF787F640A4B45CBB84AB6954F6E595CBD3617C2F5A4E1E607B38BFF"
     },
     {
-      "name": "runtime\\release",
+      "name": "\\runtime\\release",
       "size": 1093,
       "hash": "19CEEE53108061AF59655F1A698D32F5CBD754D66586E1ACE321A58D175F686C"
     }
