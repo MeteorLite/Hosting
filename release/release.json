@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "updateInfo": "Items are okay I guess",
+  "version": "1.7.2",
+  "updateInfo": "",
   "files": [
     {
       "name": "\\app\\.jpackage.xml",
@@ -531,6 +531,11 @@
       "name": "\\app\\ui-util-desktop-1.3.0-alpha01-dev827-91695551374750756a335e65a6eb7b4.jar",
       "size": 5941,
       "hash": "518A6042EF106536B8F77D8127F2EA7B7B9434B76809703E61F7EEDC8835CD29"
+    },
+    {
+      "name": "\\client.bat",
+      "size": 47,
+      "hash": "3298F4FB8815483540290FD634179A7EA68DA008AAE1C3FA2730B32CEE90EB20"
     },
     {
       "name": "\\client.exe",
