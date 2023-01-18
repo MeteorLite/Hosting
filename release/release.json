@@ -1,5 +1,5 @@
 {
-  "version": "167",
+  "version": "169",
   "updateInfo": "",
   "files": [
     {
@@ -74,8 +74,8 @@
     },
     {
       "name": "\\app\\client.cfg",
-      "size": 11753,
-      "hash": "2470907303"
+      "size": 11836,
+      "hash": "3753881343"
     },
     {
       "name": "\\app\\codeeditor-desktop-3.0.5-a66eac06c53010f6a5f4bfaa7630ce.jar",
@@ -488,9 +488,9 @@
       "hash": "2962968748"
     },
     {
-      "name": "\\app\\meteor-client-1.7-r2-d1b0fdbf3195a3915b2ab7933fac1b62.jar",
-      "size": 14588044,
-      "hash": "3360312510"
+      "name": "\\app\\meteor-client-1.7-r2-f0ad24f8383fd4309a4d9d8ab2d0b29.jar",
+      "size": 14588039,
+      "hash": "1139027731"
     },
     {
       "name": "\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -593,9 +593,9 @@
       "hash": "2923589887"
     },
     {
-      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-2313d2d14082704c547885485898.jar",
+      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-11fb2ff2846ef29d6cbe4c5bd51e8e6.jar",
       "size": 293,
-      "hash": "3015465265"
+      "hash": "1036244458"
     },
     {
       "name": "\\app\\skiko-windows-x64.dll",
