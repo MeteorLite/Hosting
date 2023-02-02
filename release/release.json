@@ -1,5 +1,5 @@
 {
-  "version": "231",
+  "version": "234",
   "updateInfo": "",
   "files": [
     {
@@ -38,9 +38,9 @@
       "hash": "964851370"
     },
     {
-      "name": "\\app\\api-1.0.4-411059b5e4f5adf6935fe7c13d08ec6.jar",
-      "size": 1476666,
-      "hash": "3024046280"
+      "name": "\\app\\api-1.0.4-ec71ef3214102ef48878d557218c9a4.jar",
+      "size": 1476726,
+      "hash": "3170882785"
     },
     {
       "name": "\\app\\api-rs-1.0.0-f61d301ea392e5b012ad2396d844362e.jar",
@@ -69,8 +69,8 @@
     },
     {
       "name": "\\app\\client.cfg",
-      "size": 10218,
-      "hash": "1429646757"
+      "size": 10257,
+      "hash": "63855700"
     },
     {
       "name": "\\app\\color-picker-jvm-d3cb316b54a9432145c62bd15cb99c53.jar",
@@ -188,9 +188,9 @@
       "hash": "1970433212"
     },
     {
-      "name": "\\app\\injected-client-4e4444ff9c0d47120273e85adaf8ed.jar",
-      "size": 1350371,
-      "hash": "532074980"
+      "name": "\\app\\injected-client-c929f367a7c1b39a43ece573cc8c2e0.jar",
+      "size": 1350541,
+      "hash": "4185697682"
     },
     {
       "name": "\\app\\j2objc-annotations-1.3-5fa4ec4ec0c5aa70af8a7d4922df1931.jar",
@@ -413,9 +413,9 @@
       "hash": "2962968748"
     },
     {
-      "name": "\\app\\meteor-client-1.7-r2-b91fe8303f9f1486d54c5ccd6dfd9dc.jar",
-      "size": 16666667,
-      "hash": "405037366"
+      "name": "\\app\\meteor-client-1.7-r2-197ca0f2397f0b7ae29243192d546b.jar",
+      "size": 16743516,
+      "hash": "4183382175"
     },
     {
       "name": "\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -503,9 +503,9 @@
       "hash": "3249462620"
     },
     {
-      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-8de511b21f771fae11dd1a11fd3dcc8.jar",
+      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-a93cee7ccb974c19e47d1592b6e91a3e.jar",
       "size": 293,
-      "hash": "3123656886"
+      "hash": "4203914605"
     },
     {
       "name": "\\app\\skiko-windows-x64.dll",
