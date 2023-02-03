@@ -1,5 +1,5 @@
 {
-  "version": "234",
+  "version": "238",
   "updateInfo": "",
   "files": [
     {
@@ -38,9 +38,9 @@
       "hash": "964851370"
     },
     {
-      "name": "\\app\\api-1.0.4-ec71ef3214102ef48878d557218c9a4.jar",
-      "size": 1476726,
-      "hash": "3170882785"
+      "name": "\\app\\api-1.0.4-6cf11b4d843db85abdb5c23264d67f56.jar",
+      "size": 1476637,
+      "hash": "165108777"
     },
     {
       "name": "\\app\\api-rs-1.0.0-f61d301ea392e5b012ad2396d844362e.jar",
@@ -69,8 +69,8 @@
     },
     {
       "name": "\\app\\client.cfg",
-      "size": 10257,
-      "hash": "63855700"
+      "size": 10260,
+      "hash": "2501868068"
     },
     {
       "name": "\\app\\color-picker-jvm-d3cb316b54a9432145c62bd15cb99c53.jar",
@@ -413,9 +413,9 @@
       "hash": "2962968748"
     },
     {
-      "name": "\\app\\meteor-client-1.7-r2-197ca0f2397f0b7ae29243192d546b.jar",
-      "size": 16743516,
-      "hash": "4183382175"
+      "name": "\\app\\meteor-client-1.7-r2-269d1829e371a1ea93dd56ca7919f9c.jar",
+      "size": 16782304,
+      "hash": "686247602"
     },
     {
       "name": "\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -503,9 +503,9 @@
       "hash": "3249462620"
     },
     {
-      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-a93cee7ccb974c19e47d1592b6e91a3e.jar",
+      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-3612793d63f1cb9b31cadbac7e9a4a81.jar",
       "size": 293,
-      "hash": "4203914605"
+      "hash": "2893299894"
     },
     {
       "name": "\\app\\skiko-windows-x64.dll",
