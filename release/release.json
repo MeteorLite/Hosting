@@ -1,5 +1,5 @@
 {
-  "version": "239",
+  "version": "242",
   "updateInfo": "",
   "files": [
     {
@@ -38,14 +38,14 @@
       "hash": "964851370"
     },
     {
-      "name": "\\app\\api-1.0.4-6cf11b4d843db85abdb5c23264d67f56.jar",
-      "size": 1476637,
-      "hash": "165108777"
+      "name": "\\app\\api-1.0.4-f3b7e625653cc9a7027fbdb9ea4054.jar",
+      "size": 1481887,
+      "hash": "1731448556"
     },
     {
-      "name": "\\app\\api-rs-1.0.0-f61d301ea392e5b012ad2396d844362e.jar",
-      "size": 129020,
-      "hash": "1644333635"
+      "name": "\\app\\api-rs-1.0.0-bc86d649acaff1ef6e2ecbe2434c836.jar",
+      "size": 129138,
+      "hash": "4134826263"
     },
     {
       "name": "\\app\\atomicfu-jvm-0.17.2-d6b6f3a195696acf1828b1f125125ed7.jar",
@@ -69,8 +69,8 @@
     },
     {
       "name": "\\app\\client.cfg",
-      "size": 10260,
-      "hash": "91645302"
+      "size": 10252,
+      "hash": "50830396"
     },
     {
       "name": "\\app\\color-picker-jvm-d3cb316b54a9432145c62bd15cb99c53.jar",
@@ -188,9 +188,9 @@
       "hash": "1970433212"
     },
     {
-      "name": "\\app\\injected-client-c929f367a7c1b39a43ece573cc8c2e0.jar",
-      "size": 1350541,
-      "hash": "4185697682"
+      "name": "\\app\\injected-client-d8e26eaae91764ae6fb585cb5e2f139.jar",
+      "size": 1351851,
+      "hash": "1234965423"
     },
     {
       "name": "\\app\\j2objc-annotations-1.3-5fa4ec4ec0c5aa70af8a7d4922df1931.jar",
@@ -413,9 +413,9 @@
       "hash": "2962968748"
     },
     {
-      "name": "\\app\\meteor-client-1.7-r2-d05d2b3385eb7e6a8b546816e4c5895.jar",
-      "size": 16782255,
-      "hash": "3436345014"
+      "name": "\\app\\meteor-client-1.7-r2-6277cda73a2d031c899143c1b4e21.jar",
+      "size": 16791682,
+      "hash": "41007632"
     },
     {
       "name": "\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -503,9 +503,9 @@
       "hash": "3249462620"
     },
     {
-      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-3ebeb6c1fc3297934ea8586919a2f2b8.jar",
+      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.39-12626c4b954918fb5328f7d336ec8bb.jar",
       "size": 293,
-      "hash": "1535449209"
+      "hash": "1215717912"
     },
     {
       "name": "\\app\\skiko-windows-x64.dll",
