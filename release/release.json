@@ -1,26 +1,26 @@
 {
-  "version": "286",
+  "version": "292",
   "updateInfo": "",
   "files": [
     {
       "name": "\\app\\.jpackage.xml",
-      "size": 193,
-      "hash": "2503785568"
+      "size": 192,
+      "hash": "2704427678"
     },
     {
-      "name": "\\app\\animation-core-desktop-1.3.0-e4e0deec43a1fe5e167c411ddc9bf385.jar",
-      "size": 324919,
-      "hash": "1882012711"
+      "name": "\\app\\animation-core-desktop-1.4.3-4c8eeb9ed3e4c4e8d45d86971befd847.jar",
+      "size": 327510,
+      "hash": "3169353698"
     },
     {
-      "name": "\\app\\animation-desktop-1.3.0-6ed1e4ad7942e528b3f2af8cf36d32d.jar",
-      "size": 289850,
-      "hash": "657379928"
+      "name": "\\app\\animation-desktop-1.4.3-6e92b826c2b51294bac992f084f4b6cb.jar",
+      "size": 294824,
+      "hash": "3057595006"
     },
     {
-      "name": "\\app\\annotations-1.0.0-5ed6d2b2a08213a8d72cde63faed5bf.jar",
+      "name": "\\app\\annotations-1.0.0-5c165b166e52d7d78b0a34cda140e8.jar",
       "size": 8843,
-      "hash": "1673719117"
+      "hash": "560006777"
     },
     {
       "name": "\\app\\annotations-24.0.0-879614e1a8678b4db231a05cae8cdb3.jar",
@@ -38,19 +38,19 @@
       "hash": "964851370"
     },
     {
-      "name": "\\app\\api-1.0.4-13f3b8362a4ece8abfaceb72d3766b9.jar",
-      "size": 1483108,
-      "hash": "2524732477"
+      "name": "\\app\\api-1.0.4-9bd715abbb92827d109660113a37e8a9.jar",
+      "size": 1483104,
+      "hash": "722147016"
     },
     {
-      "name": "\\app\\api-rs-1.0.0-4956d917e6b2ed2b94eddd67623d6b35.jar",
-      "size": 127795,
-      "hash": "1450912975"
+      "name": "\\app\\api-rs-1.0.0-fe7ea777e4398db6558d90a0f5a0ecbc.jar",
+      "size": 128429,
+      "hash": "438366490"
     },
     {
-      "name": "\\app\\atomicfu-jvm-0.17.2-d6b6f3a195696acf1828b1f125125ed7.jar",
-      "size": 36312,
-      "hash": "2686998879"
+      "name": "\\app\\atomicfu-jvm-0.17.0-9031dba6d62a5163d26260e9d1bda7c.jar",
+      "size": 36304,
+      "hash": "1038843961"
     },
     {
       "name": "\\app\\bcprov-jdk15on-1.64-1d172df00184d05b49bc6d30892a5.jar",
@@ -58,9 +58,9 @@
       "hash": "1831433975"
     },
     {
-      "name": "\\app\\cache-aeff3421f1b7f976d87bb3f37a4eb13.jar",
+      "name": "\\app\\cache-e1ab74d07118f17b9745b3bda2f8990.jar",
       "size": 429258,
-      "hash": "1736066731"
+      "hash": "1518448314"
     },
     {
       "name": "\\app\\checker-qual-3.12.0-ab1ae0e2f2f6361597a5a96fca8a54f.jar",
@@ -69,8 +69,8 @@
     },
     {
       "name": "\\app\\client.cfg",
-      "size": 10042,
-      "hash": "4025294567"
+      "size": 10259,
+      "hash": "1045870437"
     },
     {
       "name": "\\app\\color-picker-jvm-2ed58bcab85566b2167a85945efe6ea4.jar",
@@ -113,9 +113,9 @@
       "hash": "998636266"
     },
     {
-      "name": "\\app\\desktop-jvm-1.3.0-58ea927638b39cfe35a1568cc156f01d.jar",
-      "size": 8012,
-      "hash": "4129841690"
+      "name": "\\app\\desktop-jvm-1.4.3-784169ffd75e9c895e9ca5f2959ad97f.jar",
+      "size": 8142,
+      "hash": "3481651310"
     },
     {
       "name": "\\app\\discord-1.4-d8bd9a4e72f60f14ae2d43d3dcfe3f.jar",
@@ -128,9 +128,9 @@
       "hash": "14832780"
     },
     {
-      "name": "\\app\\eventbus-1.0-SNAPSHOT-6fc6d08fdf8387663727fb9fad9fc7bb.jar",
+      "name": "\\app\\eventbus-1.0-SNAPSHOT-5d431f51729cedaa2737ba35cce73.jar",
       "size": 47680,
-      "hash": "2621301783"
+      "hash": "3678995432"
     },
     {
       "name": "\\app\\failureaccess-1.0.1-91883993ef5bfa91da01dcc8fc52236.jar",
@@ -153,14 +153,14 @@
       "hash": "567354047"
     },
     {
-      "name": "\\app\\foundation-desktop-1.3.0-f7b774ebd164a1b82180e7279ce3ba2a.jar",
-      "size": 2545082,
-      "hash": "1435553267"
+      "name": "\\app\\foundation-desktop-1.4.3-db3979d5268ff6b567a818de1f7c7831.jar",
+      "size": 2920946,
+      "hash": "752459870"
     },
     {
-      "name": "\\app\\foundation-layout-desktop-1.3.0-2a41879288ebb32c327f62a59054eb4f.jar",
-      "size": 422561,
-      "hash": "656377773"
+      "name": "\\app\\foundation-layout-desktop-1.4.3-bec2128c2e2ea6144828d941353b806c.jar",
+      "size": 471559,
+      "hash": "1068544661"
     },
     {
       "name": "\\app\\gson-2.10.1-df6097815738cb31fc5639155321843.jar",
@@ -178,9 +178,9 @@
       "hash": "2617761537"
     },
     {
-      "name": "\\app\\http-1.0.0-718c7cf52edd468c898749aca58851e.jar",
+      "name": "\\app\\http-1.0.0-cb13f7788cb0531674a8e5d32e605082.jar",
       "size": 72085,
-      "hash": "2821747868"
+      "hash": "50684411"
     },
     {
       "name": "\\app\\icudtl.dat",
@@ -188,14 +188,19 @@
       "hash": "1970433212"
     },
     {
-      "name": "\\app\\injected-client-b09d3fa0bfedd57f8744f8f78cf7c.jar",
-      "size": 1397307,
-      "hash": "1902379747"
+      "name": "\\app\\injected-client-87b545c9912e2fe5109c49448cc6c2a.jar",
+      "size": 1454166,
+      "hash": "2063809244"
     },
     {
       "name": "\\app\\j2objc-annotations-1.3-5fa4ec4ec0c5aa70af8a7d4922df1931.jar",
       "size": 8781,
       "hash": "2759705861"
+    },
+    {
+      "name": "\\app\\java-semver-0.9.0-941796ff6a9db74db273abbdaf334e.jar",
+      "size": 46843,
+      "hash": "2790663705"
     },
     {
       "name": "\\app\\javax.annotation-api-1.2-75fe32d2b3763bd6883ae1ede35e987.jar",
@@ -248,29 +253,29 @@
       "hash": "3430834153"
     },
     {
-      "name": "\\app\\kotlin-reflect-1.8.0-8eba8625c852df4874cb36e088c662.jar",
-      "size": 3155030,
-      "hash": "1027679394"
+      "name": "\\app\\kotlin-reflect-1.9.0-0ae32579166e8e9e8a6cf5c1baec19.jar",
+      "size": 3223171,
+      "hash": "2727305317"
     },
     {
-      "name": "\\app\\kotlin-stdlib-1.8.0-952dbd9391b7c09ee33321daff5d583.jar",
-      "size": 1636558,
-      "hash": "1112349644"
+      "name": "\\app\\kotlin-stdlib-1.9.0-b0176dfa441dc78b9f121cafa3ab29f.jar",
+      "size": 1708006,
+      "hash": "2011806363"
     },
     {
-      "name": "\\app\\kotlin-stdlib-common-1.8.0-f11c871eefc3262541c5a3c8d7555e5e.jar",
-      "size": 217441,
-      "hash": "2890688285"
+      "name": "\\app\\kotlin-stdlib-common-1.9.0-618624141652aed1bcc024bc3a92c5.jar",
+      "size": 225141,
+      "hash": "192130319"
     },
     {
-      "name": "\\app\\kotlin-stdlib-jdk7-1.8.0-e881855ce1f9d979c8fae52accc231d.jar",
+      "name": "\\app\\kotlin-stdlib-jdk7-1.9.0-da269e4d8ff4ad661fef2b48449865c7.jar",
+      "size": 958,
+      "hash": "1120664710"
+    },
+    {
+      "name": "\\app\\kotlin-stdlib-jdk8-1.9.0-839527b2163b53e249924f77ad207216.jar",
       "size": 963,
-      "hash": "558404872"
-    },
-    {
-      "name": "\\app\\kotlin-stdlib-jdk8-1.8.0-34246294df79630616b9b6352ffcece.jar",
-      "size": 968,
-      "hash": "4112313689"
+      "hash": "2624453903"
     },
     {
       "name": "\\app\\kotlinx-coroutines-core-jvm-1.6.4-9ba1873872fe146d39bc46835c45.jar",
@@ -278,14 +283,9 @@
       "hash": "2704674890"
     },
     {
-      "name": "\\app\\kotlinx-serialization-core-jvm-1.4.1-a97020d828c89c7df2453bdfd1cd403a.jar",
-      "size": 391429,
-      "hash": "3720137763"
-    },
-    {
-      "name": "\\app\\kotlinx-serialization-json-jvm-1.4.1-9cd33c9b12c371a5d8934c97466eb70.jar",
-      "size": 230125,
-      "hash": "112291960"
+      "name": "\\app\\kotlinx-metadata-jvm-0.4.1-f0d120f9d44a9c3c85bafc0683faa33.jar",
+      "size": 1039581,
+      "hash": "2135348224"
     },
     {
       "name": "\\app\\line-awesome-desktop-1.0.0-6ad2a6d22e892d68732df73384c662.jar",
@@ -298,9 +298,19 @@
       "hash": "4084025488"
     },
     {
-      "name": "\\app\\logger-1.0.0-d4f3fbcfc380b188d122599fec5c1b4.jar",
+      "name": "\\app\\log4j-api-2.17.1-dfd5f2d81aba31583ee87fe16c7b78f8.jar",
+      "size": 301872,
+      "hash": "3294362494"
+    },
+    {
+      "name": "\\app\\log4j-core-2.17.1-8d2f5c5270336dae846b2c3ecde7a6e.jar",
+      "size": 1790452,
+      "hash": "556285814"
+    },
+    {
+      "name": "\\app\\logger-1.0.0-49d0325983955ccb0608fb3e5e2e3bf.jar",
       "size": 8521,
-      "hash": "292771155"
+      "hash": "1470986823"
     },
     {
       "name": "\\app\\lwjgl-3.3.1-268db624c57a2c8abad4587f873fa8d.jar",
@@ -363,19 +373,19 @@
       "hash": "2579150651"
     },
     {
-      "name": "\\app\\material-desktop-1.3.0-805f648b10fd38a6131dee330734127.jar",
-      "size": 1724387,
-      "hash": "244762543"
+      "name": "\\app\\material-desktop-1.4.3-48b412225215b8c55685673f472ab84.jar",
+      "size": 1822098,
+      "hash": "749309158"
     },
     {
-      "name": "\\app\\material-icons-core-desktop-1.3.0-e4f45f31dec875eeeb6e8e9e8eb2a7f5.jar",
-      "size": 754047,
-      "hash": "4033801602"
+      "name": "\\app\\material-icons-core-desktop-1.4.3-223ee2d7472869a15f7ca96c2eb5b966.jar",
+      "size": 754046,
+      "hash": "2090944547"
     },
     {
-      "name": "\\app\\material-ripple-desktop-1.3.0-c98fbd81cc22afec5722db468c90bdd2.jar",
-      "size": 54765,
-      "hash": "2246498698"
+      "name": "\\app\\material-ripple-desktop-1.4.3-58fa2590f61a505affceac8c2ed272a9.jar",
+      "size": 54843,
+      "hash": "75115923"
     },
     {
       "name": "\\app\\maven-api-meta-4.0.0-alpha-4-c6e3efad11749a50de4e828732d16931.jar",
@@ -413,9 +423,9 @@
       "hash": "4040527214"
     },
     {
-      "name": "\\app\\meteor-client-1.7-r2-b6fb3172e5d37c2a9b5d8aec83a459d.jar",
-      "size": 16627051,
-      "hash": "3728489124"
+      "name": "\\app\\meteor-client-1.7-r2-51a1cfba4432f24e8249456bbbe6fb.jar",
+      "size": 16688472,
+      "hash": "2726294590"
     },
     {
       "name": "\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -478,44 +488,59 @@
       "hash": "2113423175"
     },
     {
+      "name": "\\app\\proguard-base-7.2.2-30af87e669d7286a09bc383cd111ff0.jar",
+      "size": 895785,
+      "hash": "832202383"
+    },
+    {
+      "name": "\\app\\proguard-core-9.0.1-a624aec8a38e5e4f0e879528ef364ed.jar",
+      "size": 1569501,
+      "hash": "3731585828"
+    },
+    {
+      "name": "\\app\\proguard-gradle-7.2.2-f1a962a37ae986ceced44895cfb6f4db.jar",
+      "size": 70434,
+      "hash": "3942047205"
+    },
+    {
       "name": "\\app\\rlawt-1.3-80f8d83f50994aea5b5db591eb7d3af0.jar",
       "size": 161458,
       "hash": "2516601877"
     },
     {
-      "name": "\\app\\runtime-desktop-1.3.0-54ac464446fef98e10ecdf8b20442cc7.jar",
-      "size": 1067407,
-      "hash": "2024286035"
+      "name": "\\app\\runtime-desktop-1.4.3-f1b7399eb1984e3db434c1ee4c898d6.jar",
+      "size": 1079435,
+      "hash": "359824850"
     },
     {
-      "name": "\\app\\runtime-saveable-desktop-1.3.0-9042e5cee2f7d84106def62343a8877.jar",
-      "size": 53978,
-      "hash": "2471678310"
+      "name": "\\app\\runtime-saveable-desktop-1.4.3-539c50bdb18dbb348a0adb8fbd16b80.jar",
+      "size": 54028,
+      "hash": "4702922"
     },
     {
-      "name": "\\app\\scripts-1.0-SNAPSHOT-c34d51ecf8d08e7a2c987159084fb62.jar",
-      "size": 6699,
-      "hash": "816705173"
+      "name": "\\app\\scripts-1.0-SNAPSHOT-45c0128496dbed95b37d18253835fe9f.jar",
+      "size": 6646,
+      "hash": "1493730277"
     },
     {
-      "name": "\\app\\skiko-awt-0.7.50-f6f802814e7d5cbaca365b09fcbf7b8.jar",
-      "size": 1148225,
-      "hash": "1441185050"
+      "name": "\\app\\skiko-awt-0.7.63-1d5687da3a5a29bb2ba8d65895a5f747.jar",
+      "size": 1175105,
+      "hash": "357833318"
     },
     {
-      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.50-1777f7d837b96946df865521334c35.jar",
+      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.63-72ff8da01d69c5afbe17262527341bb.jar",
       "size": 293,
-      "hash": "1324763862"
+      "hash": "1584013100"
     },
     {
       "name": "\\app\\skiko-windows-x64.dll",
-      "size": 16768000,
-      "hash": "3448047504"
+      "size": 17016320,
+      "hash": "3446272080"
     },
     {
       "name": "\\app\\skiko-windows-x64.dll.sha256",
       "size": 64,
-      "hash": "481335213"
+      "hash": "913066213"
     },
     {
       "name": "\\app\\slf4j-api-2.0.6-dd65c386e8c5f4e6e14de3f7a7ae60.jar",
@@ -543,39 +568,39 @@
       "hash": "3549992907"
     },
     {
-      "name": "\\app\\ui-desktop-1.3.0-a7e94e2d777927f3ad9a25ad39acfba2.jar",
-      "size": 2334078,
-      "hash": "756244847"
+      "name": "\\app\\ui-desktop-1.4.3-83ac79788ecd73f5ee23d33da39ccfae.jar",
+      "size": 2428566,
+      "hash": "1134845465"
     },
     {
-      "name": "\\app\\ui-geometry-desktop-1.3.0-a0d6ff9ba67c3f65211665b139bcf5c.jar",
-      "size": 38145,
-      "hash": "2962290880"
+      "name": "\\app\\ui-geometry-desktop-1.4.3-d9bbc5c91cc85c97f4ceca4ca8d7f522.jar",
+      "size": 38171,
+      "hash": "3483422974"
     },
     {
-      "name": "\\app\\ui-graphics-desktop-1.3.0-59b535876d1f4c2a8ec6f15bf7e16c47.jar",
-      "size": 401746,
-      "hash": "781106483"
+      "name": "\\app\\ui-graphics-desktop-1.4.3-82aed9d29e327f1f9795a1dc05161.jar",
+      "size": 401769,
+      "hash": "1449108100"
     },
     {
-      "name": "\\app\\ui-text-desktop-1.3.0-66c6ff6b69306fe56b8e9748469ef7ab.jar",
-      "size": 626834,
-      "hash": "1154339226"
+      "name": "\\app\\ui-text-desktop-1.4.3-54c0153d9ec2fd425ae3f5b65de65a3.jar",
+      "size": 669168,
+      "hash": "3813597929"
     },
     {
-      "name": "\\app\\ui-tooling-preview-desktop-1.3.0-587b31f02a71b323d3a32a2991cb4b35.jar",
+      "name": "\\app\\ui-tooling-preview-desktop-1.4.3-90fb251bf3b78b5c6ef36ea9591a46f.jar",
       "size": 1863,
-      "hash": "2723672371"
+      "hash": "113281889"
     },
     {
-      "name": "\\app\\ui-unit-desktop-1.3.0-fa0f4cc64687b48417c78a5bf14718.jar",
-      "size": 68482,
-      "hash": "2869424832"
+      "name": "\\app\\ui-unit-desktop-1.4.3-b54b87337792fe78674ed5119601248.jar",
+      "size": 68789,
+      "hash": "1101145341"
     },
     {
-      "name": "\\app\\ui-util-desktop-1.3.0-8493905dc83f28d88ab0bc5efc673cb.jar",
-      "size": 6089,
-      "hash": "405842474"
+      "name": "\\app\\ui-util-desktop-1.4.3-b1d72a3f3f20bc84f56413199be16edb.jar",
+      "size": 6211,
+      "hash": "970184748"
     },
     {
       "name": "\\client.bat",
@@ -584,8 +609,8 @@
     },
     {
       "name": "\\client.exe",
-      "size": 475136,
-      "hash": "307490898"
+      "size": 472064,
+      "hash": "3154569009"
     },
     {
       "name": "\\client.ico",
