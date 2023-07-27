@@ -1,2 +1,2 @@
-"%USERPROFILE%\.meteor\launcher\client.exe"
+"\.meteor\launcher\client.exe"
 pause
