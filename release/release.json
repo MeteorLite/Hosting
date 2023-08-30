@@ -1,5 +1,5 @@
 {
-  "version": "292",
+  "version": "297",
   "updateInfo": "",
   "files": [
     {
@@ -18,9 +18,9 @@
       "hash": "3057595006"
     },
     {
-      "name": "\\app\\annotations-1.0.0-5c165b166e52d7d78b0a34cda140e8.jar",
+      "name": "\\app\\annotations-1.0.0-feff4f86a1ab1ab028192ebee31a821b.jar",
       "size": 8843,
-      "hash": "560006777"
+      "hash": "4250269830"
     },
     {
       "name": "\\app\\annotations-24.0.0-879614e1a8678b4db231a05cae8cdb3.jar",
@@ -28,9 +28,9 @@
       "hash": "3244549832"
     },
     {
-      "name": "\\app\\antlr4-runtime-4.8-1-f348edaf475bd7c733decd8f2bb84f.jar",
-      "size": 337869,
-      "hash": "894090182"
+      "name": "\\app\\antlr4-runtime-4.9.2-d4415e118671e52b7e202c848edb5641.jar",
+      "size": 337866,
+      "hash": "2803365716"
     },
     {
       "name": "\\app\\aopalliance-1.0-4177054e180d09e3998808efa41c7.jar",
@@ -38,14 +38,14 @@
       "hash": "964851370"
     },
     {
-      "name": "\\app\\api-1.0.4-9bd715abbb92827d109660113a37e8a9.jar",
+      "name": "\\app\\api-1.0.4-3729cc657d86dcc56d65455aa48d1.jar",
       "size": 1483104,
-      "hash": "722147016"
+      "hash": "1571748040"
     },
     {
-      "name": "\\app\\api-rs-1.0.0-fe7ea777e4398db6558d90a0f5a0ecbc.jar",
-      "size": 128429,
-      "hash": "438366490"
+      "name": "\\app\\api-rs-1.0.0-61d5c0e9c03e9d5423b2264d9c757720.jar",
+      "size": 128427,
+      "hash": "756429079"
     },
     {
       "name": "\\app\\atomicfu-jvm-0.17.0-9031dba6d62a5163d26260e9d1bda7c.jar",
@@ -58,9 +58,9 @@
       "hash": "1831433975"
     },
     {
-      "name": "\\app\\cache-e1ab74d07118f17b9745b3bda2f8990.jar",
+      "name": "\\app\\cache-e8848f645788984e7d04ad68f44d9f9.jar",
       "size": 429258,
-      "hash": "1518448314"
+      "hash": "3905007928"
     },
     {
       "name": "\\app\\checker-qual-3.12.0-ab1ae0e2f2f6361597a5a96fca8a54f.jar",
@@ -69,8 +69,8 @@
     },
     {
       "name": "\\app\\client.cfg",
-      "size": 10259,
-      "hash": "1045870437"
+      "size": 10407,
+      "hash": "2909416524"
     },
     {
       "name": "\\app\\color-picker-jvm-2ed58bcab85566b2167a85945efe6ea4.jar",
@@ -128,9 +128,9 @@
       "hash": "14832780"
     },
     {
-      "name": "\\app\\eventbus-1.0-SNAPSHOT-5d431f51729cedaa2737ba35cce73.jar",
+      "name": "\\app\\eventbus-1.0-SNAPSHOT-90d34ea5dbb3728f54ee6534c5757b.jar",
       "size": 47680,
-      "hash": "3678995432"
+      "hash": "3120313875"
     },
     {
       "name": "\\app\\failureaccess-1.0.1-91883993ef5bfa91da01dcc8fc52236.jar",
@@ -163,9 +163,9 @@
       "hash": "1068544661"
     },
     {
-      "name": "\\app\\gson-2.10.1-df6097815738cb31fc5639155321843.jar",
-      "size": 283367,
-      "hash": "3542709268"
+      "name": "\\app\\gson-2.8.9-e67627f67e3301092dc7de0a2d7cef8.jar",
+      "size": 258075,
+      "hash": "1967362356"
     },
     {
       "name": "\\app\\guava-31.1-jre-e37782d974104aa3b0a7bee9927c8042.jar",
@@ -173,14 +173,14 @@
       "hash": "1961953577"
     },
     {
-      "name": "\\app\\guice-4.0-969e114e22733923ba147331dd779ed5.jar",
-      "size": 668235,
-      "hash": "2617761537"
+      "name": "\\app\\guice-7.0.0-e352643d1c4d2acb76bdb7ee3855be6.jar",
+      "size": 801785,
+      "hash": "1543758841"
     },
     {
-      "name": "\\app\\http-1.0.0-cb13f7788cb0531674a8e5d32e605082.jar",
+      "name": "\\app\\http-1.0.0-ba4da92382b5641380e9b0f839a56654.jar",
       "size": 72085,
-      "hash": "50684411"
+      "hash": "803760972"
     },
     {
       "name": "\\app\\icudtl.dat",
@@ -188,14 +188,19 @@
       "hash": "1970433212"
     },
     {
-      "name": "\\app\\injected-client-87b545c9912e2fe5109c49448cc6c2a.jar",
-      "size": 1454166,
-      "hash": "2063809244"
+      "name": "\\app\\injected-client-1274fca17e067b963a6c11e332b2c0.jar",
+      "size": 1469834,
+      "hash": "1437144973"
     },
     {
       "name": "\\app\\j2objc-annotations-1.3-5fa4ec4ec0c5aa70af8a7d4922df1931.jar",
       "size": 8781,
       "hash": "2759705861"
+    },
+    {
+      "name": "\\app\\jakarta.inject-api-2.0.1-7203bf6efcc8455d414bbd7da86c11c.jar",
+      "size": 10681,
+      "hash": "1355988576"
     },
     {
       "name": "\\app\\java-semver-0.9.0-941796ff6a9db74db273abbdaf334e.jar",
@@ -248,9 +253,9 @@
       "hash": "541077999"
     },
     {
-      "name": "\\app\\kotlin-logging-jvm-3.0.4-14678ae4f82fa07d3913ac0c758dfb.jar",
-      "size": 43490,
-      "hash": "3430834153"
+      "name": "\\app\\kotlin-logging-jvm-3.0.5-874d1037e01e1afa916eb1acb5e5e81.jar",
+      "size": 43916,
+      "hash": "1301185821"
     },
     {
       "name": "\\app\\kotlin-reflect-1.9.0-0ae32579166e8e9e8a6cf5c1baec19.jar",
@@ -308,9 +313,9 @@
       "hash": "556285814"
     },
     {
-      "name": "\\app\\logger-1.0.0-49d0325983955ccb0608fb3e5e2e3bf.jar",
+      "name": "\\app\\logger-1.0.0-79f3a68a6e22e9cbc5ddfd18ac1f33be.jar",
       "size": 8521,
-      "hash": "1470986823"
+      "hash": "792282216"
     },
     {
       "name": "\\app\\lwjgl-3.3.1-268db624c57a2c8abad4587f873fa8d.jar",
@@ -423,9 +428,9 @@
       "hash": "4040527214"
     },
     {
-      "name": "\\app\\meteor-client-1.7-r2-51a1cfba4432f24e8249456bbbe6fb.jar",
-      "size": 16688472,
-      "hash": "2726294590"
+      "name": "\\app\\meteor-client-1.7-r2-3fb172931939925a35cb84c3f19a97.jar",
+      "size": 16703440,
+      "hash": "1409416708"
     },
     {
       "name": "\\app\\miglayout-3.7.4-9c9d6eec22be1145a4fb4cb149c48e.jar",
@@ -433,14 +438,14 @@
       "hash": "385887944"
     },
     {
-      "name": "\\app\\netty-buffer-4.1.54.Final-1241e035fdedbdc839c18d889da35b79.jar",
-      "size": 296335,
-      "hash": "1841195020"
+      "name": "\\app\\netty-buffer-4.1.68.Final-e1e3de14cee314c3f019b544758f381.jar",
+      "size": 301820,
+      "hash": "1619359599"
     },
     {
-      "name": "\\app\\netty-common-4.1.54.Final-cdf4e938fcb88791aa19a2e7ccccbd93.jar",
-      "size": 646075,
-      "hash": "3917166273"
+      "name": "\\app\\netty-common-4.1.68.Final-d8ce49acebde39147e7f1d2236dd27a.jar",
+      "size": 653106,
+      "hash": "2482823443"
     },
     {
       "name": "\\app\\octicons-desktop-1.0.0-7e2a59ab3313729206cae3b4d134f10.jar",
@@ -448,14 +453,14 @@
       "hash": "3977277930"
     },
     {
-      "name": "\\app\\okhttp-jvm-5.0.0-alpha.11-d6aa1c7df5306256cf3a112ab5d2953.jar",
-      "size": 853954,
-      "hash": "2194274803"
+      "name": "\\app\\okhttp-4.9.2-48405243cd3ca3bed3e41fe1d9081f9.jar",
+      "size": 792108,
+      "hash": "268756472"
     },
     {
-      "name": "\\app\\okio-jvm-3.2.0-93417dbcbbb0e56d272b7ad5b28afede.jar",
-      "size": 345115,
-      "hash": "396588268"
+      "name": "\\app\\okio-jvm-2.8.0-48756cee44c4f8403ebd7a8152ea5ba.jar",
+      "size": 243179,
+      "hash": "98061850"
     },
     {
       "name": "\\app\\org.eclipse.sisu.inject-0.3.5-1b296bddd911ed375b3df93b395cd5.jar",
@@ -466,6 +471,11 @@
       "name": "\\app\\org.eclipse.sisu.plexus-0.3.5-30c4a9fa2137698ed66c8542f1be196a.jar",
       "size": 205307,
       "hash": "2577894613"
+    },
+    {
+      "name": "\\app\\osrs-1.0-SNAPSHOT-7286b0153a7a5f83747b23aae1f53b4.jar",
+      "size": 1445905,
+      "hash": "3904133310"
     },
     {
       "name": "\\app\\plexus-classworlds-2.6.0-67e722b27e3a33b33c1b263b99dd7c43.jar",
@@ -518,9 +528,9 @@
       "hash": "4702922"
     },
     {
-      "name": "\\app\\scripts-1.0-SNAPSHOT-45c0128496dbed95b37d18253835fe9f.jar",
+      "name": "\\app\\scripts-1.0-SNAPSHOT-1a3dfd6d1ddfb66c8a819c81454b7f39.jar",
       "size": 6646,
-      "hash": "1493730277"
+      "hash": "577983270"
     },
     {
       "name": "\\app\\skiko-awt-0.7.63-1d5687da3a5a29bb2ba8d65895a5f747.jar",
@@ -528,9 +538,9 @@
       "hash": "357833318"
     },
     {
-      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.63-72ff8da01d69c5afbe17262527341bb.jar",
+      "name": "\\app\\skiko-awt-runtime-windows-x64-0.7.63-85574b20a4ebffc1cf437b3ae117988.jar",
       "size": 293,
-      "hash": "1584013100"
+      "hash": "2887718414"
     },
     {
       "name": "\\app\\skiko-windows-x64.dll",
